@@ -141,3 +141,4 @@ Kết quả: `iot102_slides/slide_001.png`, `slide_002.png`, ... và `manifest.j
 Không tự cho đáp án khi tài liệu không cung cấp hoặc chưa xác minh. Những slide không phải câu hỏi thì bỏ qua. Kiểm tra thủ công các ảnh mờ hoặc có overlay.
 
 Nếu lỗi 403: kiểm tra tài khoản đang cấp OAuth, quyền Viewer, và chính sách download/copy của chủ sở hữu. Không dùng token đăng nhập từ DevTools hay cookie thô.
+# iot-pass
