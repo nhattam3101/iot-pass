@@ -1,0 +1,2562 @@
+{
+  "createdAt": "2026-11-20T09:17:41.296481+00:00",
+  "source": "365 local PNG renders",
+  "networkUsed": false,
+  "slides": [
+    {
+      "slideNumber": 1,
+      "image": "slide_001.png",
+      "text": "Thong tin source & Rule\n\nC6 hdi gi vé src thi xem link trén da xong héi",
+      "confidence": 85,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 2,
+      "image": "slide_002.png",
+      "text": "IOT ky fa26 nay hoc hiéu\nkem cho a nhe\n\nKha nang cao trung it vi 6 ky trung Ituc r",
+      "confidence": 87,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 3,
+      "image": "slide_003.png",
+      "text": "Tai ligu doc hiéu",
+      "confidence": 84,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 4,
+      "image": "slide_004.png",
+      "text": "~ 4EXAM Trangchi Diéndan Médnhoc | Q Tim kiém thao Ivan, tai ligu\n\nCHIA SE\n\nKIEN THUC\n\nMay dtra lén website hoc dé ci nhé,\nhoc xong src lén do cmt cho nho’\nBam link:",
+      "confidence": 79,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 5,
+      "image": "slide_005.png",
+      "text": "@ Dif liéu cap nhat ngay hém nay 158.937 Cau hdi ngan hang\n\nHé thoéng tai liu hoc tap Dai hoc FPT\n\nTim kiém m6n hoc va luyén dé thi cac ky nhanh chong, chuan xac theo\nsyllabus mdi nhat cua FPT University.\n\nhttps://www.fuflex.site/",
+      "confidence": 83,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 6,
+      "image": "slide_006.png",
+      "text": "Update dap an slide",
+      "confidence": 96,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 7,
+      "image": "slide_007.png",
+      "text": "Support FA25\n\nCEA, CSI\n\n@ nwo o:\nHoang +\n\nDBI, CSD\n\nPRF, PFP,PRO\n\nHoang Hoang rename...\n\nOLerr\nee AHOANG\n\nHAN CHE NHAN CHO SHO\nBOC HET TIN NHAN GHIM ROI LAM | es Sees at",
+      "confidence": 68,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 8,
+      "image": "slide_008.png",
+      "text": "Source pt tham khao\n\nhttps://drive.google.com/drive/folders/1_wDf1CQSkCtLra1P\nXxbME45SK83jrA34p?usp=drive_link",
+      "confidence": 79,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 9,
+      "image": "slide_009.png",
+      "text": "NGUON THAM KHAO THEM\n\nQuizlet: https://quizlet.com/vn/641688634/iot102-flash-cards/",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 10,
+      "image": "slide_010.png",
+      "text": "DANG BAI TAP",
+      "confidence": 94,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 11,
+      "image": "slide_011.png",
+      "text": "What is the default baud rate for communication in the HC-05 Bluetooth module?\nA. 9600\n\nB. 115200\n\nC. 38400\n\nD. 19200\n\n9) Hodng Hodng Bu6én Source",
+      "confidence": 88,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 12,
+      "image": "slide_012.png",
+      "text": "What is the maximum DC current per I/O pin on the Arduino Uno?\nA. 20 mA\nB. 40 mA\nC.50 mA\n\nD. 100 mA\n\n© Hoang Hodng Buén Source",
+      "confidence": 83,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 13,
+      "image": "slide_013.png",
+      "text": "What is the maximum value a single number can have in an IPv4 address?\nA. 255\n\nB. 128\n\nC. 1024\n\nD. 512\n\n© Hoang Hodng Buén Source",
+      "confidence": 88,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 14,
+      "image": "slide_014.png",
+      "text": "What is the maximum input voltage limit for an Arduino Uno?\nA. 6-20 V\n\nB. 5-15 V\n\nC.7-17V\n\nD. 10-20 V\n\n© Hoang Hodng Buén Source",
+      "confidence": 79,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 15,
+      "image": "slide_015.png",
+      "text": "What is the output of “pin1” if “pin2” is sent “1011” where 1 is 5V and 0 is OV?\n\nint pint = 12;\nint pin2 = 11;\n\nvoid setup() {\npinMode(pin1, OUTPUT);\npinMode(pin2, INPUT);\nSerial. begin(9600);\n\n}\n\nvoid loop() {\nif(digitalRead(pin2)==1) {\ndigitalWrite(pin1 ,LOW);\n\nelse if(digitalRead(pin2)==0) {\ndigitalWrite(pin1 ,HIGH);\n\n}\n\n}\n\nA. 1110\nB. 0100\nCc. 1111\nD. 1011\n\nIf\"1011\" is sent to pin2 (interpreted bit by bit):\n. For the first bit (1 — HIGH): pina = Low.\n. For the second bit (@ — LOW): pin1 = HIGH.\n. For the third bit (1 — HIGH): pina = Low.\n\n. For the fourth bit (1 — HIGH): pina = Low.\n\nOutput of pin1:\n\nThe sequence of outputs for pin1 is:\n\nLOW, HIGH, LOW, LOW.",
+      "confidence": 87,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 16,
+      "image": "slide_016.png",
+      "text": "What is the objective of the code given below if it is executed on the Arduino Uno?\n1 #include <EEPROM.h>\n\n2.int pin = 13;\n\n3.void setup() {\n\n4.pinMode(pin, OUTPUT);\n\n5 .Serial.begin(9600);\n\n6}\n\n7.void loop() {\n\n8 for (int i = 0; i < EEPROM.length(); i++) {\n9.EEPROM.write(i, 1);\n\n10}\n\n11 .digitalWrite(pin, HIGH).\n\n12.exit(0);\n\n13}\n\nA. Clear EEPROM\n\nB. Fill EEPROM with 1’s\n\nC. Export EEPROM data\n\nD. Fill EEPROM with 0’s",
+      "confidence": 86,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 17,
+      "image": "slide_017.png",
+      "text": "What is the time period of the output signal of the program given below?\n1 int pin=10;\n2 void setup() {\n\n3. Serial.begin(9600);\n4 pinMode(pin, OUTPUT);\n\n5. }\n\n6. void loop() {\n7.digitalWrite(pin, HIGH);\n8.delay(10);\n\n9 digitalWrite(pin, LOW);\n10.delay(10):\n\n11.}\n\nA. 20 Microseconds\n\nB. 100 Milliseconds\n\nC. 10 Milliseconds\nD. 20 Milliseconds\n\n© Hoang Hoang Buén Souréé",
+      "confidence": 84,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 18,
+      "image": "slide_018.png",
+      "text": "What is the purpose of the following Arduino code?\nvoid setup() {\n\nSerial.begin(9600);\n}\n\nvoid setup() {\nSerial.write(40);\n}\n\nA. Send a signal to pin 40 on the Arduino board\n\nB. Send a octal number of 40 through the Serial pins\n\nC. Send a byte with value 40 through the Serial pins\n\nD. Send a hexadecimal number of 40 through the Serial pins\n\n© Hoang Hodng Buén Source",
+      "confidence": 93,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 19,
+      "image": "slide_019.png",
+      "text": "What is the output of the program given below if a voltage of 5V is supplied to the pin corresponding\nto the AO pin on an Arduino UNO?\n\nvoid setup() {\n\nSerial. begin(9600);\n\npinMode(A0, INPUT);\n\n}\n\nvoid loop() {\n\nint s = analogRead(A0);\n\nSerial.printin(s);\n\n} Hoang Hoang\n\nA.0\n\nB. 1023\nC. Null\nD. Error\n\n© Hoang Hodng Buén Source",
+      "confidence": 87,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 20,
+      "image": "slide_020.png",
+      "text": "What is the operating voltage of the Arduino Uno/ATmega328?\nA.3.3V\n\nB. 6-20 V\n\nC.5V\n\nD. 7-12 V\n\n© Hoang Hodng Buén Source",
+      "confidence": 82,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 21,
+      "image": "slide_021.png",
+      "text": "What is the input voltage limit of Arduino Uno Rev3?\nA.7~12V\nB.3.3-5V\nC. 6-20 V\nD.1.5-9V\n\n© Hoang Hodng Buén Source",
+      "confidence": 78,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 22,
+      "image": "slide_022.png",
+      "text": "What is the voltage at which the ESP8266 chip works?\nA. 3.3V\nB. 05V\nC.12V\nD. 24V\n\n© Hoang Hodng Buén Source",
+      "confidence": 85,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 23,
+      "image": "slide_023.png",
+      "text": "What is the operating voltage of Atmega328?\nA. 1.9V to 5V\n\nB. 1.8V to 5.5V\n\nC. 1.1V to 5V\n\nD. 1.2V to 9V\n\n© Hoang Hodng Buén Source",
+      "confidence": 86,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 24,
+      "image": "slide_024.png",
+      "text": "What is the clock speed of the ATmega328 microcontroller used in the Arduino Uno?\nA. 12 MHz.\n\nB. 8 MHz.\n\nC. 24 MHz.\n\nD. 16 MHz.\n\n@ Hoang Hodng Buén Source",
+      "confidence": 88,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 25,
+      "image": "slide_025.png",
+      "text": "What is the operating voltage of the Arduino Uno/ATmega328?\nA.3.3V\n\nB. 6-20 V\n\nC.5V\n\nD.7-12V\n\n7) Hoang Hodng Buén Source",
+      "confidence": 80,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 26,
+      "image": "slide_026.png",
+      "text": "What is the recommended input voltage for an Arduino Uno?\nA.5-10V\n\nB.7-12V\n\nC.9-15V\n\nD. 11-16 V\n\n© Hoang Hodng Buén Source",
+      "confidence": 86,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 27,
+      "image": "slide_027.png",
+      "text": "What is the clock speed for the microcontroller of Arduino Uno R3?\nA.5 MHz\n\nB. 8 MHz\n\nC. 10 MHz\n\nD. 16 MHz\n\n© Hoang Hoang Buén Souréé",
+      "confidence": 84,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 28,
+      "image": "slide_028.png",
+      "text": "What is the size of the EEPROM of the Arduino Uno R3?\nA.1KB\nB.2 KB\nC.4KB\nD.8 KB\n\n© Hoang Hodng Buén Source",
+      "confidence": 89,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 29,
+      "image": "slide_029.png",
+      "text": "What is the size of the SRAM of the Arduino Uno R3? Hoang Hoang\nA.1KB\n\nB.2 KB\nC.4KB\nD. 8 KB\n\n7) Hoang Hodng Buén Source",
+      "confidence": 88,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 30,
+      "image": "slide_030.png",
+      "text": "What is the size of the flash memory of the microcontroller of Arduino Uno Rev3?\nA. 32 KB\n\nB. 40 KB\n\nC. 64 KB\n\nD. 128 KB\n\n© Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 31,
+      "image": "slide_031.png",
+      "text": "What is the resolution of analog readings on the Arduino Uno?\nA. 5V/1023\n\nB. 3.3V/1024\n\nC. 5V/1024\n\nD. 3.3V/1023\n\nVief\n1\n\nResolution —\n\n© Hoang Hodng Buén Source",
+      "confidence": 83,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 32,
+      "image": "slide_032.png",
+      "text": "What is the purpose of the following Arduino code? Hoang Hoang\nvoid setup() {\nSerial.begin(9600);\n\n}\n\nvoid setup() {\nSerial.write(40);\n}\n\nA. Send a signal to pin 40 on the Arduino board\n\nB. Send a octal number of 40 through the Serial pins\n\nC. Send a byte with value 40 through the Serial pins\n\nD. Send a hexadecimal number of 40 through the Serial pins\n\n© Hodng Hodng Buén Souree",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 33,
+      "image": "slide_033.png",
+      "text": "What is the frequency band of Bluetooth technology?\n\nA. 2.4 to 2.78 GHz\nB. 2.4 to 2.48 GHz\nC. 2.4 to 2.68 GHz\nD. 2.4 to 3.18 GHz\n\n© Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 34,
+      "image": "slide_034.png",
+      "text": "What is the correct syntax to make a digital pin (say D7) as an output pin?\n\nA. pinMode(7, output)\nB. pinMode(7, Output)\nC. pinMode(7, OUTPUT)\nD. pinmode(7, OUTPUT)\n\n© Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 35,
+      "image": "slide_035.png",
+      "text": "What is the correct syntax to output a string like: \"I like loT\" in C program?\n\nA. System.out.printin(\"l like loT\");\nB. Console writeLine(\"! like loT\");\nC. System.output(\"! like loT\");\n\nD. printf(\"I like loT\"):\n\n© Hoang Hodng Buén Source",
+      "confidence": 80,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 36,
+      "image": "slide_036.png",
+      "text": "What are the two pins of Arduino Uno for I2C protocol?\nA. A1, A2\nB. D1, D2\nC. A4, A5\nD. D4, D5\n\n© Hoang Hodng Buén Source",
+      "confidence": 83,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 37,
+      "image": "slide_037.png",
+      "text": "What will be the output of the following Arduino code?\n#define X 10;\n\nvoid setup(){\n\nX=0:\nSerial.begin(9600);\nSerial.print(X);\n\n}\n\nvoid loop()}{\n//Do nothing..\n}\n\nA. 0xAB\nB. Oxa\nCc\nD.\n\n0\nError\n\n© Hoang Hoang Buén Source",
+      "confidence": 80,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 38,
+      "image": "slide_038.png",
+      "text": "What will be the output of the following Arduino code?\n#define X 10;\n\nvoid setup(}{\n\nX=0;\n\nSerial.begin(9600);\n\nSerial.print(X);\n\n}\n\nvoid loop(}\n//Do nothing..\n}\n\nA. 0xAB\nB. Oxa\nc.0\n\nD. Error\n\n© Hoang Hodng Buén Source",
+      "confidence": 85,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 39,
+      "image": "slide_039.png",
+      "text": "hat pins of Arduino Uno are the external interrupt pins?\n\n2,3\n\n3,4\n6\n8\n\n© Hoang Hodng Buén Source",
+      "confidence": 89,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 40,
+      "image": "slide_040.png",
+      "text": "What resistance value does a resistor with brown, black, and red bands indicate?\nA.1kO\nB. 10 kO\nCc. 100 0\nD.10\nGia tri dién tré — (Gid tri dai thir nhat x 10 + Gid tri dai thit hai) x Hé s6 nhan\n\nAp dung ca¢gia tri mau ban da cung cap:\n\nDai thi nhat (Nau - Brown): Gid tri 1\n© Dai th hai (Ben - Black): Gid tri 0\n© Dai thi ba (Bé - Red): Hé s6 nhan 100\n\nThay cdc gid tri vao céng thie:\n\nGia tri dién tro = (1 x 10 + 0) x 100 = 10 x 100 = 10002\n\n@ Hoang Hodng Buén Source",
+      "confidence": 82,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 41,
+      "image": "slide_041.png",
+      "text": "What happens to the LED's blink rate in the given code when the potentiometer is turned all the way\n\nto provide the maximum voltage to the analog pin?\n\nconst int ledPin = 13:\nconst int sensorPin = AO;\nint sensorValue = 0;\n\nvoid setup() {\npinMode(ledPin, OUTPUT);\nSerial.begin(9600);\n\n}\n\nvoid loop() {\n\nsensorValue = analogRead(sensorPin);\nSerial printin(sensorValue);\ndigitalWrite(ledPin, HIGH);\ndelay(sensorValue);\n\ndigitalWrite(ledPin, LOW);\ndelay(sensorValue);\n\nA. The LED blinks faster.\n\nB. The LED blinks slower.\n\nC. The LED stops blinking\n\nD. The LED blinks at a constant rate regardless of the potentiometer's position\n\n© Hoang Hodng Buén Source",
+      "confidence": 89,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 42,
+      "image": "slide_042.png",
+      "text": "What does the analogRead() function return when the potentiometer is turned all the way to connect\nwith the +5 volts?\n\nA.0\n\nB. Between 1 and 1022\nC. 1023\n\nD.5\n\n7) Hoang Hodng Buén Source",
+      "confidence": 89,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 43,
+      "image": "slide_043.png",
+      "text": "What type of microcontroller does the Arduino use?\nA. 32-bit microcontroller\n\nB. 8-bit microcontroller\n\nC. 16-bit microcontroller\n\nD. 64-bit microcontroller\n\n@ Hoang Hodng Buén Source",
+      "confidence": 87,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 44,
+      "image": "slide_044.png",
+      "text": "Which digit does the color violet denote on the first color band of a resistor?\nA.2\nB.5\nc.4\n\nD.7\n\n© Hoang Hodng Buén Source",
+      "confidence": 88,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 45,
+      "image": "slide_045.png",
+      "text": "Which communication range has a distance of about 10cm?\nA. NFC\n\nB. RF\nC. Wifi\nD. Bluetooth\n\n9) Hodng Hodng Bu6én Source",
+      "confidence": 86,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 46,
+      "image": "slide_046.png",
+      "text": "Which component is referred to as the ‘brain’ of the Arduino?\n\nA. ATMega328\n\nB. 16 MHz crystal\n\nC. FTDI USB-to-Serial chip\nD. Power regulator\n\n© Hoang Hodng Buén Source",
+      "confidence": 87,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 47,
+      "image": "slide_047.png",
+      "text": "Which category of actuators includes mechanisms that utilize air pressure to control or move\nobjects?\n\nA. Electrical\nB. Mechanical\nC. Hydraulic\nD. Pneumatic\n\n© Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 48,
+      "image": "slide_048.png",
+      "text": "What type of interface is typically used by a fingerprint sensor?\n\nA. UART interface\nB. CoAP interface\nC. SPI interface\nD. |2P interface\n\n© Hoang Hodng Buén Source",
+      "confidence": 88,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 49,
+      "image": "slide_049.png",
+      "text": "Which component on tinkercad.com allows displaying the results of the simulation program?\n\nA. Components\nB. Send to\n\nC. Start simulation\nD. Serial monitor\n\n© Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 50,
+      "image": "slide_050.png",
+      "text": "Which board is commonly used for loT projects?\n\nA. Raspberry Pi\n\nB. Arduino UNO\n\nC. BeagleBone Black\nD. All of the above\n\n7) Hoang Hodng Buén Source",
+      "confidence": 89,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 51,
+      "image": "slide_051.png",
+      "text": "Which Arduino model is most commonly used by beginners due to its simplicity and affordability?\n\nA. Due\nB. Uno\nC. Esplora\nD. LilyPad\n\n© Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 52,
+      "image": "slide_052.png",
+      "text": "Which software is used to upload the Arduino Sketches to the board?\n\nA. Avrgcc\n\nB. g++\n\nC. cpython for windows\nD. Avrdude\n\n© Hoang Hodng Buén Source",
+      "confidence": 89,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 53,
+      "image": "slide_053.png",
+      "text": "Which function to retrieve text sent from the computer? Hoang Hoang\nA. Serial.readStringUntil(‘\\n’)\n\nB. ReadStringUntil(‘\\n')\nC. Serial.readingStringUntil(‘\\n')\n\n© Hoang Hodng Buén Source",
+      "confidence": 83,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 54,
+      "image": "slide_054.png",
+      "text": "Why is the delay(1000); function used in the Arduino sketch for blinking an LED?\n\nA. To increase the voltage supplied to the LED.\nB. To turn the LED off.\n\nC. To keep the LED on or off for a visible amount of time.\nD. To set the LED_BUILTIN pin as an input.\n\n@ Hoang Hodng Buén Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 55,
+      "image": "slide_055.png",
+      "text": "How many bits are in an IPv6 address?\nA.8\n\nB. 32\n\nC. 64\n\nD. 128\n\n© Hoang Hodng Buén Source",
+      "confidence": 84,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 56,
+      "image": "slide_056.png",
+      "text": "How many parts of a complete loT system?\n\nSaOm>\nOnt wo\n\n© Hoang Hodng Buén Source",
+      "confidence": 76,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 57,
+      "image": "slide_057.png",
+      "text": "How many errors are present in the code given below?\nint pin1=12;\n\nvoid setup() {\npinmode(pin1, IN);\nSerial.begin(9600)\n}\n\nvoid loop() {\n\nint value=analogRead(pin1);\nSerial.printin(value);\n\nDODD\nwh\n\n© Hoang Hodng Buén Source",
+      "confidence": 83,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 58,
+      "image": "slide_058.png",
+      "text": "How much space of flash memory does the default bootloader of Arduino Uno take?\nA. 0.5 KB\nB. 1 KB\n\nC. 16 KB\nD. 32 KB\n\ne Flash memory: 32 KB, of which 0.5 KB used by the\nbootloader\n\n7) Hoang Hodng Buén Source",
+      "confidence": 83,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 59,
+      "image": "slide_059.png",
+      "text": "How many pins on Arduino Uno R3 support the pulse width modulation (PWM)?\n\nCOM>\naooun\n\nPWM pins in Arduino:\n\nArduino Uno R3 has 6 PWM pins that are 3, 5, 6, 9, 10, and 11. These pins\nare marked with the negation sign “ ~ “. These pins can generate a pulse as\nper the given inputs. Arduino supports an 8-bit wide pulse that can have\n256 possible levels (0 to 255).\n\nhttps://www.geeksforgeeks.org/analog-write-and-working-of-pwm-in-arduino/\n\n@ Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 60,
+      "image": "slide_060.png",
+      "text": "How many bits does the TCS34725 use for its ADC resolution?\nA. 10-bit with oversampling\n\nB. 16-bit\n\nC. 12-bit with gain stages\n\nD. 14-bit in fast mode\n\n9) Hodng Hodng Bu6én Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 61,
+      "image": "slide_061.png",
+      "text": "How many bits are in an IPv4 address?\n\nA.4\n\nB. 16\nC. 32\nD. 64\n\n© Hoang Hodng Buén Source",
+      "confidence": 87,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 62,
+      "image": "slide_062.png",
+      "text": "How many groups are an |Pv6 represented?\n\nA.4\nB.8\nC. 12\nD. 16\n\n© Hoang Hodng Buén Source",
+      "confidence": 84,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 63,
+      "image": "slide_063.png",
+      "text": "How many bits are there in a nibble?\n\nDOm>\nont Wh\n\nOne nibble equals four bits.\n\nIn computing, the term “nibble” (occasionally, the term nybble is used to\nspell bytes) can also be defined as a 4-bit aggregate known as half an\nOctet.\n\n© Hoang Hodng Buén Source",
+      "confidence": 89,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 64,
+      "image": "slide_064.png",
+      "text": "How many pins are there in a 7-segment LED display?\n\nA.5\n\n908\n= oN\n\ntotal: 10\n\ne dcomc op\n\n9) Hoang Hodng Buén Source",
+      "confidence": 76,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 65,
+      "image": "slide_065.png",
+      "text": "How many parts of a complete loT system? Hoang Hoang\n\nCODY\nankw\n\nEach application and example of loT\nhighlights four different integrations of\nelements: Sensors/devices,\nConnectivity, Data Processing, and\nUser Interface. 25 thg 7, 2022\n\n© Hoang Hodng Buén Source",
+      "confidence": 88,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 66,
+      "image": "slide_066.png",
+      "text": "How many bits are in an |Pv4 address?\n\nA.4\n\nB. 16\nC. 32\nD. 64\n\n9) Hodng Hodng Bu6én Source",
+      "confidence": 85,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 67,
+      "image": "slide_067.png",
+      "text": "How many pins are there in a servo motor?\n\ncoOm>r\nOpWwWNM\n\n© Hodng Hodng Buén Souree",
+      "confidence": 73,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 68,
+      "image": "slide_068.png",
+      "text": "A part of an Arduino sketch is as follows: digitalWrite(13, HIGH); delay(1000); digitalWrite(13,\n\nLOW), delay(1000):\nHow long is the built-in LED on?\n\nA. 1000 seconds\nB. 100 seconds\n\nC. 1 second\n\nD. 100 milliseconds\n\n© Hoang Hodng Buén Source",
+      "confidence": 89,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 69,
+      "image": "slide_069.png",
+      "text": "A part of an Arduino sketch is as follows: digitalWrite(11, HIGH); delay(300); digitalWrite(11, LOW);\ndelay(200);\n\nWhat is the frequency of the waveform at digital pin D11?\n\nA.2 Hz\n\nB. 3 kHz\nC. 10 kHz\nD. 15 MHz\n\n© Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 70,
+      "image": "slide_070.png",
+      "text": "If the following are the parameters of ADC, Vref = 5V, and a 10-bit A/D output code is 0x1AB, what\nis the ADC input voltage?\n\nA. 1.685V\nB. 2.085V\nC. 1.885V\nD. 2.285V\n\nSteps:\n\n1. Convert Output Code (021 AB) to decimal:\n\n021AB = 427 (in decimal)\nOutput Code 2. Calculate the maximum ADC value for a 10-bit ADC:\nVin = ( = ) ref »\n27 —1 2-1 1 = 1023\n3. Substitute values into the formula:\nVin = “5\n0\n@ Hodng Hodng Bu6én So\n\n4. Perform the calculation:",
+      "confidence": 85,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 71,
+      "image": "slide_071.png",
+      "text": "If a resistor has bands of yellow, violet, and orange, what would be its resistance value?\n\nA. 43 kilo Ohms\nB. 470 Ohms\n\nC. 47 kilo Ohms\nD. 4.7 kilo Ohms\n\n© Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 72,
+      "image": "slide_072.png",
+      "text": "If the following are the parameters of ADC, Vref = 5V, and a 10-bit A/D output code is 0x1AB, what\nis the ADC input voltage?\n\nA. 1.685V\nB. 2.085V\nC. 1.885V\nD. 2.285V\n\n7) Hoang Hodng Buén Source",
+      "confidence": 88,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 73,
+      "image": "slide_073.png",
+      "text": "In code: pinMode(2, INPUT_PULLUP); When the button is not pressed, and the internal pull-up\nresistor is enabled on digital pin 2, what is the voltage level on this pin?\n\nA. 0 volts\n\nB. 5 volts\n\nC. 3.3 volts\n\nD. It depends on the button's position\n\n@ Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 74,
+      "image": "slide_074.png",
+      "text": "If a resistor has bands of yellow, violet, and orange, what would be its resistance value?\nA. 43 kilo Ohms\n\nB. 470 Ohms\n\nC. 47 kilo Ohms\n\nD. 4.7 kilo Ohms\n\n© Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 75,
+      "image": "slide_075.png",
+      "text": "In circuit design, choose the correct usage for the LED component with Arduino board\n\nA. Anode of the LED component will indirectly connected by a resistor to 5V pin in Arduino board\nand cathode of the LED component is connected to the AO pin in the Arduino board.\n\nB. Anode of the LED component will indirectly connected by a resistor to 5V pin in Arduino board\nand the cathode of the LED component is connected to the 3V pin in the Arduino board\n\nC. Anode of the LED component will indirectly connected by a resistor to 5V pin in Arduino board\nand cathode of the LED component is connected to the 5V pin in the Arduino board.\n\nD. Anode of the LED component will indirectly connected by a resistor to a 5V pin in Arduino board\nand cathode of the LED component is connected to the TX pin in the Arduino board\n\n@ Hoang Hodng Buén Source",
+      "confidence": 94,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 76,
+      "image": "slide_076.png",
+      "text": "The first three color bands of a 4-band resistor are brown, green, and yellow. What is its value?\n\nA. 364 Ohm\nB. 150k Ohm\nC.65 Ohm\n\nD. 2800 Ohm\n\n© Hoang Hodng Buén Source",
+      "confidence": 89,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 77,
+      "image": "slide_077.png",
+      "text": "The digital pin D2 of Arduino Uno generates a square wave, making an LED on for 1 second and off\n\nfor 4 seconds. If the LED’s anode is connected to 5 V and the LED's cathode is connected to pin\nD2, what is the duty cycle of this square wave?\n\nA. 20%\nB. 25%\nC. 80%\nD. 90%\n\n7) Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 78,
+      "image": "slide_078.png",
+      "text": "To declare a variable that stores the value read from analog pin AO, what data type is this variable?\nA. String\n\nB. Single\n\nC. Double\n\nD. Int\n\n© Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 79,
+      "image": "slide_079.png",
+      "text": "P. V, and | denote the power, voltage, and current, respectively. Which formula is correct?\n\nA.P=V’2xR\nB.P=V‘’2/R\nC.P=VxI*2\nD. P=VII*2\n\nP= V42/R = I*2.R\n\n© Hoang Hodng Buén Source",
+      "confidence": 77,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 80,
+      "image": "slide_080.png",
+      "text": "For a voltage divider circuit with R1 = 10k Ohm and R2 = 15k Ohm. If Vin = 12V and Vout is the\nvoltage between two ends of R1, what is the value of Vout?\n\nA.48V\nB.4V\nC.8V\nD.7.2V\n\n10kO\nVe = J x12V\n\n10kQ + 15kQ Ril\n\nVou ——. X Vin\n*~ Ri + R2 ~\n\nWhere:\n¢ R1=10k2\ne R2=15kN\n\n° Vn =12V\n\n© Hoang Hodng Buén Source",
+      "confidence": 79,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 81,
+      "image": "slide_081.png",
+      "text": "Given the nominal voltage of an AAA battery is 1.5 V, what is the nominal voltage of 5 AAA batteries\nconnected in parallel?\n\nA.6V\nB.7.5V\nC.9V\nD.1.5V\n\n© Hoang Hodng Buén Source",
+      "confidence": 89,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 82,
+      "image": "slide_082.png",
+      "text": "Given an array as follows: [4, 1, 2, 9, 8]. How is the array like after the first round of Bubble sort?\n\nA. 4, 1,2, 9,8\nB. 1, 2, 4, 8,9\nC.1,4,2,8,9\nD.1,4,2,9,8\n\n© Hoang Hodng Buén Source",
+      "confidence": 85,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 83,
+      "image": "slide_083.png",
+      "text": "On the Arduino Uno, how many analog input pins are available, and how many of the digital\ninput/output pins can be used as PWM outputs?\n\nA. Analog Inputs: 6, PWM Outputs: 6\nB. Analog Inputs: 14, PWM Outputs: 14\nC. Analog Inputs: 6, PWM Outputs: 14\nD. Analog Inputs: 14, PWM Outputs: 6\n\n7) Hoang Hodng Buén Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 84,
+      "image": "slide_084.png",
+      "text": "You are reading data from a DS18B20 temperature sensor (using 1-Wire communication) on Arduino. After\nreading, the temperature value you get is rawTemp = 0x0191. How do you convert this value to degrees\nCelsius?\n\nA. float tempC = (float)rawTemp / 16.0;\n\nB. float tempC = (float)rawTemp * 0.625;\n\nC. float tempC = (float)rawTemp / 256.0;\n\nD. float tempC = (rawTemp >> 4);\n\n@ Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 85,
+      "image": "slide_085.png",
+      "text": "ANS\\eeuh GAN",
+      "confidence": 48,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 86,
+      "image": "slide_086.png",
+      "text": "What is a common mistake to check if an Arduino program doesn’t compile?\nA. Incorrect USB cable\n\nB. Missing semicolon\n\nC. Wrong breadboard size\n\nD. Faulty LED\n\n© Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 87,
+      "image": "slide_087.png",
+      "text": "What is the MAX7219 module commonly used for?\nA. Audio output\n\nB. LED matrix display control\n\nC. Temperature measurement\n\nD. Power supply regulation\n\n© Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 88,
+      "image": "slide_088.png",
+      "text": "What is the default I2C clock speed on the Arduino Uno?\nA. 100 kHz\nB. 400 kHz\nC. 16 MHz\n\nD. 10 kHz\n\n7) Hoang Hodng Buén Source",
+      "confidence": 87,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 89,
+      "image": "slide_089.png",
+      "text": "What is one of the primary concerns with the growing number of connected devices?\nA. The number of available IP addresses\n\nB. The security and privacy of data\n\nC. The aesthetic design of devices\n\nD. The speed of the internet connection\n\n© Hoang Hodng Buén Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 90,
+      "image": "slide_090.png",
+      "text": "What is the process of identifying a trusted device in loT network?\nA. Auditing\n\nB. Authorization\n\nC. Authentication\n\nD. Accounting\n\n© Hoang Hodng Buén Source",
+      "confidence": 89,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 91,
+      "image": "slide_091.png",
+      "text": "What is the purpose of the delay function in the sensor reading loop?\nA. To set the sensor range\n\nB. To avoid serial monitor overload\n\nC. To control the brightness of LED\n\nD. To initialize the pins\n\n9) Hodng Hodng Bu6én Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 92,
+      "image": "slide_092.png",
+      "text": "What is one of the primary components that need to be secured in an loT system?\nA. The software of the user’s mobile phone\n\nB. The devices, network, programs, and data\n\nC. The cloud storage location\n\nD. The internet service provider\n\n@ Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 93,
+      "image": "slide_093.png",
+      "text": "What is the role of a network router in an loT system?\nA. Processing data locally\n\nB. Converting AC to DC\n\nC. Directing data between devices\n\nD. Controlling actuator movements\n\n9) Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 94,
+      "image": "slide_094.png",
+      "text": "What is Arduino?\n\nA. Programming language\n\nB. Open-source electronics platform\nC. Image editing software\n\nD. Text editor\n\nE. None of the others\n\n© Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 95,
+      "image": "slide_095.png",
+      "text": "What is the role of the ATMega168/328 in an Arduino circuit?\nA. Run the program.\n\nB. To regulate the power supply.\n\nC. To provide Wi-Fi connectivity.\n\nD. To filter analog signals.\n\n© Hoang Hodng Buén Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 96,
+      "image": "slide_096.png",
+      "text": "What is the type of USB port on Arduino Uno R3? Hoang Hoang\n\nA. Type A\nB. Type B\nC. Type C\nD. Micro USB\n\n© Hoang Hodng Buén Source",
+      "confidence": 84,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 97,
+      "image": "slide_097.png",
+      "text": "What is the default bootloader of Arduino Uno?\n\nA. Barebox\nB. Optiboot\nC. U-Boot\n\nD. Lilo\n\n© Hoang Hodng Buén Source",
+      "confidence": 88,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 98,
+      "image": "slide_098.png",
+      "text": "What is the term for the extension of the existing Internet structure to billions of connected devices?\nA. Digitization\n\nB.M2M\n\nC.loT\n\nD. B2B\n\n9) Hodng Hodng Bu6n Source",
+      "confidence": 86,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 99,
+      "image": "slide_099.png",
+      "text": "What is the unit of inductance?\n\nA. Farad\nB. Henry\nC. Ohm\nD. Voltage\n\n© Hoang Hodng Buén Source",
+      "confidence": 88,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 100,
+      "image": "slide_100.png",
+      "text": "What is the default bootloader of Arduino Uno?\n\nA. Barebox\nB. Optiboot\nC. U-Boot\nD. Lilo\n\n© Hoang Hodng Buén Source",
+      "confidence": 88,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 101,
+      "image": "slide_101.png",
+      "text": "What is the other name of hardware address?\n\nA. MAC address\n\nB. IP address\n\nC. Postal address\n\nD. Gateway address\n\n© Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 102,
+      "image": "slide_102.png",
+      "text": "What is DHT11?\n\nA. Proximity sensor\n\nB. Touch sensor\n\nC. Pressure sensor\n\nD. Temperature and humidity sensor\nE. None of the others\n\n© Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 103,
+      "image": "slide_103.png",
+      "text": "What is the default bootloader of the Arduino UNO?\nA. AIR-boot\nB. GAG\n\nC. Optiboot bootloader\nD. Bare box\n\n© Hoang Hodng Buén Source",
+      "confidence": 88,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 104,
+      "image": "slide_104.png",
+      "text": "What is the use of the ESP8266 WiFi Module?\n\nA. Network Provider\n\nB. Switches circuits\n\nC. Evaluates air pressure\nD. Monitors Motion\n\n© Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 105,
+      "image": "slide_105.png",
+      "text": "What is the term for the extension of the existing Internet structure to billions of connected devices?\n\nA. Digitization\nB. M2M\n\nC. loT\n\nD. B2B\n\n© Hoang Hodng Buén Source",
+      "confidence": 85,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 106,
+      "image": "slide_106.png",
+      "text": "What does NFC stand for?\n\nA. Near Fast Connection\n\nB. Near Field Connection\n\nC. Near Fast Communication\n\nD. Near Field Communication\n\n© Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 107,
+      "image": "slide_107.png",
+      "text": "What does a fog extend cloud to?\n\nA. Application to process logic\n\nB. Storage of processed data\n\nC. Things that process and act on data\n\nD. Hardware for executing boot loading\n\n@ Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 108,
+      "image": "slide_108.png",
+      "text": "What additional consideration is necessary to make an loT project successful compared to existing solutions?\nA. Focus on expensive materials\n\nB. Implement the latest loT protocols\n\nC. Be better than current solutions\n\nD. Use cutting-edge programming languages\n\n@ Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 109,
+      "image": "slide_109.png",
+      "text": "What pin mode is used for the button in the Arduino setup code?\nA. OUTPUT\n\nB. INPUT\n\nC. ANALOG\n\nD. PWM\n\n9) Hodng Hodng Bu6én Source",
+      "confidence": 88,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 110,
+      "image": "slide_110.png",
+      "text": "What type of loop is used to repeatedly check a sensor?\nA. FOR loop\n\nB. LOOP() function\n\nC. setup() function\n\nD. check() function\n\n© Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 111,
+      "image": "slide_111.png",
+      "text": "What color represents the digit 6 in the resistor color band? Hoang Hoang\n\nA. blue\nB. orange\nC. white\nD. black\n\n© Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 112,
+      "image": "slide_112.png",
+      "text": "What kind of control system in which the output quantity has no effect upon the input quantity?\nA. Open loop\n\nB. Closed loop\n\nC. Variable\n\nD. Non-variable\n\n© Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 113,
+      "image": "slide_113.png",
+      "text": "What does the statement delay(1000); do in Arduino C?\nA. Repeat the program 1000 times\n\nB. Pause the program for 1000 microseconds\n\nC. Pause the program for 1 second\n\nD. Send data after 1 second\n\n9) Hodng Hodng Bu6én Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 114,
+      "image": "slide_114.png",
+      "text": "What role do gas monitoring systems play in loT-enabled mining operations?\nA. They reduce the number of gas emissions\n\nB. They detect harmful gases\n\nC. They automate mining drills\n\nD. They track the amount of fuel used\n\n© Hoang Hodng Buén Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 115,
+      "image": "slide_115.png",
+      "text": "What happens if pinMode is not set for a pin before digitalWrite?\nA. It works as expected\n\nB. The pin stays in input mode\n\nC. The sketch won't compile\n\nD. It creates random output\n\n9) Hodng Hodng Bu6én Source",
+      "confidence": 89,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 116,
+      "image": "slide_116.png",
+      "text": "What type of communication does the RX and TX pins on the Arduino Uno facilitate?\n\nA. Power transfer\n\nB. Wireless communication\nC. Serial communication\n\nD. Analog signal processing\n\n© Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 117,
+      "image": "slide_117.png",
+      "text": "What technique is used to create an analog-like behavior from a digital output?\nA. Serial communication\n\nB. Pulse Width Modulation (PWM)\n\nC. Digital-to-Analog Conversion (DAC)\n\nD. Analog-to-Digital Conversion (ADC)\n\n7) Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 118,
+      "image": "slide_118.png",
+      "text": "What type of signal does the analogWrite() function output?\nA. Pulse Code Modulated Signal\nB. Frequency Modulated Signal\n\nC. Pulse Width Modulated Signal\nD. Pulse Amplitude Modulated Signal\n\n© Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 119,
+      "image": "slide_119.png",
+      "text": "What type of device could allow a vehicle to place a show a warning on the dashboard, which might\nalso notify the car's manufacturer?\n\nA. Digital network\nB. Smart phone\nC. Sensor\n\nD. Bluetooth\n\n© Hoang Hodng Buén Source,",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 120,
+      "image": "slide_120.png",
+      "text": "What type of actuator is typically used to control the movement of a conveyor belt?\n\nA. Electrical\nB. Hydraulic\nC. Mechanical\nD. Pneumatic\n\n© Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 121,
+      "image": "slide_121.png",
+      "text": "What feature of IPv6 makes it particularly suitable for loT?\n\nA. It provides many more IP addresses.\nB. It has better encryption.\n\nC. It uses less power.\n\nD. It is easier to remember.\n\n9) Hodng Hodng Bu6én Source",
+      "confidence": 88,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 122,
+      "image": "slide_122.png",
+      "text": "What programming language is primarily used by the Arduino IDE in loT software development for\nwriting code?\n\nA. Python\n\nB. Java\n\nC. C/C++\n\nD. JavaScript\n\n9) Hodng Hodng Bu6n Source",
+      "confidence": 88,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 123,
+      "image": "slide_123.png",
+      "text": "What programming language is used for a sketch in Arduino IDE?\n\nA. Python\n\nB. Java\n\nC. C/C++\nD. Assembly\n\n© Hoang Hodng Buén Source,",
+      "confidence": 87,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 124,
+      "image": "slide_124.png",
+      "text": "What component needs to connect to an interrupt pin to use the external interrupt on Arduino?\n\nA. LED\n\nB. Resistor\nC. Button\n\nD. Capacitor\n\n© Hodng Hoang Buén Souréé",
+      "confidence": 82,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 125,
+      "image": "slide_125.png",
+      "text": "What type of sensor is the LM35?\n\nA. Pressure sensor\n\nB. Humidity sensor\n\nC. Temperature sensor\nD. Touch sensor\n\n© Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 126,
+      "image": "slide_126.png",
+      "text": "What type of sensor detects motion or presence using infrared light?\nA. Hall effect sensor\n\nB. Photoresistor\n\nC. Infrared sensor\n\nD. Force sensitive resistor\n\n© Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 127,
+      "image": "slide_127.png",
+      "text": "What material is used as the sensing element in the MQ135?\nA. Tin dioxide (SnO:)\n\nB. Zinc oxide (ZnO)\n\nC. Silicon carbide (SiC)\n\nD. Titanium dioxide (TiO:)\n\n9) Hodng Hodng Bu6én Source",
+      "confidence": 89,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 128,
+      "image": "slide_128.png",
+      "text": "What feature helps the MAX30102 reduce power consumption?\nA. Duty-cycle modulation mode\n\nB. Shutdown mode\n\nC. Adaptive sampling rate\n\nD. Standby with FIFO buffering\n\n© Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 129,
+      "image": "slide_129.png",
+      "text": "What value range is used with the analogWrite() function for PWM control?\nA. 0 to 1023\n\nB.0to5\n\nC. 0 to 255\n\nD. -255 to 255\n\n@ Hoang Hodng Buén Source",
+      "confidence": 86,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 130,
+      "image": "slide_130.png",
+      "text": "What type of network does the Wi-Fi shield allow the Arduino to connect to?\n\nA. A Bluetooth network\n\nB. A wired Ethernet network\nC. A Wi-Fi network\n\nD. A ZigBee mesh network\n\n0) UnAnan LinAnA Dian Carman\n\n© Hoang Hoang Buén Soure@",
+      "confidence": 81,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 131,
+      "image": "slide_131.png",
+      "text": "What type of light does the TCS34725 measure in addition to RGB?\nA. Infrared filtered channel\n\nB. Clear light\n\nC. Narrowband blue light\n\nD. Polarized light\n\n© Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 132,
+      "image": "slide_132.png",
+      "text": "What symbol is used to indicate a comment in C?\nA. Il\n\nB.#\n\nC. <>\n\nD. &\n\n7) Hoang Hodng Buén Source",
+      "confidence": 81,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 133,
+      "image": "slide_133.png",
+      "text": "Which of the following is an example of an loT device?\nA. Smart thermostat\n\nB. Traditional desktop computer\n\nC. Mechanical typewriter\n\nD. Standard light bulb\n\n@ Hoang Hodng Buén Source",
+      "confidence": 89,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 134,
+      "image": "slide_134.png",
+      "text": "Which of the following is an example of an authentication method used in loT devices?\nA. Biometric data\n\nB. Data encryption\n\nC. Data backup\n\nD. Device size reduction\n\n© Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 135,
+      "image": "slide_135.png",
+      "text": "Which of the following devices is considered an input device in an loT system?\nA. Microcontroller\n\nB. Temperature sensor\n\nC. LCD screen\n\nD. Servo motor\n\n@ Hoang Hodng Buén Source",
+      "confidence": 88,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 136,
+      "image": "slide_136.png",
+      "text": "Which data type is used to store integer values in C?\nA. float\n\nB. char\n\nC. int\n\nD. double\n\n@ Hoang Hodng Buén Source",
+      "confidence": 87,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 137,
+      "image": "slide_137.png",
+      "text": "Which command is used to read the state of a digital input pin?\nA. digitalRead()\n\nB. analogRead()\n\nC. pinRead()\n\nD. getPinState()\n\n© Hodng Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 138,
+      "image": "slide_138.png",
+      "text": "Which communication protocol does the MAX30102 use?\nA. SPI with open-drain outputs\n\nB. Inter-Integrated Circuit\n\nC. UART with parity bit\n\nD. SWD debug interface\n\n© Hoang Hoang Buén Source",
+      "confidence": 87,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 139,
+      "image": "slide_139.png",
+      "text": "Which Arduino function is specifically used to link a servo object to a designated control pin on the board?\nA. myservo.connect()\n\nB. myservo.attach()\n\nC. myservo.link()\n\nD. myservo.bind()\n\n© Hoang Hodng Buén Source",
+      "confidence": 89,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 140,
+      "image": "slide_140.png",
+      "text": "Which function is used to create a PWM signal to dim an LED?\nA. analogWrite(pin, value);\n\nB. digitalWrite(pin, value);\n\nC. pwmSend(pin, value);\n\nD. fade(pin, value);\n\n© Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 141,
+      "image": "slide_141.png",
+      "text": "Which layer of loT architecture involves sensors and devices that collect data?\nA. Perception layer\n\nB. Network layer\n\nC. Application layer\n\nD. Data layer\n\n© Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 142,
+      "image": "slide_142.png",
+      "text": "Which Arduino command is used to generate a pulse width modulated signal?\n\nA. analogWrite()\nB. tone()\n\nC. digitalRead()\nD. digitalWrite()\n\n© Hoang Hodng Buén Source",
+      "confidence": 88,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 143,
+      "image": "slide_143.png",
+      "text": "Which board is the Arduino's first development board to use one microcontroller with built-in USB?\n\nA. Lily Pad\nB. Uno\n\nC. RedBoard\nD. Leonardo\n\n9) Hoang Hodng Buén Source",
+      "confidence": 88,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 144,
+      "image": "slide_144.png",
+      "text": "Which microcontroller does Arduino Uno use?\nA. ATmega328P\n\nB. ESP32\n\nC. STM32\n\nD. Raspberry Pi\n\n© Hoang Hodng Buén Source",
+      "confidence": 88,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 145,
+      "image": "slide_145.png",
+      "text": "Which command is used to read a signal from an analog temperature sensor?\nA. digitalRead(A0);\n\nB. analogRead(A0);\n\nC. readSensor();\n\nD. input(A0):\n\n© Hoang Hodng Buén Source",
+      "confidence": 85,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 146,
+      "image": "slide_146.png",
+      "text": "Which factors must be considered when aligning multiple loT devices in a network to work together\nefficiently? (Select all that apply)\n\nA. Interoperability\nB. Communication latency\nC. Power source compatibility\n\nD. Device color coding\n\n9) Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 147,
+      "image": "slide_147.png",
+      "text": "Which medium is best suited for long-distance, high-speed communication?\nA. Copper cables\n\nB. Fibre optic cables\n\nC. Wireless transmission\n\nD. Plastic wires\n\n9) Hodng Hodng Bu6én Source",
+      "confidence": 89,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 148,
+      "image": "slide_148.png",
+      "text": "Which of the following is an example of an output device?\nA. Temperature sensor\n\nB. LED\n\nC. Microphone\n\nD. Touchscreen\n\n@ Hoang Hodng Buén Source",
+      "confidence": 87,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 149,
+      "image": "slide_149.png",
+      "text": "Which port is commonly used to connect input/output modules to Arduino?\nA. GPIO\n\nB. USB\n\nC. HDMI\n\nD. Ethernet\n\n9) Hoang Hodng Buén Source",
+      "confidence": 88,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 150,
+      "image": "slide_150.png",
+      "text": "Which actuator types operate using pressurized fluids or gases? (Select all that apply)\nA. Pneumatic\n\nB. Hydraulic\n\nC. Electrical\n\nD. Mechanical spring\n\n© Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 151,
+      "image": "slide_151.png",
+      "text": "Which board is commonly used for loT projects?\n\nA. Raspberry Pi\n\nB. Arduino UNO\n\nC. BeagleBone Black\nD. All of the above\n\n@ Hoang Hodng Buén Source",
+      "confidence": 87,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 152,
+      "image": "slide_152.png",
+      "text": "Which category of actuators includes mechanisms that utilize air pressure to control or move objects?\n\nA. Electrical\nB. Mechanical\nC. Hydraulic\nD. Pneumatic\n\n© Hoang Hodng Buén Soureé",
+      "confidence": 87,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 153,
+      "image": "slide_153.png",
+      "text": "Which function in the Arduino is used to initialize the serial communication?\nA. Serial.printin()\n\nB. Serial.available()\n\nC. Serial.read()\n\nD. Serial.begin()\n\n© Hoang Hodng Buén Source",
+      "confidence": 87,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 154,
+      "image": "slide_154.png",
+      "text": "Which component on tinkercad.com allows displaying the results of the simulation program?\n\nA. Components\n\nB. Send to\n\nC. Start simulation\nD. Serial monitor\n\n9) Hodng Hodng Bu6n Source",
+      "confidence": 88,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 155,
+      "image": "slide_155.png",
+      "text": "Which device commonly uses binary states to store information?\n\nA. Resistor\nB. Transistor\nC. Capacitor\nD. Inductor\n\n@ Hoang Hodng Buén Source",
+      "confidence": 86,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 156,
+      "image": "slide_156.png",
+      "text": "Which of the following is used for comments in Arduino sketch?\n\nA. /* comment */\n\nB. // comment /\n\nC. // comment\n\nD. both // comment and / comment */\n\n© Hoang Hodng Buén Source",
+      "confidence": 88,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 157,
+      "image": "slide_157.png",
+      "text": "Which of the following loT network topologies provides the highest reliability?\nA. Star topology\nB. Mesh topology\n\nC. Bus topology\nD. Ring topology\n\n© Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 158,
+      "image": "slide_158.png",
+      "text": "Which of the following could be an IOT device?\n\nA. A lamp\n\nB.Apen\n\nC. Acouch\n\nD. All of the mentioned\n\n© Hoang Hodng Buén Source",
+      "confidence": 86,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 159,
+      "image": "slide_159.png",
+      "text": "Which part of the ATmega328p is responsible for executing instructions?\nA. Flash memory\n\nB. ALU\n\nC. EEPROM\n\nD. UART\n\n9) Hoang Hodng Buén Source",
+      "confidence": 87,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 160,
+      "image": "slide_160.png",
+      "text": "Which of the following is not an example of an open loop system?\n\nA. Automatic water faucet\nB. Traffic signals\n\nC. Electronic lift\n\nD. Automatic electric iron\n\n© Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 161,
+      "image": "slide_161.png",
+      "text": "Which type of network is the connection between a Bluetooth headset and a smartphone?\nHoang Hoang\n\nA. PAN\nB. MAN\n\nC. LAN\nD. WAN\n\n© Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 162,
+      "image": "slide_162.png",
+      "text": "Which Arduino function is used to stop an active interrupt?\nA. detachinterrupt()\n\nB. interruptOff()\n\nC. disablelSR()\n\nD. stopinterrupt()\n\n© Hoang Hodng Buén Source",
+      "confidence": 87,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 163,
+      "image": "slide_163.png",
+      "text": "Which issue in the cloud focuses on protecting data from theft or corruption?\n\nA. DATA PRIVATE\n\nB. DATA ACCESS\n\nC. DATA THEFT\n\nD. SECURE NETWORK\n\n© Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 164,
+      "image": "slide_164.png",
+      "text": "Which industry benefits the most from loT?\nA. Healthcare\n\nB. Traditional farming\n\nC. Printing press\n\nD. Textile industry\n\n© Hoang Hodng Buén Source",
+      "confidence": 89,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 165,
+      "image": "slide_165.png",
+      "text": "Which protocol is most commonly used for small data transmission in loT devices?\n\nA. HTTP\nB. MQTT\nC. FTP\n\nD. SMTP\n\n9) Hodng Hodng Bu6én Source",
+      "confidence": 85,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 166,
+      "image": "slide_166.png",
+      "text": "Which mode parameter triggers the interrupt when the pin goes from low to high?\n\nA. LOW\n\nB. CHANGE\nC. RISING\nD. FALLING\n\n© Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 167,
+      "image": "slide_167.png",
+      "text": "Which button in the ESP8266 is used to load the code again? Hoang Hoang\n\nA. GND\nB. TX\nC.A1\nD. AO\n\n9) Hodng Hodng Bu6én Source",
+      "confidence": 88,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 168,
+      "image": "slide_168.png",
+      "text": "Which communication range has a distance of about 10cm?\n\nA.NFC\n\nB. RF\n\nC. Wifi\n\nD. Bluetooth\n\n© Hoang Hodng Buén Source",
+      "confidence": 88,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 169,
+      "image": "slide_169.png",
+      "text": "Which pins support the serial communication between the Arduino Uno communicate and the computer?\nA. UART pins\nB. ADC pins\n\nC. |2C pins\nD. PWM pins\n\n© Hoang Hodng Buén Source",
+      "confidence": 88,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 170,
+      "image": "slide_170.png",
+      "text": "Which digital pin is used as the LED_BUILTIN value on an Arduino UNO board?\nA.D10\nB.D11\n\nc.D12\nD. D13\n\n© Hoang Hodng Buén Source",
+      "confidence": 86,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 171,
+      "image": "slide_171.png",
+      "text": "Which operation is appropriate when system calls notify the OS that the file is comming and set some of its\nattributes?\n\nA. Delete\nB. Create\nC. Read\nD. Write\n\n9) Hodng Hodng Bu6én Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 172,
+      "image": "slide_172.png",
+      "text": "Which function in the Arduino is used to initialize the serial communication?\n\nA. Serial_printin()\n\nB. Serial.available()\nC. Serial.read()\n\nD. Serial.begin()\n\n© Hoang Hodng Buén Source",
+      "confidence": 88,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 173,
+      "image": "slide_173.png",
+      "text": "Which function to retrieve text sent from the computer?\nA. Serial.readStringUntil(‘\\n')\n\nB. ReadStringUntil(‘\\n’)\nC. Serial.readingStringUntil(‘\\n’)\n\n© Hoang Hodng Buén Source",
+      "confidence": 84,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 174,
+      "image": "slide_174.png",
+      "text": "Which function below is used to configure pins as input or output?\n\nA. DigitalWrite()\nB. pinMode()\nC. DigitalRead()\nD. Printin()\n\n© Hoang Hodng Buén Source",
+      "confidence": 89,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 175,
+      "image": "slide_175.png",
+      "text": "Which protocol is suitable for loT devices requiring low power and low data rate communication over a few\nkilometers? Hoang Hoang\n\nA. Bluetooth\nB. Zigbee\n\nC. LoRaWAN\nD. WiFi\n\n9) Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 176,
+      "image": "slide_176.png",
+      "text": "Which sensor is LM35?\n\nA. Pressure sensor\n\nB. Humidity sensor\n\nC. Touch sensor\n\nD. Temperature sensor\n\n© Hoang Hoang Buén Soureé",
+      "confidence": 81,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 177,
+      "image": "slide_177.png",
+      "text": "Which sensor is SRF05?\n\nA. Water level sensor\n\nB. Ranging sensor\n\nC. Sound intensity sensor\nD. Temperature sensor\n\n© Hoang Hodng Buén Source",
+      "confidence": 88,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 178,
+      "image": "slide_178.png",
+      "text": "Which software is used to upload the Arduino Sketches to the board?\n\nA. Avrgcc\n\nB. g++\n\nC. cpython for windows\nD. Avrdude\n\n@ Hoang Hodng Buén Source",
+      "confidence": 86,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 179,
+      "image": "slide_179.png",
+      "text": "Which of the following is not a fundamental component of an loT system?\n\nA. Sensors\n\nB. Connectivity\n\nC. User interface\n\nD. Voltage regulator\n\n© Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 180,
+      "image": "slide_180.png",
+      "text": "Which of the following is an example of an loT device?\nA. Smart thermostat\n\nB. Calculator\n\nC. Mechanical typewriter\n\nD. Standard light bulb\n\n7) Hoang Hodng Buén Source",
+      "confidence": 89,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 181,
+      "image": "slide_181.png",
+      "text": "Which communication medium is most affected by environmental conditions like interference?\n\nA. Fibre optic cables\n\nB. Copper cables\n\nC. Wireless transmission\nD. All of the others\n\n© Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 182,
+      "image": "slide_182.png",
+      "text": "Which function is used to enable an interrupt in Arduino UNO?\n\nA. enableinterrupt()\nB. attachInterrupt()\nC. activatelnterrupt()\nD. startinterrupt()\n\n© Hoang Hodng Buén Source",
+      "confidence": 85,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 183,
+      "image": "slide_183.png",
+      "text": "When was the actual term “Internet of Things” coined?\n\nA. 1998\nB. 1999\nC. 2001\nD. 2002\n\n© Hoang Hodng Buén Source",
+      "confidence": 89,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 184,
+      "image": "slide_184.png",
+      "text": "How many digital |/O pins does the Arduino Uno have?\nA.8&\n\nB. 10\n\nC. 14\n\nD. 16\n\n7) Hoang Hodng Buén Source",
+      "confidence": 81,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 185,
+      "image": "slide_185.png",
+      "text": "How many parts of a complete loT system?\nA.3\nB.4\nC.5\n\nD.6\n\n© Hoang Hodng Buén Source",
+      "confidence": 85,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 186,
+      "image": "slide_186.png",
+      "text": "How many wires are used for communication in the I2C protocol?\nA.2\nB.3\nc.8\n\nD.5\n\n9) Hodng Hodng Bu6én Source",
+      "confidence": 82,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 187,
+      "image": "slide_187.png",
+      "text": "Who was coined the term “Internet of Things”?\n\nA. Kevin Ashton\n\nB. John Wright\n\nC. Edward Jameson\nD. George Garton\n\n@ Hoang Hodng Buén Source",
+      "confidence": 87,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 188,
+      "image": "slide_188.png",
+      "text": "A huge number of networked devices to communicate without human intervention. What is this called?\n\nA. loT\n\nB. M2M\n\nC. Thingsboard\nD. Particle\n\n© Hoang Hodng Buén Source",
+      "confidence": 86,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 189,
+      "image": "slide_189.png",
+      "text": "A narrow pipe in a water system is analogous to what concept in an electrical circuit?\n\nA. Resistance\nB. Voltage\n\nC. Capacitance\nD. Current\n\n© Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 190,
+      "image": "slide_190.png",
+      "text": "Among the following protocols commonly used in IoT, which one is considered lightweight?\n\nA. IP (Internet Protocol)\nB. HTTP (Hypertext Transfer Protocol)\n\nC. MQTT (Message Queuing Telemetry Transport)\nD. Bluetooth\n\n@ Hoang Hodng Buén Source",
+      "confidence": 87,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 191,
+      "image": "slide_191.png",
+      "text": "Consider the statement: \"Each resource is either currently assigned to exactly one process or is available.\"\nWhich of the following is appropriate for this statement? Hoang Hoang\n\nA. No-preemption\nB. Hold-and-wait\nC. Mutual exclusion\nD. Circular wait\n\n© Hoang Hodng Buén Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 192,
+      "image": "slide_192.png",
+      "text": "To declare a variable that stores the value read from analog pin AO, what data type is this variable?\n\nA. String\n\nB. Single\n\nC. Double\nD. Int\n\n© Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 193,
+      "image": "slide_193.png",
+      "text": "In an loT system, many devices are connected to the same set of wires. What is this connection mode?\n\nA. Train\n\nB. Bus\n\nC. Multi-point connection\nD. Serial connection\n\n© Hoang Hoang Buén Source",
+      "confidence": 86,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 194,
+      "image": "slide_194.png",
+      "text": "In the loT case study of a dairy farm, what is the primary purpose of the responders attached to the cows?\nA. To measure the quantity of milk produced by each cow.\n\nB. To monitor the health and movement of the cows.\n\nC. To control the feeding mechanism for the cows.\nD. To provide a wireless internet connection to the farm\n\n© Hoang Hodng Buén Source",
+      "confidence": 93,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 195,
+      "image": "slide_195.png",
+      "text": "In the smart grid architecture of loT, what is the primary function of the Cloud?\n\nA. Enhancing security\nB. Collecting data\n\nC. Managing data\n\nD. Storing data\n\n@ Hoang Hodng Buén Source",
+      "confidence": 89,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 196,
+      "image": "slide_196.png",
+      "text": "In a typical three-layer loT architecture, which layer includes sensors, actuators, and RFID tags?\nA. Application Layer\n\nB. Data Link Layer\n\nC. Network Layer\n\nD. Perception Layer\n\n© Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 197,
+      "image": "slide_197.png",
+      "text": "In the Linux OS, which key combination stops the ping command in the terminal?\n\nA. Ctrl+Break\nB. Ctrl+D.\nC. Ctrl+C\nD. Ctrl+Z.\n\n© Hoang Hodng Buén Source",
+      "confidence": 84,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 198,
+      "image": "slide_198.png",
+      "text": "In circuit design, which component is used to limit the current from the arduino board to the LED?\n\nA. Capacitor\nB. Diode\n\nC. Resistor\n\nD. Push button\n\n© Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 199,
+      "image": "slide_199.png",
+      "text": "In the IR remote control, IR stands for what?\n\nA. Indirect Radio\n\nB. Infrared\n\nC. Inside Remote\n\nD. Instant Reception\n\n© Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 200,
+      "image": "slide_200.png",
+      "text": "In C programming for loT, what does digitalWrite(13, HIGH) mean?\nA. Write value 13 to pin HIGH\n\nB. Turn off pin 13\n\nC. Turn on pin 13 (set HIGH level)\n\nD. Initialize variable HIGH with value 13\n\n7) Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 201,
+      "image": "slide_201.png",
+      "text": "Given the nominal voltage of an AAA battery is 1.5 V, what is the nominal voltage of 5 AAA batteries connected\nin parallel?\n\nA.6V\nB.7.5V\nC.9V\nD.1.5V\n\n© Hoang Hodng Buén Source",
+      "confidence": 89,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 202,
+      "image": "slide_202.png",
+      "text": "Given a hash table with size 100 and the Division hashing method is used, in what location will the key 124 be\nhashed?\n\nA. 24\nB.1\nC.4\n\nD. 12\n\n@ Hoang Hodng Buén Source",
+      "confidence": 88,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 203,
+      "image": "slide_203.png",
+      "text": "Kizspy | Question: 43\n(Choose 1 answer)\n\nGiven a graph in the figure, the depth first traversal from node B is (visit nodes in ABC order):\nA. BADCE\nB. BAEDC\n\nC. BCDEA\nD. BACDE\n\n© Hoang Hodng Buén Soureé",
+      "confidence": 88,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 204,
+      "image": "slide_204.png",
+      "text": "To send sensor data to the Serial Monitor, you use:\n\nA. Serial .write()\nB. Serial.print() or Serial.printin()\nC. Send.toMonitor()\n\nD. console.log()\n\n© Hoang Hodng Buén Source",
+      "confidence": 83,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 205,
+      "image": "slide_205.png",
+      "text": "What is the maximum input voltage limit for the Arduino Uno?\n\nA. 6-20V\nB. 7-15V\nC. 9-15V\nD. 5-12V",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 206,
+      "image": "slide_206.png",
+      "text": "Which of the following are valid power input methods for an Arduino Uno board? (Select all that apply)\n\nA. Vin pin\n\nB. Power jack\nC. PWM pin\nD. USB port",
+      "confidence": 95,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 207,
+      "image": "slide_207.png",
+      "text": "Which of the following is an input device?\n\nA.LED light\n\nB. Light sensor\nC. Speaker\n\nD. DC motor",
+      "confidence": 94,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 208,
+      "image": "slide_208.png",
+      "text": "What type of voltage is required to operate an LCD 16x2 display?\n\nA. 5V\nB. 3.3V\nC.12V\nD. 9V",
+      "confidence": 86,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 209,
+      "image": "slide_209.png",
+      "text": "How do you open the LED blink example sketch in the Arduino IDE?\n\nA. File > New > Sketch\n\nB. File > Examples > 1.Basics > Blink\n\nC. Tools > Upload > Blink\n\nD. Sketch > Compile > Examples > Blink",
+      "confidence": 95,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 210,
+      "image": "slide_210.png",
+      "text": "Which symbol is used to start a comment in Arduino code?\n\nA#\nB. //\nCc. a\nD. <l--",
+      "confidence": 79,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 211,
+      "image": "slide_211.png",
+      "text": "What is the potential risk of a hacked loT device being misused?\n\nA. Increased device efficiency\n\nB. Damage to other devices or operations\nC. Improved user experience\n\nD. Reduced maintenance costs",
+      "confidence": 95,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 212,
+      "image": "slide_212.png",
+      "text": "How many pins does the LM35 Temperature Sensor Module have?\n\nDOm>\nNora",
+      "confidence": 80,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 213,
+      "image": "slide_213.png",
+      "text": "What is the main role of the Cloud in loT smart grid architecture?\n\nA. Enhancing security\nB. Collecting data\n\nC. Managing data\n\nD. Storing data",
+      "confidence": 94,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 214,
+      "image": "slide_214.png",
+      "text": "Which sensor in smartphones uses acoustic waves for detection?\nA. Gyroscope\n\nB. Accelerometer\n\nC. Surface acoustic wave sensor\n\nD. Resistive touch sensor\n\n7) Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 215,
+      "image": "slide_215.png",
+      "text": "What programming language is commonly used for programming loT devices?\n\nA. C/C++\n\nB. Python\nC. Java\n\nD. JavaScript\n\n@ Hoang Hodng Buén Source",
+      "confidence": 85,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 216,
+      "image": "slide_216.png",
+      "text": "What property is responsible for the flow of electrons, while the difference in electric charge between two points\nis referred to as voltage, and the ability to conduct electricity is termed resistance?\n\nA. Current\nB. Voltage\nC. Conductance\n\nD. Resistors\n\n© Hoang Hodng Buén Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 217,
+      "image": "slide_217.png",
+      "text": "Which interface does the AS608 fingerprint sensor use?\nA. CoAP interface\n\nB. UART interface\n\nC. |2P interface\n\nD. SPI interface\n\n© Hoang Hodng Buén Source",
+      "confidence": 87,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 218,
+      "image": "slide_218.png",
+      "text": "Which additional device is required to control a DC motor?\nA. WiFi module\n\nB. L298N motor driver\n\nC. Temperature sensor\n\nD. OLED display\n\n© Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 219,
+      "image": "slide_219.png",
+      "text": "ANSWER DAI",
+      "confidence": 95,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 220,
+      "image": "slide_220.png",
+      "text": "What is the purpose of ‘Authentication’ in a Secure loT Framework?\n\nA. To establish a trust relationship by validating the identity of an loT device connecting to the network.\nB. To control all elements that route and transport endpoint traffic securely over the network.\n\nC. To determine what information an authenticated device can access and share.\n\nD. To provide threat detection and threat mitigation for aggregated information.\n\n© Hoang Hodng Buén Source",
+      "confidence": 93,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 221,
+      "image": "slide_221.png",
+      "text": "What is the DISADVANTAGE of segmentation in the memory management?\nA. It can have external fragmentation.\n\nB. The average segment size is larger than the actual page size.\n\nC. It is easier to relocate segments than the entire address space.\n\nD. The segment table is smaller as compared to the page table.\n\n7) Hoang Hodng Buén Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 222,
+      "image": "slide_222.png",
+      "text": "What is a mesh network in the context of loT?\n\nA. Anetwork topology where devices are interconnected with each other to relay data\nB. A network topology where devices are connected to a central hub\n\nC. Anetwork topology where devices are connected in a linear fashion\n\nD. A network topology where devices are connected to multiple networks simultaneously\n\n9) Hodng Hodng Bu6én Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 223,
+      "image": "slide_223.png",
+      "text": "What is the function of an actuator in an loT system?\nA. To convert physical quantities into electrical signals\nB. To convert electrical signals into physical action\n\nC. To process data from sensors\n\nD. To encrypt communication\n\n9) Hodng Hodng Bu6én Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 224,
+      "image": "slide_224.png",
+      "text": "What is a key consideration when choosing the hardware for an loT device with limited power, memory, and\ncomputational resources?\n\nA. A high-resolution display for user interaction\nB. A high-performance processor for faster computations\nC. Energy-efficient components and minimal storage needs\n\nD. Compatibility with multiple third-party applications\n\n@ Hoang Hodng Buén Source",
+      "confidence": 89,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 225,
+      "image": "slide_225.png",
+      "text": "What is the function of serial communication in Arduino?\nA. Send and receive data to/from external devices.\n\nB. To provide power to external components.\n\nC. To generate clock signals for timing operations.\n\nD. To connect the Arduino to Wi-Fi or Bluetooth\n\n@ Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 226,
+      "image": "slide_226.png",
+      "text": "What is PWM (Pulse Width Modulation) primarily used for in Arduino projects?\n\nA. To enhance digital signal strength\n\nB. To achieve analog-like results from digital outputs\nC. To increase the digital pin voltage\n\nD. To decrease the processing time for digital outputs\n\n© Hoang Hodng Buén Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 227,
+      "image": "slide_227.png",
+      "text": "What is a Mock-up?\n\nA. It is a horizontal prototype.\n\nB. It is a particular approach to throwaway prototype\nC. It is a throwaway prototype.\n\nD. It is a nonreleasable prototype\n\n© Hoang Hodng Buén Source",
+      "confidence": 89,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 228,
+      "image": "slide_228.png",
+      "text": "What is the primary purpose of the Internet of Things (loT)?\n\nA. To connect only computers to the internet\n\nB. To connect everyday physical objects to the internet\n\nC. To increase internet speed\n\nD. To allow humans to communicate directly with each other online\n\n7) Hoang Hodng Buén Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 229,
+      "image": "slide_229.png",
+      "text": "What is one of the main impacts of loT on urban areas? Hoang Hoang\n\nA. Creating smart cities with smart buildings and transportation.\nB. Improving public entertainment services.\n\nC. Reducing air pollution by enhancing public transportation.\n\nD. Enhancing cybersecurity for personal devices.\n\n7) Hoang Hodng Buén Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 230,
+      "image": "slide_230.png",
+      "text": "What is each controller in memory-mapped I/O used for?\n\nA. Perform any error correction necessary\nB. Communication with memory\nC. Communication with the CPU\nD. Perform read and write with I/O devices\n\n7) Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 231,
+      "image": "slide_231.png",
+      "text": "What is MQTT primarily used for?\n\nA. System transfer\n\nB. Create connection\n\nC. User communication\n\nD. Machine to Machine Communication\n\n© Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 232,
+      "image": "slide_232.png",
+      "text": "What is a \"Sketch\" in Arduino terminology?\n\nA. A sketch is a program written for the board and shields\nB. A sketch is a blueprint for designing a circuit\n\nC. Asketch is a diagram of the microcontroller layout\n\nD. A sketch is an input data format for sensors\n\n© Hoang Hodng Buén Source",
+      "confidence": 89,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 233,
+      "image": "slide_233.png",
+      "text": "What is electricity?\n\nA. A type of energy used only for lighting.\n\nB. A form of energy that can produce work.\nC. A form of energy only used in machines.\n\nD. None of the others\n\n© Hoang Hodng Buén Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 234,
+      "image": "slide_234.png",
+      "text": "What is an interrupt in the context of Arduino UNO programming?\n\nA.A function that stops the Arduino from running\n\nB. A signal that pauses the current process to execute a specific function\nC. An error in the code compilation\n\nD. A method to increase the processing speed\n\n© Hoang Hoang Buén Source",
+      "confidence": 88,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 235,
+      "image": "slide_235.png",
+      "text": "What is the difference between the INPUT and INPUT_PULLUP arguments in the pinMode() function?\n\nA. They are both the same\n\nB. INPUT supports only analog voltages while INPUT_PULLUP supports only digital voltage readings\nC. INPUT takes the default reading as 0 while INPUT_PULLUP takes default reading as 1023\n\nD. INPUT takes the default reading as 1023 while INPUT_PULLUP takes the default reading as 0\n\n@ Hoang Hodng Buén Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 236,
+      "image": "slide_236.png",
+      "text": "What is the main purpose of routing in network communication?\n\nA. To encrypt data\nB. To select a path for traffic in a network\nC. To store data\n\nD. To create new data paths\n\n© Hodng Hodng Buén Soureé",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 237,
+      "image": "slide_237.png",
+      "text": "What is the primary purpose of connecting shields to the I/O board in an embedded system?\nA. To increase the weight of the I/O board.\nB. To improve the I/O board's aesthetic appearance.\n\nC. To extend the functionality of the I/O board.\nD. To decrease the power consumption of the I/O board.\n\n© Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 238,
+      "image": "slide_238.png",
+      "text": "What is the full form of GUI? Hoang Hoang\n\nA. Graphical User Interaction\nB. Graph User Interface\n\nC. Graphical User Interface\nD. Graph Using Interface\n\n9) Hoang Hodng Buén Source",
+      "confidence": 89,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 239,
+      "image": "slide_239.png",
+      "text": "What is the purpose of digital input/output programming in Arduino UNO?\nA. To process text data\nB. To control LEDs and buttons\n\nC. To enhance graphics processing\nD. To increase memory capacity\n\n© Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 240,
+      "image": "slide_240.png",
+      "text": "What is the purpose of Fritzing in the context of designing circuits?\n\nA. To physically build circuits in the real world.\nB. To simulate circuit behavior.\n\nC. To create circuit diagrams and layouts.\n\nD. To test electronic components\n\n© Hoang Hodng Buén Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 241,
+      "image": "slide_241.png",
+      "text": "What is the purpose of the TRIG pin on the SRFO5 ultrasonic sensor?\n\nA. To receive the echo signal\n\nB. To send out ultrasound bursts\nC. To supply power to the sensor\nD. To process the incoming data\n\n9) Hodng Hodng Bu6n Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 242,
+      "image": "slide_242.png",
+      "text": "What is the primary function of a resistor in a circuit?\n\nA. To amplify electrical signals\n\nB. To store electrical energy\n\nC. To oppose the flow of electrical current\n\nD. To convert electrical energy into mechanical energy\n\n© Hoang Hodng Buén Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 243,
+      "image": "slide_243.png",
+      "text": "What is the primary function of the Ultrasonic Sensor in loT applications?\n\nA. Measuring air pressure\n\nB. Detecting humidity levels\nC. Enabling image processing\nD. Proximity Detection\n\n© Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 244,
+      "image": "slide_244.png",
+      "text": "What is the role of a gateway in an loT network, and how does it relate to routing?\n\nA. Gateways are responsible for routing data packets within the local network\n\nB. Gateways serve as a central control hub for all loT devices.\n\nC. Gateways connect loT devices to the internet and perform protocol translation between loT\ndevices and the internet, aiding in data routing.\n\nD. Routing is a term specific to loT, and gateways are not involved in data transmission.\n\n© Hoang Hodng Buén Source",
+      "confidence": 93,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 245,
+      "image": "slide_245.png",
+      "text": "What is the function of the Domain Name System (DNS) in networking?\n\nA. It routes the data packets to the destination.\n\nB. It is a large database of computer names and their internet addresses.\n\nC. It acts as the memory storage for the internet.\nD. It is the main server for internet traffic.\n\n9) Hodng Hodng Bu6n Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 246,
+      "image": "slide_246.png",
+      "text": "What is the function of a Digital to Analog Converter?\n\nA. to generate an analog voltage from digital signals\n\nB. to allow analog current to be controlled by a digital number\nC. to produce a waveform with an analog frequency\n\nD. to accept both digital and analog inputs\n\n© Hoang Hodng Buén Source",
+      "confidence": 93,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 247,
+      "image": "slide_247.png",
+      "text": "What is the function of a photoresistor?\n\nA. It changes voltage according to light level\n\nB. It increases or decreases current through a wire\nC. It stores an image\n\nD. It changes resistance according to light level\n\n© Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 248,
+      "image": "slide_248.png",
+      "text": "What is the function of a schematic diagram in electronics? Hoang Hoang\n\nA. To provide a realistic representation of the physical arrangement of components\n\nB. To show the components and interconnections in a circuit using symbolic representations\nC. To detail the manufacturing process of electronic devices\n\nD. To list all the components needed in a circuit\n\n© Hoang Hodng Buén Source",
+      "confidence": 93,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 249,
+      "image": "slide_249.png",
+      "text": "What is the potential risk of a hacked loT device being misused?\n\nA. Increased device efficiency\n\nB. Damage to other devices or operations\nC. Improved user experience\n\nD. Reduced maintenance costs\n\n@ Hoang Hodng Buén Source",
+      "confidence": 89,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 250,
+      "image": "slide_250.png",
+      "text": "What is a critical consideration when programming analog input/output for loT applications?\n\nA. The color depth of the display\nB. The refresh rate of the display\nC. The precision of the sensor data\nD. The size of the code\n\n@ Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 251,
+      "image": "slide_251.png",
+      "text": "What is the full form of IDE in Arduino IDE software?\n\nA. Intra Defense Environment\n\nB. Intra Development Environment\n\nC. Integrated Development Environment\nD. Integrated Deployed Environment\n\n© Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 252,
+      "image": "slide_252.png",
+      "text": "What is the full form of DHCP in loT network management protocol?\nA. Dynamic Host Configuration Protocol\n\nB. Domain Host Communication Protocol\n\nC. Dynamic Host Control Protocol\n\nD. Domain Host Control Protocol\n\n© Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 253,
+      "image": "slide_253.png",
+      "text": "What is a critical consideration when programming analog input/output for loT applications?\nA. The color depth of the display\n\nB. The refresh rate of the display\n\nC. The precision of the sensor data\n\nD. The size of the code\n\n© Hoang Hodng Buén Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 254,
+      "image": "slide_254.png",
+      "text": "What is the significance of programming sensors/actuators in loT projects?\nA. To display information\n\nB. To interact with the physical world\n\nC. To improve battery life\n\nD. To enhance audio quality\n\n© Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 255,
+      "image": "slide_255.png",
+      "text": "What is the correct guideline when implementing adding a library through the Arduino IDE?\n\nA. Select Sketch -> Manage Libraries, search for the required library and install\nB. Select Include Library -> Manage Libraries, search for the library name and install\n\nC. Select Sketch -> Include Library -> Manage Libraries, search for the library name and install\nD. Select Sketch -> Manage Libraries, search for the library name and install\n\n© Hoang Hodng Buén Source",
+      "confidence": 93,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 256,
+      "image": "slide_256.png",
+      "text": "What is the difference between an IDE and a compiler?\n\nA. The compiler executes the code while the IDE gives a graphical environment for writing the code\nB. The compiler links the code to the respective files and the IDE takes it from there\nC. The compiler and the IDE are the same thing\n\nD. The IDE executes the code while the compiler gives a graphical environment for writing the code\n\n© Hoang Hodng Buén Source",
+      "confidence": 94,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 257,
+      "image": "slide_257.png",
+      "text": "What is the fundamental process that leads to electricity when considering the structure of atoms?\nA. The movement of protons within the nucleus\n\nB. The exchange of neutrons between atoms\n\nC. The interaction between electrons and protons\n\nD. The jumping of negatively charged electrons between atoms\n\n9) Hodng Hodng Bu6n Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 258,
+      "image": "slide_258.png",
+      "text": "What is the use of the Interrupt Service Routine in an Arduino? Hoang Hoang\n\nA. To boot up the Arduino\n\nB. To exit any code that is running\nC. To automate functions\n\nD. To make more memory\n\n© Hoang Hodng Buén Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 259,
+      "image": "slide_259.png",
+      "text": "What is the key benefit of using the Wi-Fi shield for Arduino?\n\nA. It allows Arduino to operate wirelessly without needing a network connection\nB. It provides high-speed internet connectivity over Wi-Fi\n\nC. It supports mesh networking for long-distance communication\n\nD. It provides Bluetooth connectivity\n\n© Hoang Hoang Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 260,
+      "image": "slide_260.png",
+      "text": "What is the primary advantage of using EEPROM memory in an Arduino project?\n\nA. EEPROM memory is faster than SRAM.\n\nB. EEPROM memory retains its data even when the power is turned off.\nC. EEPROM memory has unlimited write cycles.\n\nD. EEPROM memory is less expensive than flash memory.\n\n9) Hodng Hodng Bu6én Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 261,
+      "image": "slide_261.png",
+      "text": "What is the correct syntax to output a string like: \"| like loT\" in C program?\n\nA. System.out printin(\"! like loT\");\nB. Console writeLine(\"! like loT\");\nC. System.output(\"! like loT\");\n\nD. Printf(\"I like loT\");\n\n© Hoang Hodng Buén Source",
+      "confidence": 78,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 262,
+      "image": "slide_262.png",
+      "text": "What is the use of the Vin pin present on some Arduino Boards?\n\nA. To ground the Arduino board\n\nB. To power the Arduino board\n\nC. To provide a 5V output\n\nD. Is used for plugging in 3V supply\n\n© Hoang Hodng Buén Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 263,
+      "image": "slide_263.png",
+      "text": "What is the use of PWM signals in loT development boards?\n\nA. They are used by sensors to have analog input\nB. They are used by sensors to have digital input\nC. They are used by actuators to have analog input\nD. They are used by actuators to have digital input\n\n© Hoang Hodng Buén Source",
+      "confidence": 93,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 264,
+      "image": "slide_264.png",
+      "text": "What is the use of the Interrupt Service Routine in an Arduino?\n\nA. To boot up the Arduino\n\nB. To exit any code that is running\nC. To automate functions\n\nD. To make more memory\n\n@ Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 265,
+      "image": "slide_265.png",
+      "text": "What is each controller in memory-mapped I/O used for?\n\nA. Perform any error correction necessary\nB. Communication with memory\nC. Communication with the CPU\nD. Perform read and write with I/O devices\n\n© Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 266,
+      "image": "slide_266.png",
+      "text": "What is the significance of programming sensors/actuators in loT projects?\n\nA. To display information\n\nB. To interact with the physical world\nC. To improve battery life\n\nD. To enhance audio quality\n\n© Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 267,
+      "image": "slide_267.png",
+      "text": "What are the key components in ensuring the security of loT networks and devices?\n\nA. Data encryption, hardware configuration, and network optimization\n\nB. Authentication, authorization, network enforced policy, and secure analytics\nC. Biometrics, X.509 digital certificates, and endpoint MAC addresses\n\nD. Data monitoring, cloud integration, and device management\n\n7) Hoang Hodng Buén Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 268,
+      "image": "slide_268.png",
+      "text": "What are the four V's of big data defined by the IBM?\n\nA. Volume, Velocity, Variety, and Veracity\nB. Vendor, Variety, and Volume\n\nC. Vocation, Veracity, Venture, and Variety\nD. Venture, Volume, Variety, and Velocity\n\n© Hodng Hoang Buén Souréé",
+      "confidence": 88,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 269,
+      "image": "slide_269.png",
+      "text": "What are the 4 V’s of Big Data, as described by IBM?\n\nA. Volume, Velocity, Value, Variability.\nB. Velocity, Versatility, Verification, Viscosity.\nC. Volume, Velocity, Variety, Veracity.\nD. Volatility, Vibration, Visualization, Viability.\n\n© Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 270,
+      "image": "slide_270.png",
+      "text": "What are the two main functions of a program in Arduino IDE?\n\nA. build() and loop()\n\nB. setup() and build()\nC. setup() and loop()\nD. build() and setup()\n\n© Hoang Hodng Buén Source",
+      "confidence": 89,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 271,
+      "image": "slide_271.png",
+      "text": "What are properties of a tree\n\nA. One node is marked as Root node\n\nB. Every node other than the root is associated with one parent node\nC. Each node can have an arbitary number of child node\n\nD. All of the others\n\n© Hodng Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 272,
+      "image": "slide_272.png",
+      "text": "What does the analogRead() function do physically when invoked in a code?\nA. It accepts a digital input\n\nB. It reads the raw voltage value\n\nC. It activates the ADC Circuit to read voltage values\n\nD. It activates the DAC Circuit to read voltage values\n\n© Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 273,
+      "image": "slide_273.png",
+      "text": "What does interoperability in loT refer to?\n\nA. Efficient storage, processing, and analysis of loT data\nB. Seamless communication between different loT devices\nC. Responsible data collection and privacy protection\n\nD. Ensuring user data remains confidential and secure\n\n9) Hodng Hodng Bu6én Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 274,
+      "image": "slide_274.png",
+      "text": "What does the RX LED blinking on an Arduino board signify?\nA. The Arduino is receiving data from a connected device.\n\nB. The Arduino is sending data to a connected device.\n\nC. The Arduino is in programming mode.\n\nD. The Arduino is disconnected from the serial monitor.\n\n© Hoang Hodng Buén Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 275,
+      "image": "slide_275.png",
+      "text": "What does MAC stand for?\n\nA. Media Area Control\n\nB. Memory Access Control\nC. Media Access Control\nD. Memory Access Control\n\n© Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 276,
+      "image": "slide_276.png",
+      "text": "What does the RX LED on an Arduino board indicate?\n\nA. The Arduino is transmitting data\n\nB. The Arduino is receiving data\n\nC. The Arduino is powered on\n\nD. The Arduino is in programming mode\n\n© Hoang Hodng Buén Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 277,
+      "image": "slide_277.png",
+      "text": "What does the analogRead() function do physically when invoked in a code?\n\nA. lt accepts a digital input\n\nB. It reads the raw voltage value\n\nC. It activates the ADC Circuit to read voltage values\nD. It activates the DAC Circuit to read voltage values\n\n© Hodng Hoang Buén Source",
+      "confidence": 89,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 278,
+      "image": "slide_278.png",
+      "text": "What does interoperability in loT refer to?\n\nA. Efficient storage, processing, and analysis of loT data\nB. Seamless communication between different loT devices\nC. Responsible data collection and privacy protection\n\nD. Ensuring user data remains confidential and secure\n\n7) Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 279,
+      "image": "slide_279.png",
+      "text": "What programming strategies could be employed to handle the \"velocity\" aspect of big data in an\nloT system?\n\nA. Implementing strict data type casting in all functions\n\nB. Utilizing just-in-time compilation for all code\n\nC. Employing data streaming and real-time processing frameworks\nD. Using older data protocols to ensure compatibility\n\n7) Hoang Hodng Buén Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 280,
+      "image": "slide_280.png",
+      "text": "What type of signal does the analogWrite() function output? Hoang Hoang\nA. Pulse Code Modulated Signal\n\nB. Frequency Modulated Signal\n\nC. Pulse Width Modulated Signal\n\nD. Pulse Amplitude Modulated Signal\n\n© Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 281,
+      "image": "slide_281.png",
+      "text": "What types of programming languages are commonly used for loT systems?\n\nA. JavaScript, HTML, and CSS\n\nB. Python, C++, Java, Arduino, and Raspberry Pi platforms\nC. PHP and SQL\n\nD. Assembly language only\n\n9) Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 282,
+      "image": "slide_282.png",
+      "text": "What types of programming languages are commonly used for loT systems?\nA. JavaScript, HTML, and CSS\n\nB. Python, C++, Java, Arduino, and Raspberry Pi platforms\n\nC. PHP and SQL\n\nD. Assembly language only\n\n© Hoang Hodng Buén Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 283,
+      "image": "slide_283.png",
+      "text": "What two key pieces of information should you have a clear idea of when planning an loT project?\nA. The marketing strategy and the product's brand name.\n\nB. The target audience and their requirements.\n\nC. The specific programming languages and hardware components you will use.\n\nD. The project's budget and timeline.\n\n7) Hoang Hodng Buén Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 284,
+      "image": "slide_284.png",
+      "text": "What factors should be considered when selecting a communication medium in a network?\nA. The distance a signal needs to travel\n\nB. The environment the signal will travel in\n\nC. The amount and speed of data\n\nD. All of the others\n\n© Hodng Hoang Buén Source",
+      "confidence": 89,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 285,
+      "image": "slide_285.png",
+      "text": "Which function to retrieve text sent from the computer?\nA. Serial.readStringUntil(‘\\n’)\nB. ReadStringUntil(‘\\n’)\n\nC. Serial.readingStringUntil(‘\\n’)\n\n© Hoang Hodng Buén Source",
+      "confidence": 85,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 286,
+      "image": "slide_286.png",
+      "text": "Which of the following is an example of an loT application?\n\nA. Wearable device to monitor blood glucose level\nB. Manufacturing Bolt using CNC machine\nC. Bank web page to monitor customer experience\n\n© Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 287,
+      "image": "slide_287.png",
+      "text": "Which of the following loT deployment models involves direct communication between nearby\ndevices without relying on a centralized infrastructure?\n\nA. Cloud based loT\n\nB. Peer-to-peer loT\n\nC. Hybrid loT\n\nD. Edge computing loT\n\n9) Hodng Hodng Bu6én Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 288,
+      "image": "slide_288.png",
+      "text": "Which of the following is a challenge that arises when manipulating big data for analysis?\n\nA. The difficulty in storing data\n\nB. Ensuring data accuracy and consistency\n\nC. The lack of data collection sources\n\nD. The absence of tools for manipulating the data\n\n9) Hodng Hodng Bu6n Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 289,
+      "image": "slide_289.png",
+      "text": "Which of the following is an example of a fog computing concept in loT?\n\nA. Storing data on remote servers\n\nB. Routing data through multiple gateways\n\nC. Performing data analytics on edge devices\n\nD. Using blockchain technology for secure transactions\n\n© Hoang Hodng Buén Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 290,
+      "image": "slide_290.png",
+      "text": "Which of the following is an example of a method used for authenticating loT devices?\n\nA. RFID (Radio Frequency Identification)\nB. Device power consumption monitoring\nC. Device software version tracking\nD. Physical device location tracking\n\n9) Hodng Hodng Bu6n Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 291,
+      "image": "slide_291.png",
+      "text": "Which of the following best describes the role of sensors in the context of loT?\n\nA. Sensors are used to create data signatures for various devices\nB. Sensors collect and transmit data about the physical environment.\nC. Sensors generate power for loT devices\n\nD. Sensors are responsible for controlling mechanical movements\n\n© Hodng Hoang Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 292,
+      "image": "slide_292.png",
+      "text": "Which of the following is a fundamental benefit of integrating loT devices with cloud platforms?\nA. Reduced power consumption of loT devices\n\nB. Enhanced local processing capabilities of loT devices\n\nC. Scalable data storage and processing\n\nD. Elimination of network connectivity requirements\n\n@ Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 293,
+      "image": "slide_293.png",
+      "text": "Which of the following loT deployment models involves direct communication between nearby\ndevices without relying on a centralized infrastructure?\n\nA. Cloud based loT\nB. Peer-to-peer loT\nC. Hybrid loT\n\nD. Edge computing loT\n\n© Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 294,
+      "image": "slide_294.png",
+      "text": "Which of the following best describes 'Veracity'?\n\nA. The quantity of data that is being observed and tracked without sampling.\nB. The speed at which big data is available.\n\nC. The extraction of data from multiple sources like text, images, and video.\n\nD. The quality of the data, and whether it stays true or is lost or damaged.\n\n© Hoang Hodng Buén Source",
+      "confidence": 93,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 295,
+      "image": "slide_295.png",
+      "text": "Which type of input pins does the Arduino Uno have?\nA. Digital pins only\n\nB. Digital and Analog input pins\n\nC. PWM pins only\n\nD. UART and SPI pins\n\n@ Hoang Hodng Buén Source",
+      "confidence": 89,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 296,
+      "image": "slide_296.png",
+      "text": "When integrating loT devices with cloud platforms, what is the main programming challenge related\nto data flow? Hoang Hoang\n\nA. Minimizing the physical size of data packets\n\nB. Ensuring real-time data synchronization across devices\nC. Prioritizing graphical data over textual data\n\nD. Creating aesthetically pleasing data visualizations\n\n7) Hoang Hodng Buén Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 297,
+      "image": "slide_297.png",
+      "text": "When does electricity occur?\n\nA. The negatively charged electrons jump between atoms.\n\nB. The positively charged protons jump from one atom to another.\nC. The neutral neutrons jump between atoms.\n\nD. The positively charged protons and negatively charged electrons cancel each other out.\n\n7) Hoang Hodng Buén Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 298,
+      "image": "slide_298.png",
+      "text": "When using the LCD 1602 display with an Arduino, what is the purpose of wiring a 10k ohm\n\npotentiometer to the VO pin of the LCD?\n\nA. To adjust the display contrast\n\nB. To provide power to the LCD\n\nC. To set the refresh rate of the display\nD. To enable the autoscroll feature\n\n© Hoang Hodng Buén Source",
+      "confidence": 93,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 299,
+      "image": "slide_299.png",
+      "text": "Why is the motion sensor in the responder important on a dairy farm?\nA. It tracks the cow's milk yield\n\nB. It monitors the cow’s movements, potentially detecting health issues\nC. It tracks the cow's location to ensure it stays in a designated area\n\nD. It measures the temperature of the milk being produced\n\n@ Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 300,
+      "image": "slide_300.png",
+      "text": "Why do you use a breadboard?\nA. It's an inexpensive way to check the design and function of your circuit.\nB. It can be used to mass produce lots of identical circuits easily and cost effectively.\n\nC. The plug board versions are extremely reliable and will last for years, you might never need to do\nanything else.\n\nD. Breadboards aren’t used any more. It’s an old technology that is not needed with modern circuits.\n\n© Hoang Hodng Buén Source",
+      "confidence": 93,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 301,
+      "image": "slide_301.png",
+      "text": "Why is it essential to focus on the unique value proposition of an loT product in the early planning\nstages of development and commercialization?\n\nA. It helps reduce the cost of production.\n\nB. It allows for more efficient product distribution.\n\nC. Differentiation from competitors is crucial for success.\n\nD. It ensures compatibility with all existing loT devices.\n\n7) Hoang Hodng Buén Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 302,
+      "image": "slide_302.png",
+      "text": "Why is security a major concem in the context of the Internet of Things (loT)?\nA. Because loT devices are not capable of transmitting data\n\nB. Because loT introduces many new entry points for hackers to access data\nC. Because loT does not transmit data in real-time\n\nD. Because loT devices are always offline\n\n© Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 303,
+      "image": "slide_303.png",
+      "text": "Why might having 20 billion connected devices cause a major disruption in employment?\n\nA. Automation may replace jobs traditionally done by humans\n\nB. New job sectors will be created, making previous roles obsolete\n\nC. There will be fewer jobs available due to more devices doing the work\nD. Workers will need to learn new internet communication tools\n\n© Hoang Hodng Buén Source",
+      "confidence": 93,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 304,
+      "image": "slide_304.png",
+      "text": "Why is it important to consider limited power supply when programming loT devices?\nA. It affects the device's physical size\n\nB. It determines the maximum number of devices in a network\n\nC. Devices need to operate efficiently on minimal power for long durations\n\nD. It limits the types of sensors that can be used\n\n7) Hoang Hodng Buén Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 305,
+      "image": "slide_305.png",
+      "text": "How does the veracity of big data impact loT applications?\n\nA. By increasing the data transmission range\n\nB. By improving the energy efficiency of devices\n\nC. By ensuring the reliability and accuracy of the data used for decision-making\nD. By decreasing the cost of data storage\n\n@ Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 306,
+      "image": "slide_306.png",
+      "text": "How do standards and protocols help communication between machines?\n\nA. By defining the TCP/IP model as the most common networking protocol suite.\n\nB. By creating an accepted set of rules for a procedure, which only applies to machine communication.\nC. By minimizing miscommunication and ensuring that messages can get through.\n\nD. By governing the connection of computer systems to the Internet.\n\n9) Hodng Hodng Bu6én Source",
+      "confidence": 93,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 307,
+      "image": "slide_307.png",
+      "text": "How can loT systems address the issue of data privacy in the cloud?\nA. By restricting device access to the cloud\nB. By ensuring all data is publicly accessible\n\nC. By preventing misuse of private data\nD. By increasing the data storage capacity in the cloud\n\n© Hoang Hodng Buén Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 308,
+      "image": "slide_308.png",
+      "text": "How can you create a network of loT devices that efficiently exchange data?\n\nA. By using a single protocol for all devices\n\nB. By connecting all devices directly to the internet\nC. By designing a mesh network topology\n\nD. By using the highest data rate possible\n\n© Hoang Hodng Buén Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 309,
+      "image": "slide_309.png",
+      "text": "How is the distance to an object calculated using the ultrasonic sensor?\n\nA. By measuring the intensity of the returned pulse\nB. By calculating the time it takes for a pulse to return\nC. By detecting the angle of the returned pulse\n\nD. By the frequency shift of the returned pulse\n\n© Hoang Hodng Buén Soureé",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 310,
+      "image": "slide_310.png",
+      "text": "How might the evolving nature of the internet, where it’s no longer just a means of communication,\nbut also connects various devices like refrigerators, impact various aspects of our society?\n\nA. It will simplify security measures and reduce the need for big data analysis.\n\nB. It will have no significant impact on employment as most jobs remain unchanged\n\nC. It could introduce new security challenges, require advanced big data solutions, and potentially\ndisrupt employment\n\nD. It will lead to reduced complexity in our daily lives and fewer security concerns.\n\n© Hodng Hoang Buén Sourae",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 311,
+      "image": "slide_311.png",
+      "text": "How is the input voltage range of 0 to 5 volts converted to a digital value between 0 and 1023 in an Arduino\nmicrocontroller?\n\nA. By using an external circuit.\n\nB. By using a digital-to-analog converter (DAC).\n\nC. By a process called analog-to-digital conversion (ADC) inside the microcontroller.\n\nD. By directly mapping the voltage to the digital value without conversion\n\n© Hodng Hodng Buén Souree",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 312,
+      "image": "slide_312.png",
+      "text": "",
+      "confidence": 0,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 313,
+      "image": "slide_313.png",
+      "text": "How does IoT help improve tire maintenance in mining vehicles?\nA. By inflating tires automatically\n\nB. By monitoring tire pressure\n\nC. By replacing tires remotely\n\nD. By making tires more durable\n\n© Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 314,
+      "image": "slide_314.png",
+      "text": "How has the Internet of Things prompted new concerns over security issues?\nHoang Hoang\n\nA. Devices are equipped with security from the manufacturer.\n\nB. Devices are less likely to be compromised in today’s age.\n\nC. Devices are not compatible with traditional security measures.\n\nD. Devices respond only to user-installed security protocols.\n\n© Hoang Hodng Buén Source,",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 315,
+      "image": "slide_315.png",
+      "text": "How many times does the loop() function run on every startup of the Arduino System?\nA.1\n\nB. Depends upon the setup() function\n\nC. Infinitely till the power is supplied to the Arduino\n\nD.3\n\n7) Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 316,
+      "image": "slide_316.png",
+      "text": "Why is C commonly used in loT programming?\nA. Easy to use in graphic design\n\nB. Efficient in memory and performance\n\nC. Strong support for artificial intelligence\n\nD. Beautiful user interface\n\n@ Hoang Hodng Buén Source",
+      "confidence": 89,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 317,
+      "image": "slide_317.png",
+      "text": "A photoresistor:\n\nA. changes voltage according to light level\n\nB. increases or decreases current through a wire\nC. stores an image\n\nD. changes resistance according to light level\n\n© Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 318,
+      "image": "slide_318.png",
+      "text": "Among the following protocols commonly used in loT, which one is considered lightweight?\n\nA. IP (Internet Protocol)\n\nB. HTTP (Hypertext Transfer Protocol)\n\nC. MQTT (Message Queuing Telemetry Transport)\nD. Bluetooth\n\n© Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 319,
+      "image": "slide_319.png",
+      "text": "An IOT device can most easily be differentiated from a standard computer based on\n\nA. Computational Performance\n\nB. Interface with the user and the world\nC. Memory Capacity\n\nD. Weight/Size\n\n© Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 320,
+      "image": "slide_320.png",
+      "text": "Can the loop() function be used to call another function that is custom defined by the programmer?\nA. Yes, it can call\n\nB. No, it cannot call\n\nC. Yes, it can call but only functions with no return values\n\nD. Yes, it can call but only functions with return values\n\n@ Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 321,
+      "image": "slide_321.png",
+      "text": "Can the setup() function change the value of constant variables?\nA. Yes, it can change\n\nB_ No, it cannot change\n\nC. Yes, it can change but only integer values\n\nD. Yes, it can change but only byte values\n\n© Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 322,
+      "image": "slide_322.png",
+      "text": "To program sending and receiving data between Arduino and BLUETOOTH HC06, how to connect\n\nthe pins?\n\nA. TX connects to pin 0 and RX pin connects to pin 1 on Arduino\nB. TX connects to pin 1 and RX pin connects to pin 0 on Arduino\nC. TX connects to pin 1 and TX pin connects to pin 0 on Arduino\nD. RX connects to pin 1 and RX pin connects to pin 0 on Arduino\n\n9) Hodng Hodng Bu6én Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 323,
+      "image": "slide_323.png",
+      "text": "In the smart grid architecture of loT, what is the primary function of the Cloud?\nA. Enhancing security\n\nB. Collecting data\nC. Managing data\nD. Storing data\n\n9) Hodng Hodng Bu6én Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 324,
+      "image": "slide_324.png",
+      "text": "In a thin client setup, where is most of the software and data processing performed?\nA. Locally on the thin client device.\n\nB. On a central server or cloud infrastructure.\n\nC. On a central server or client infrastructure.\n\nD. On a dedicated network switch.\n\n© Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 325,
+      "image": "slide_325.png",
+      "text": "In loT, what is the purpose of a Gateway?\n\nA. To act as an intermediary for data transmission between different network protocols\nB. To store data collected from loT devices\n\nC. To increase the power supply to loT devices\n\nD. To directly connect sensors to the internet\n\n@ Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 326,
+      "image": "slide_326.png",
+      "text": "In loT, what is the purpose of a Gateway?\n\nA. To act as an intermediary for data transmission between different network protocols\nB. To store data collected from loT devices\n\nC. To increase the power supply to loT devices\n\nD. To directly connect sensors to the internet\n\n© Hoang Hodng Buén Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 327,
+      "image": "slide_327.png",
+      "text": "In a software simulation environment (Tinkercad) for Arduino programming, which of the following\noptions is typically used to write and run code for your Arduino projects?\n\nA. Selecting the code option to start coding\nB. Using a physical Arduino board to write code\nC. Connecting various electronic components to a breadboard.\n\nD. Employing a real-time oscilloscope for debugging\n\n© Hoang Hodng Buén Source",
+      "confidence": 93,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 328,
+      "image": "slide_328.png",
+      "text": "!OT devices gather private information about users. Which statement is most true about the security\nof that data?\n\nA. User can ensure security of collected data by encrypting it manually\nB. User can sue data collecting agencies if their data is not held securely\nC. Users must rely on data collecting agencies to securely store and transmit their data\n\nD. Most data gathered by IOT devices is safe because IOT devices are not a target of hackers\n\n© Hoang Hodng Buén Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 329,
+      "image": "slide_329.png",
+      "text": "loT devices create more significant security challenges for networks due to all of these concerns EXCEPT\nwhich? Hoang Hoang\n\nA. They do not have security alerts.\nB. They are always on\nC. They are always connected.\n\nD. They produce an event log\n\n© Hoang Hodng Buén Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 330,
+      "image": "slide_330.png",
+      "text": "In the smart grid architecture of loT, what is the primary function of the Cloud?\nA. Enhancing security\n\nB. Collecting data\n\nC. Managing data\n\nD. Storing data\n\n© Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 331,
+      "image": "slide_331.png",
+      "text": "In a software simulation environment (Tinkercad) for Arduino programming, which of the following options is\ntypically used to write and run code for your Arduino projects?\n\nA. Selecting the code option to start coding.\nB. Using a physical Arduino board to write code.\nC. Connecting various electronic components to a breadboard.\n\nD. Employing a real-time oscilloscope for debugging\n\n© Hoang Hodng Buén Source",
+      "confidence": 93,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 332,
+      "image": "slide_332.png",
+      "text": "In the context of loT and networking, what does the abbreviation LPWAN stand for?\nA. Lightweight Protocol for Wide Area Network\n\nB. Low-Profile Wireless Access Node\n\nC. Low Power Wide Area Network\n\nD. Longitudinal Packet Wireless Architecture\n\n© Hoang Hodng Buén Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 333,
+      "image": "slide_333.png",
+      "text": "In the given Arduino code, what is the purpose of the \"analogWrite\" function, and how is it used to\ncontrol the LED's behavior?\n\nA. The \"analogWrite\" function is used to read analog values from a sensor.\nB. The \"analogWrite\" function is used to blink the LED on and off\n\nC. The \"analogWrite\" function is used to control the brightness of the LED.\nD. The “analogWrite\" function is used to read digital values from a sensor.\n\n@ Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 334,
+      "image": "slide_334.png",
+      "text": "In the Windows OS, which statement is true about the blocked state of a process?\nA. Waiting for an event triggered by the CPU's scheduling mechanism\nB. Waiting for an event that has not happened yet\n\nC. Waiting to input/output and Waiting for an event that has not happened yet\nD. The CPU and Memory are waiting to other events\n\n© Hoang Hodng Buén Source",
+      "confidence": 93,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 335,
+      "image": "slide_335.png",
+      "text": "In what scenarios would you observe the TX LED blinking on an Arduino?\nA. When the Arduino is reading analog values\n\nB. When the Arduino is processing data\n\nC. When the Arduino is transmitting data through the serial port\n\nD. When the Arduino is in deep sleep mode\n\n9) Hoang Hodng Buén Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 336,
+      "image": "slide_336.png",
+      "text": "In terms of output format, how does the LM35 temperature sensor differ from the DS1820?\nA. LM35 provides temperature readings in digital format\n\nB. DS1820 provides temperature readings in analog format\n\nC. LM35 provides temperature readings in analog voltage\n\nD. DS1820 provides temperature readings in serial communication protocol\n\n7) Hoang Hodng Buén Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 337,
+      "image": "slide_337.png",
+      "text": "Is the Arduino code an Object-Oriented programming language or a Procedural programming\nlanguage?\n\nA. The Arduino Code follows the Top-Down Procedural ideology\nB. The Arduino Code follows a custom Procedural ideology\nC. The Arduino Code follows the Object-Oriented ideology\n\nD. The Arduino Code follows the Bottom-Up Procedural ideology\n\n© Hoang Hoang Buén Source",
+      "confidence": 89,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 338,
+      "image": "slide_338.png",
+      "text": "In a common cathode seven-segment display, what is common among all segments?\nA. All segments are connected to VCC\n\nB. All segments are connected to GND\n\nC. All segments have individual resistors\n\nD. All segments are controlled by separate pins\n\n© Hoang Hodng Buén Source",
+      "confidence": 88,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 339,
+      "image": "slide_339.png",
+      "text": "Is it possible to have multiple software serial ports (UART) with speeds up to 115200 bps?\nA. Yes, only one software serial port is possible.\n\nB. Yes, but the maximum speed is limited to 9600 bps.\n\nC. No, software serial ports are limited to a single port.\n\nD. Yes, multiple software serial ports are possible with speeds up to 115200 bps.\n\n@ Hoang Hodng Buén Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 340,
+      "image": "slide_340.png",
+      "text": "Which of the following statements about DHT11 power consumption is NOT TRUE?\n\nA. It has low standby current\n\nB. It consumes high power continuously\n\nC. It draws current during measurement process\nD. It can work on battery power\n\n7) Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 341,
+      "image": "slide_341.png",
+      "text": "When using software serial, how many ports can receive data at a time?\n\nA. Multiple ports can receive data simultaneously.\n\nB. Only one port can receive data at a time.\n\nC. All ports can send and receive data simultaneously.\nD. No ports can receive data, only send.\n\n9) Hoang Hodng Buén Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 342,
+      "image": "slide_342.png",
+      "text": "Why is analogRead() useful in environmental monitoring projects with Arduino?\n\nA. It allows capturing continuous sensor values\nB. It converts digital pins to analog pins\n\nC. It stores values in EEPROM automatically\n\nD. It generates (Pulse Width Modulation) signals\n\n© Hoang Hodng Buén Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 343,
+      "image": "slide_343.png",
+      "text": "What is an actuator in an Arduino UNO?\nA. A device that receives data\n\nB. A device that outputs data\n\nC. A device that stores data\n\nD. A device that communicates with other devices\n\n© Hoang Hodng Buén Source",
+      "confidence": 86,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 344,
+      "image": "slide_344.png",
+      "text": "If you observe that pressing a key on your keypad sometimes prints incorrect characters, which debugging\nsteps should you take to identify and correct the issue?\n\nA. Check if the row and column pins are defined correctly in the code.\nB. Ensure that the Keypad library is installed correctly.\nC. Verify the wiring connections between the keypad and Arduino.\n\nD. All of the others.\n\n7) Hoang Hodng Buén Source",
+      "confidence": 93,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 345,
+      "image": "slide_345.png",
+      "text": "What is a key characteristic of loT?\n\nA. Devices operate independently without connectivity.\nB. Devices connect and communicate over the internet.\nC. Devices function only with human intervention.\n\nD. Devices do not collect any data.\n\n9) Hodng Hodng Bu6én Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 346,
+      "image": "slide_346.png",
+      "text": "Identify the main considerations that small devices generally have when programming for loT devices.\nA. Limited power supply, limited network bandwidth, and limited memory.\n\nB. Limited power supply, limited computational power, and limited memory.\n\nC. Advanced security features, simple user interfaces, and high-resolution displays.\n\nD. Advanced security features, complex user interfaces, and high-resolution displays.\n\n7) Hoang Hodng Buén Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 347,
+      "image": "slide_347.png",
+      "text": "NOT QUESTION",
+      "confidence": 96,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 348,
+      "image": "slide_348.png",
+      "text": "Which of these colors is NOT used in the resistor color code?\nA. Violet\n\nB. Yellow\n\nC. Magenta\n\nD. White\n\n© Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 349,
+      "image": "slide_349.png",
+      "text": "Which factor is NOT essential for a successful loT project?\nA. Addressing a real-world problem\n\nB. Providing a unique benefit\n\nC. Targeting a specific audience\n\nD. Using the most expensive technology available\n\n© Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 350,
+      "image": "slide_350.png",
+      "text": "Which Arduino UNO pin is NOT typically used for external interrupts?\nA. Pin 2\n\nB. Pin 3\n\nC. Pin 5\n\ne.\n\n© Hoang Hodng Buén Source",
+      "confidence": 74,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 351,
+      "image": "slide_351.png",
+      "text": "Which digital pin of Arduino Uno Rev3 does NOT provide PWM output?\n\n9OD>Y\n=o uw\n\n© Hoang Hodng Buén Source",
+      "confidence": 76,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 352,
+      "image": "slide_352.png",
+      "text": "Which of the following factors is NOT typically considered when choosing the medium for network\ncommunication in an loT setup?\n\nA. The distance a signal needs to travel.\nB. The type of data being transmitted.\nC. The color of the cables\n\nD. The cost of the media and its installation\n\n© Hoang Hodng Buén Source",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 353,
+      "image": "slide_353.png",
+      "text": "Which of the following statements is WRONG about the loT devices?\nA. loT devices use the internet for collecting and sharing data\n\nB. loT devices need microcontroller\n\nC. loT devices use wireless technology\n\nD. loT devices are completely safe\n\n9) Hodng Hodng Bu6én Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 354,
+      "image": "slide_354.png",
+      "text": "Which of these is NOT a benefit of Arduino shields?\nA. It is simple to use.\n\nB. It makes the Arduino faster\n\nC. It is pre-wired.\n\nD. None of the mentioned\n\n9) Hodng Hodng Bu6én Source",
+      "confidence": 89,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 355,
+      "image": "slide_355.png",
+      "text": "Which of the following is NOT an advantage of loT?\nA. Security\n\nB. Enhanced data collection\n\nC. Reduced waste\n\nD. Improved customer engagement\n\n© Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 356,
+      "image": "slide_356.png",
+      "text": "Which of the following is NOT the essential elements of a use case?\nA. ID and Name\n\nB. Description\n\nC. A trigger condition\n\nD. Zero or more preconditions, one or more postconditions\n\nE. Normal Flow\n\nF. Alternative flow\n\n© Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 357,
+      "image": "slide_357.png",
+      "text": "Which of the following is NOT related to Arduino IDE software?\n\nA. Serial monitor\nB. Upload\n\nC. Terminate\n\nD. Verify\n\n© Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 358,
+      "image": "slide_358.png",
+      "text": "Which of the following is NOT a sensor in loT?\n\nA. BMP280\n\nB. DHT11\n\nC. Photoresistor\nD. LED\n\n9) Hodng Hodng Bu6én Source",
+      "confidence": 86,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 359,
+      "image": "slide_359.png",
+      "text": "Which of the following statements about the MQ-3 sensor is NOT TRUE?\nA. It has a preheat time requirement\n\nB. It responds instantly after power-on\n\nC. It needs warm-up for stable readings\n\nD. Temperature affects its sensitivity\n\n© Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 360,
+      "image": "slide_360.png",
+      "text": "Which of the following is NOT an actuator in loT?\n\nA. A push button\nB. An LED\n\nC. A servo motor\nD. A buzzer\n\n© Hodng Hodng Bu6én Souree",
+      "confidence": 81,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 361,
+      "image": "slide_361.png",
+      "text": "The following trend is NOT related to the growth in lOT technology\n\nA. Increase in computer monitor size over time\nB. Decrease in computer size over time\nC. Increase in computer performance over time\nD. Decrease in computer cost over time\n\n© Hoang Hodng Buén Source",
+      "confidence": 91,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 362,
+      "image": "slide_362.png",
+      "text": "Which of the following is FALSE about the loT hardware component?\nA. A keyboard is a digital sensor.\n\nB. A photodiode is an analog sensor.\n\nC. Amicrophone is a digital sensor.\n\nD. A push button is a digital sensor.",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 363,
+      "image": "slide_363.png",
+      "text": "TRUE/FALSE",
+      "confidence": 92,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 364,
+      "image": "slide_364.png",
+      "text": "Arduino can be used to develop interactive objects that can work without a computer.\nA. TRUE\nB. FALSE\n\n© Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    },
+    {
+      "slideNumber": 365,
+      "image": "slide_365.png",
+      "text": "In Arduino, a \"Sketch\" is a diagram that shows the physical arrangement of the components.\n\nA. TRUE\nB. FALSE\n\n© Hoang Hodng Buén Source",
+      "confidence": 90,
+      "engine": "libtesseract-5.5-eng-psm3"
+    }
+  ]
+}

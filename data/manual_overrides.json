@@ -1,0 +1,135 @@
+{
+  "source": "Direct visual inspection of local PNG files after structural OCR validation",
+  "slides": {
+    "15": {
+      "question": "What is the output of “pin1” if “pin2” is sent “1011” where 1 is 5V and 0 is 0V?",
+      "code": "int pin1 = 12;\nint pin2 = 11;\n\nvoid setup() {\n  pinMode(pin1, OUTPUT);\n  pinMode(pin2, INPUT);\n  Serial.begin(9600);\n}\n\nvoid loop() {\n  if(digitalRead(pin2)==1) {\n    digitalWrite(pin1, LOW);\n  }\n  else if(digitalRead(pin2)==0) {\n    digitalWrite(pin1, HIGH);\n  }\n}",
+      "options": {"A": "1110", "B": "0100", "C": "1111", "D": "1011"},
+      "explanation": "If “1011” is sent to pin2 (interpreted bit by bit), the output sequence of pin1 is LOW, HIGH, LOW, LOW."
+    },
+    "16": {
+      "question": "What is the objective of the code given below if it is executed on the Arduino Uno?",
+      "code": "#include <EEPROM.h>\n\nint pin = 13;\n\nvoid setup() {\n  pinMode(pin, OUTPUT);\n  Serial.begin(9600);\n}\n\nvoid loop() {\n  for (int i = 0; i < EEPROM.length(); i++) {\n    EEPROM.write(i, 1);\n  }\n  digitalWrite(pin, HIGH);\n  exit(0);\n}",
+      "options": {"A": "Clear EEPROM", "B": "Fill EEPROM with 1’s", "C": "Export EEPROM data", "D": "Fill EEPROM with 0’s"}
+    },
+    "17": {
+      "question": "What is the time period of the output signal of the program given below?",
+      "code": "int pin=10;\n\nvoid setup() {\n  Serial.begin(9600);\n  pinMode(pin, OUTPUT);\n}\n\nvoid loop() {\n  digitalWrite(pin, HIGH);\n  delay(10);\n  digitalWrite(pin, LOW);\n  delay(10);\n}",
+      "options": {"A": "20 Microseconds", "B": "100 Milliseconds", "C": "10 Milliseconds", "D": "20 Milliseconds"}
+    },
+    "18": {
+      "question": "What is the purpose of the following Arduino code?",
+      "code": "void setup() {\n  Serial.begin(9600);\n}\n\nvoid setup() {\n  Serial.write(40);\n}",
+      "options": {"A": "Send a signal to pin 40 on the Arduino board", "B": "Send a octal number of 40 through the Serial pins", "C": "Send a byte with value 40 through the Serial pins", "D": "Send a hexadecimal number of 40 through the Serial pins"}
+    },
+    "19": {
+      "question": "What is the output of the program given below if a voltage of 5V is supplied to the pin corresponding to the A0 pin on an Arduino UNO?",
+      "code": "void setup() {\n  Serial.begin(9600);\n  pinMode(A0, INPUT);\n}\n\nvoid loop() {\n  int s = analogRead(A0);\n  Serial.println(s);\n}",
+      "options": {"A": "0", "B": "1023", "C": "Null", "D": "Error"}
+    },
+    "32": {
+      "question": "What is the purpose of the following Arduino code?",
+      "code": "void setup() {\n  Serial.begin(9600);\n}\n\nvoid setup() {\n  Serial.write(40);\n}",
+      "options": {"A": "Send a signal to pin 40 on the Arduino board", "B": "Send a octal number of 40 through the Serial pins", "C": "Send a byte with value 40 through the Serial pins", "D": "Send a hexadecimal number of 40 through the Serial pins"}
+    },
+    "37": {
+      "question": "What will be the output of the following Arduino code?",
+      "code": "#define X 10;\n\nvoid setup(){\n  X=0;\n  Serial.begin(9600);\n  Serial.print(X);\n}\n\nvoid loop(){\n  //Do nothing...\n}",
+      "options": {"A": "0xAB", "B": "0xa", "C": "0", "D": "Error"}
+    },
+    "38": {
+      "question": "What will be the output of the following Arduino code?",
+      "code": "#define X 10;\n\nvoid setup(){\n  X=0;\n  Serial.begin(9600);\n  Serial.print(X);\n}\n\nvoid loop(){\n  //Do nothing...\n}",
+      "options": {"A": "0xAB", "B": "0xa", "C": "0", "D": "Error"}
+    },
+    "39": {
+      "question": "What pins of Arduino Uno are the external interrupt pins?",
+      "options": {"A": "2, 3", "B": "3, 4", "C": "5, 6", "D": "7, 8"}
+    },
+    "40": {
+      "question": "What resistance value does a resistor with brown, black, and red bands indicate?",
+      "options": {"A": "1 kΩ", "B": "10 kΩ", "C": "100 Ω", "D": "1 Ω"},
+      "explanation": "Resistance = (first band × 10 + second band) × multiplier. Brown = 1, black = 0, and red has multiplier 100, so the value is 1000 Ω."
+    },
+    "41": {
+      "question": "What happens to the LED's blink rate in the given code when the potentiometer is turned all the way to provide the maximum voltage to the analog pin?",
+      "code": "const int ledPin = 13;\nconst int sensorPin = A0;\nint sensorValue = 0;\n\nvoid setup() {\n  pinMode(ledPin, OUTPUT);\n  Serial.begin(9600);\n}\n\nvoid loop() {\n  sensorValue = analogRead(sensorPin);\n  Serial.println(sensorValue);\n  digitalWrite(ledPin, HIGH);\n  delay(sensorValue);\n  digitalWrite(ledPin, LOW);\n  delay(sensorValue);\n}",
+      "options": {"A": "The LED blinks faster.", "B": "The LED blinks slower.", "C": "The LED stops blinking.", "D": "The LED blinks at a constant rate regardless of the potentiometer's position."}
+    },
+    "53": {
+      "question": "Which function to retrieve text sent from the computer?",
+      "options": {"A": "Serial.readStringUntil('\\n')", "B": "ReadStringUntil('\\n')", "C": "Serial.readingStringUntil('\\n')"}
+    },
+    "56": {
+      "question": "How many parts of a complete IoT system?",
+      "options": {"A": "3", "B": "4", "C": "5", "D": "6"}
+    },
+    "57": {
+      "question": "How many errors are present in the code given below?",
+      "code": "int pin1=12;\nvoid setup() {\n  pinmode(pin1, IN);\n  Serial.begin(9600);\n}\nvoid loop() {\n  int value=analogRead(pin1);\n  Serial.println(value);\n}",
+      "options": {"A": "1", "B": "2", "C": "3", "D": "4"}
+    },
+    "59": {
+      "question": "How many pins on Arduino Uno R3 support the pulse width modulation (PWM)?",
+      "options": {"A": "7", "B": "5", "C": "9", "D": "6"},
+      "explanation": "Arduino Uno R3 has 6 PWM pins: 3, 5, 6, 9, 10, and 11."
+    },
+    "63": {
+      "question": "How many bits are there in a nibble?",
+      "options": {"A": "2", "B": "3", "C": "4", "D": "5"},
+      "explanation": "One nibble equals four bits."
+    },
+    "64": {
+      "question": "How many pins are there in a 7-segment LED display?",
+      "options": {"A": "5", "B": "7", "C": "9", "D": "10"},
+      "requiresImage": true
+    },
+    "65": {
+      "question": "How many parts of a complete IoT system?",
+      "options": {"A": "3", "B": "4", "C": "5", "D": "6"},
+      "explanation": "Each IoT application highlights four integrations: sensors/devices, connectivity, data processing, and user interface."
+    },
+    "67": {
+      "question": "How many pins are there in a servo motor?",
+      "options": {"A": "2", "B": "3", "C": "4", "D": "5"}
+    },
+    "173": {
+      "question": "Which function to retrieve text sent from the computer?",
+      "options": {"A": "Serial.readStringUntil('\\n')", "B": "ReadStringUntil('\\n')", "C": "Serial.readingStringUntil('\\n')"}
+    },
+    "203": {
+      "question": "Given a graph in the figure, the depth first traversal from node B is (visit nodes in ABC order):",
+      "options": {"A": "BADCE", "B": "BAEDC", "C": "BCDEA", "D": "BACDE"},
+      "explanation": null,
+      "requiresImage": true
+    },
+    "210": {
+      "question": "Which symbol is used to start a comment in Arduino code?",
+      "options": {"A": "#", "B": "//", "C": "**", "D": "<!--"}
+    },
+    "212": {
+      "question": "How many pins does the LM35 Temperature Sensor Module have?",
+      "options": {"A": "1", "B": "4", "C": "3", "D": "2"}
+    },
+    "285": {
+      "question": "Which function to retrieve text sent from the computer?",
+      "options": {"A": "Serial.readStringUntil('\\n')", "B": "ReadStringUntil('\\n')", "C": "Serial.readingStringUntil('\\n')"}
+    },
+    "286": {
+      "question": "Which of the following is an example of an IoT application?",
+      "options": {"A": "Wearable device to monitor blood glucose level", "B": "Manufacturing Bolt using CNC machine", "C": "Bank web page to monitor customer experience"}
+    },
+    "321": {
+      "question": "Can the setup() function change the value of constant variables?",
+      "options": {"A": "Yes, it can change", "B": "No, it cannot change", "C": "Yes, it can change but only integer values", "D": "Yes, it can change but only byte values"}
+    },
+    "350": {
+      "question": "Which Arduino UNO pin is NOT typically used for external interrupts?",
+      "options": {"A": "Pin 2", "B": "Pin 3", "C": "Pin 5"}
+    },
+    "351": {
+      "question": "Which digital pin of Arduino Uno Rev3 does NOT provide PWM output?",
+      "options": {"A": "3", "B": "5", "C": "8", "D": "10"}
+    }
+  }
+}

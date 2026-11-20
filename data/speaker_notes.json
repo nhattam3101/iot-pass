@@ -1,0 +1,3657 @@
+{
+  "presentationId": "1nr2WMkvs3wFKim-sqB7xTyJRnR2MEnL6WOSr-PN7kw4",
+  "title": "Sever_1_SEMESTER_4_IOT102",
+  "slide_count": 365,
+  "slides": [
+    {
+      "slide_number": 1,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_0",
+      "image": "slide_001.png",
+      "speaker_notes": "",
+      "answer": null,
+      "answer_source": null,
+      "notes_status": "empty",
+      "needs_review": false
+    },
+    {
+      "slide_number": 2,
+      "slide_object_id": "h7ed43840865c704e_0_0",
+      "image": "slide_002.png",
+      "speaker_notes": "",
+      "answer": null,
+      "answer_source": null,
+      "notes_status": "empty",
+      "needs_review": false
+    },
+    {
+      "slide_number": 3,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_13",
+      "image": "slide_003.png",
+      "speaker_notes": "",
+      "answer": null,
+      "answer_source": null,
+      "notes_status": "empty",
+      "needs_review": false
+    },
+    {
+      "slide_number": 4,
+      "slide_object_id": "h7e4299f0d4ae3506_0_0",
+      "image": "slide_004.png",
+      "speaker_notes": "https://4exam.net/             Môn nào k có đề cũ  thì nhắn a check nhé",
+      "answer": null,
+      "answer_source": null,
+      "notes_status": "ok",
+      "needs_review": true
+    },
+    {
+      "slide_number": 5,
+      "slide_object_id": "h33fc139eac7c0d56_7_0",
+      "image": "slide_005.png",
+      "speaker_notes": "https://www.fuflex.site/         Môn nào k có đề cũ  thì nhắn a check nhé",
+      "answer": null,
+      "answer_source": null,
+      "notes_status": "ok",
+      "needs_review": true
+    },
+    {
+      "slide_number": 6,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_19",
+      "image": "slide_006.png",
+      "speaker_notes": "",
+      "answer": null,
+      "answer_source": null,
+      "notes_status": "empty",
+      "needs_review": false
+    },
+    {
+      "slide_number": 7,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_25",
+      "image": "slide_007.png",
+      "speaker_notes": "",
+      "answer": null,
+      "answer_source": null,
+      "notes_status": "empty",
+      "needs_review": false
+    },
+    {
+      "slide_number": 8,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_32",
+      "image": "slide_008.png",
+      "speaker_notes": "",
+      "answer": null,
+      "answer_source": null,
+      "notes_status": "empty",
+      "needs_review": false
+    },
+    {
+      "slide_number": 9,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_40",
+      "image": "slide_009.png",
+      "speaker_notes": "",
+      "answer": null,
+      "answer_source": null,
+      "notes_status": "empty",
+      "needs_review": false
+    },
+    {
+      "slide_number": 10,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_47",
+      "image": "slide_010.png",
+      "speaker_notes": "",
+      "answer": null,
+      "answer_source": null,
+      "notes_status": "empty",
+      "needs_review": false
+    },
+    {
+      "slide_number": 11,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_53",
+      "image": "slide_011.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 12,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_61",
+      "image": "slide_012.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 13,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_69",
+      "image": "slide_013.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 14,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_77",
+      "image": "slide_014.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 15,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_85",
+      "image": "slide_015.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 16,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_95",
+      "image": "slide_016.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 17,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_103",
+      "image": "slide_017.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 18,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_111",
+      "image": "slide_018.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 19,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_119",
+      "image": "slide_019.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 20,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_127",
+      "image": "slide_020.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 21,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_135",
+      "image": "slide_021.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 22,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_143",
+      "image": "slide_022.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 23,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_151",
+      "image": "slide_023.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 24,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_159",
+      "image": "slide_024.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 25,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_167",
+      "image": "slide_025.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 26,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_175",
+      "image": "slide_026.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 27,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_183",
+      "image": "slide_027.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 28,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_191",
+      "image": "slide_028.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 29,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_199",
+      "image": "slide_029.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 30,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_207",
+      "image": "slide_030.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 31,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_215",
+      "image": "slide_031.png",
+      "speaker_notes": "C\n\u000bArduino chuyển đổi tất cả các điện áp tương tự (0V đến 5V hoặc 3.3V) được nhận làm đầu vào thành một dải điện áp từ 0 đến 1023. Điều này được thực hiện bằng cách ánh xạ các mức điện áp. Trên Arduino Uno, mức điện áp tối đa là 5V và bộ chuyển đổi ADC tích hợp có độ phân giải 10 bit, có nghĩa là nó có thể chia tín hiệu tương tự nhận được thành 2¹⁰ mức.",
+      "answer": null,
+      "answer_source": null,
+      "notes_status": "ok",
+      "needs_review": true
+    },
+    {
+      "slide_number": 32,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_224",
+      "image": "slide_032.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 33,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_232",
+      "image": "slide_033.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 34,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_240",
+      "image": "slide_034.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 35,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_248",
+      "image": "slide_035.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 36,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_256",
+      "image": "slide_036.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 37,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_264",
+      "image": "slide_037.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 38,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_272",
+      "image": "slide_038.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 39,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_280",
+      "image": "slide_039.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 40,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_288",
+      "image": "slide_040.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 41,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_297",
+      "image": "slide_041.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 42,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_305",
+      "image": "slide_042.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 43,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_313",
+      "image": "slide_043.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 44,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_321",
+      "image": "slide_044.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 45,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_329",
+      "image": "slide_045.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 46,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_337",
+      "image": "slide_046.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 47,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_345",
+      "image": "slide_047.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 48,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_353",
+      "image": "slide_048.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 49,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_361",
+      "image": "slide_049.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 50,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_369",
+      "image": "slide_050.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 51,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_377",
+      "image": "slide_051.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 52,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_385",
+      "image": "slide_052.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 53,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_393",
+      "image": "slide_053.png",
+      "speaker_notes": "AA",
+      "answer": null,
+      "answer_source": null,
+      "notes_status": "ok",
+      "needs_review": true
+    },
+    {
+      "slide_number": 54,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_401",
+      "image": "slide_054.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 55,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_409",
+      "image": "slide_055.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 56,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_417",
+      "image": "slide_056.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 57,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_425",
+      "image": "slide_057.png",
+      "speaker_notes": "C \nchỗ này có 2 lỗi lớn nếu tính theo dòng là cái dòng int pin1=12 nó là chân digital , nhưng ở dưới lại viết là analogRead  tức là đọc tín hiệu analog từ chân digital nên nó sẽ sai , với cái cái dòng vàng cái chỗ pinmode phải sửa thành pinMode là 1 lỗi nữa , ngoài ra đoạn sau nó quy định chân pin1 là input nma để mỗi là IN nên n sai phải là INPUT , tuy nhiên cái lỗi pin1=12 nó gây tranh cãi vì bản thân nó không phải là lỗi compile nó là lỗi logic . nếu tính khắt khe thì là 3 lỗi còn nếu chỉ quy ước code chạy đúng thì nó chỉ có 2 lỗi thôi nhưng thường thì với môn này ngta hay tính 3 lỗi\u000b\ncòn nếu chỉ quy ước code chạy đúng thì nó chỉ có 2 lỗi thôi nhưng thường thì với môn này ngta hay tính 3 lỗi\nvì nếu n đọc giá trị liên tục mà nó auto là 1 giá trị rời rạc thì n sai về mặt logic",
+      "answer": null,
+      "answer_source": null,
+      "notes_status": "ok",
+      "needs_review": true
+    },
+    {
+      "slide_number": 58,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_433",
+      "image": "slide_058.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 59,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_442",
+      "image": "slide_059.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 60,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_452",
+      "image": "slide_060.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 61,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_460",
+      "image": "slide_061.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 62,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_468",
+      "image": "slide_062.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 63,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_476",
+      "image": "slide_063.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 64,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_485",
+      "image": "slide_064.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 65,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_495",
+      "image": "slide_065.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 66,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_504",
+      "image": "slide_066.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 67,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_512",
+      "image": "slide_067.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 68,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_520",
+      "image": "slide_068.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 69,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_528",
+      "image": "slide_069.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 70,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_536",
+      "image": "slide_070.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 71,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_546",
+      "image": "slide_071.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 72,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_554",
+      "image": "slide_072.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 73,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_562",
+      "image": "slide_073.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 74,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_570",
+      "image": "slide_074.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 75,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_578",
+      "image": "slide_075.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 76,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_586",
+      "image": "slide_076.png",
+      "speaker_notes": "đen nâu đỏ cam vàng lụm lam tím xám trắng => B",
+      "answer": null,
+      "answer_source": null,
+      "notes_status": "ok",
+      "needs_review": true
+    },
+    {
+      "slide_number": 77,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_594",
+      "image": "slide_077.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 78,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_602",
+      "image": "slide_078.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 79,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_610",
+      "image": "slide_079.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 80,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_619",
+      "image": "slide_080.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 81,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_630",
+      "image": "slide_081.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 82,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_638",
+      "image": "slide_082.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 83,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_646",
+      "image": "slide_083.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 84,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_654",
+      "image": "slide_084.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 85,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_662",
+      "image": "slide_085.png",
+      "speaker_notes": "",
+      "answer": null,
+      "answer_source": null,
+      "notes_status": "empty",
+      "needs_review": false
+    },
+    {
+      "slide_number": 86,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_668",
+      "image": "slide_086.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 87,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_676",
+      "image": "slide_087.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 88,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_684",
+      "image": "slide_088.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 89,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_692",
+      "image": "slide_089.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 90,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_700",
+      "image": "slide_090.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 91,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_708",
+      "image": "slide_091.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 92,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_716",
+      "image": "slide_092.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 93,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_724",
+      "image": "slide_093.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 94,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_732",
+      "image": "slide_094.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 95,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_740",
+      "image": "slide_095.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 96,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_748",
+      "image": "slide_096.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 97,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_756",
+      "image": "slide_097.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 98,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_764",
+      "image": "slide_098.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 99,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_772",
+      "image": "slide_099.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 100,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_780",
+      "image": "slide_100.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 101,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_788",
+      "image": "slide_101.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 102,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_796",
+      "image": "slide_102.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 103,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_804",
+      "image": "slide_103.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 104,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_812",
+      "image": "slide_104.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 105,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_820",
+      "image": "slide_105.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 106,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_828",
+      "image": "slide_106.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 107,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_836",
+      "image": "slide_107.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 108,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_844",
+      "image": "slide_108.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 109,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_852",
+      "image": "slide_109.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 110,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_860",
+      "image": "slide_110.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 111,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_868",
+      "image": "slide_111.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 112,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_876",
+      "image": "slide_112.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 113,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_884",
+      "image": "slide_113.png",
+      "speaker_notes": "C\n\nTrong Arduino, hàm delay(x) làm chương trình tạm dừng trong x mili giây (milliseconds).\ndelay(1000) = 1000 ms = 1 giây.\nTrong thời gian này, chương trình sẽ không thực hiện các lệnh tiếp theo.",
+      "answer": null,
+      "answer_source": null,
+      "notes_status": "ok",
+      "needs_review": true
+    },
+    {
+      "slide_number": 114,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_892",
+      "image": "slide_114.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 115,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_900",
+      "image": "slide_115.png",
+      "speaker_notes": "",
+      "answer": null,
+      "answer_source": null,
+      "notes_status": "empty",
+      "needs_review": false
+    },
+    {
+      "slide_number": 116,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_908",
+      "image": "slide_116.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 117,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_916",
+      "image": "slide_117.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 118,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_924",
+      "image": "slide_118.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 119,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_932",
+      "image": "slide_119.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 120,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_940",
+      "image": "slide_120.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 121,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_948",
+      "image": "slide_121.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 122,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_956",
+      "image": "slide_122.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 123,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_964",
+      "image": "slide_123.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 124,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_972",
+      "image": "slide_124.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 125,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_980",
+      "image": "slide_125.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 126,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_988",
+      "image": "slide_126.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 127,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_996",
+      "image": "slide_127.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 128,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1004",
+      "image": "slide_128.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 129,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1012",
+      "image": "slide_129.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 130,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1020",
+      "image": "slide_130.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 131,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1029",
+      "image": "slide_131.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 132,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1037",
+      "image": "slide_132.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 133,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1045",
+      "image": "slide_133.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 134,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1053",
+      "image": "slide_134.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 135,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1061",
+      "image": "slide_135.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 136,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1069",
+      "image": "slide_136.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 137,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1077",
+      "image": "slide_137.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 138,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1085",
+      "image": "slide_138.png",
+      "speaker_notes": "B\u000b\u000bInter-Integrated Circuit (I2C)\nMAX30102 sử dụng giao thức truyền thông nào?\nMAX30102 là cảm biến đo nhịp tim và nồng độ oxy trong máu (SpO2), sử dụng giao thức I2C để giao tiếp với vi điều khiển qua hai đường SDA (dữ liệu) và SCL (xung nhịp).\nMẹo nhớ: MAX30102 → I2C → SDA + SCL.",
+      "answer": null,
+      "answer_source": null,
+      "notes_status": "ok",
+      "needs_review": true
+    },
+    {
+      "slide_number": 139,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1093",
+      "image": "slide_139.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 140,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1101",
+      "image": "slide_140.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 141,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1109",
+      "image": "slide_141.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 142,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1117",
+      "image": "slide_142.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 143,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1125",
+      "image": "slide_143.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 144,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1133",
+      "image": "slide_144.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 145,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1141",
+      "image": "slide_145.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 146,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1149",
+      "image": "slide_146.png",
+      "speaker_notes": "ABC",
+      "answer": null,
+      "answer_source": null,
+      "notes_status": "ok",
+      "needs_review": true
+    },
+    {
+      "slide_number": 147,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1157",
+      "image": "slide_147.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 148,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1165",
+      "image": "slide_148.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 149,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1173",
+      "image": "slide_149.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 150,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1181",
+      "image": "slide_150.png",
+      "speaker_notes": "AB",
+      "answer": null,
+      "answer_source": null,
+      "notes_status": "ok",
+      "needs_review": true
+    },
+    {
+      "slide_number": 151,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1189",
+      "image": "slide_151.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 152,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1197",
+      "image": "slide_152.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 153,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1205",
+      "image": "slide_153.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 154,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1213",
+      "image": "slide_154.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 155,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1221",
+      "image": "slide_155.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 156,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1229",
+      "image": "slide_156.png",
+      "speaker_notes": "D\u000b\u000bD phải là both // comment and /* comment */ mới đúng",
+      "answer": null,
+      "answer_source": null,
+      "notes_status": "ok",
+      "needs_review": true
+    },
+    {
+      "slide_number": 157,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1237",
+      "image": "slide_157.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 158,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1245",
+      "image": "slide_158.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 159,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1253",
+      "image": "slide_159.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 160,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1261",
+      "image": "slide_160.png",
+      "speaker_notes": "D. not examlple -> Automatic eletric iron",
+      "answer": null,
+      "answer_source": null,
+      "notes_status": "ok",
+      "needs_review": true
+    },
+    {
+      "slide_number": 161,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1269",
+      "image": "slide_161.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 162,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1277",
+      "image": "slide_162.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 163,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1285",
+      "image": "slide_163.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 164,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1293",
+      "image": "slide_164.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 165,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1301",
+      "image": "slide_165.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 166,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1309",
+      "image": "slide_166.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 167,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1317",
+      "image": "slide_167.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 168,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1325",
+      "image": "slide_168.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 169,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1333",
+      "image": "slide_169.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 170,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1341",
+      "image": "slide_170.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 171,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1349",
+      "image": "slide_171.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 172,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1357",
+      "image": "slide_172.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 173,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1365",
+      "image": "slide_173.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 174,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1373",
+      "image": "slide_174.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 175,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1381",
+      "image": "slide_175.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 176,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1389",
+      "image": "slide_176.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 177,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1397",
+      "image": "slide_177.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 178,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1405",
+      "image": "slide_178.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 179,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1413",
+      "image": "slide_179.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 180,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1421",
+      "image": "slide_180.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 181,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1429",
+      "image": "slide_181.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 182,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1437",
+      "image": "slide_182.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 183,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1445",
+      "image": "slide_183.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 184,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1453",
+      "image": "slide_184.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 185,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1461",
+      "image": "slide_185.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 186,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1469",
+      "image": "slide_186.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 187,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1477",
+      "image": "slide_187.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 188,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1485",
+      "image": "slide_188.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 189,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1493",
+      "image": "slide_189.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 190,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1501",
+      "image": "slide_190.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 191,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1509",
+      "image": "slide_191.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 192,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1517",
+      "image": "slide_192.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 193,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1525",
+      "image": "slide_193.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 194,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1533",
+      "image": "slide_194.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 195,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1541",
+      "image": "slide_195.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 196,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1549",
+      "image": "slide_196.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 197,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1557",
+      "image": "slide_197.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 198,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1565",
+      "image": "slide_198.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 199,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1573",
+      "image": "slide_199.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 200,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1581",
+      "image": "slide_200.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 201,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1589",
+      "image": "slide_201.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 202,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1597",
+      "image": "slide_202.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 203,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1605",
+      "image": "slide_203.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 204,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1614",
+      "image": "slide_204.png",
+      "speaker_notes": "AB",
+      "answer": null,
+      "answer_source": null,
+      "notes_status": "ok",
+      "needs_review": true
+    },
+    {
+      "slide_number": 205,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1622",
+      "image": "slide_205.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 206,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1629",
+      "image": "slide_206.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 207,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1636",
+      "image": "slide_207.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 208,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1643",
+      "image": "slide_208.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 209,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1650",
+      "image": "slide_209.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 210,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1657",
+      "image": "slide_210.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 211,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1664",
+      "image": "slide_211.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 212,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1671",
+      "image": "slide_212.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 213,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1678",
+      "image": "slide_213.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 214,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1685",
+      "image": "slide_214.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 215,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1693",
+      "image": "slide_215.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 216,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1701",
+      "image": "slide_216.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 217,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1709",
+      "image": "slide_217.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 218,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1717",
+      "image": "slide_218.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 219,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1725",
+      "image": "slide_219.png",
+      "speaker_notes": "",
+      "answer": null,
+      "answer_source": null,
+      "notes_status": "empty",
+      "needs_review": false
+    },
+    {
+      "slide_number": 220,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1732",
+      "image": "slide_220.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 221,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1740",
+      "image": "slide_221.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 222,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1748",
+      "image": "slide_222.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 223,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1756",
+      "image": "slide_223.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 224,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1764",
+      "image": "slide_224.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 225,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1772",
+      "image": "slide_225.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 226,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1780",
+      "image": "slide_226.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 227,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1788",
+      "image": "slide_227.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 228,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1796",
+      "image": "slide_228.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 229,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1804",
+      "image": "slide_229.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 230,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1812",
+      "image": "slide_230.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 231,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1820",
+      "image": "slide_231.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 232,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1828",
+      "image": "slide_232.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 233,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1836",
+      "image": "slide_233.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 234,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1844",
+      "image": "slide_234.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 235,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1852",
+      "image": "slide_235.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 236,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1860",
+      "image": "slide_236.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 237,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1868",
+      "image": "slide_237.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 238,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1876",
+      "image": "slide_238.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 239,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1884",
+      "image": "slide_239.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 240,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1892",
+      "image": "slide_240.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 241,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1900",
+      "image": "slide_241.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 242,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1908",
+      "image": "slide_242.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 243,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1916",
+      "image": "slide_243.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 244,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1924",
+      "image": "slide_244.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 245,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1932",
+      "image": "slide_245.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 246,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1940",
+      "image": "slide_246.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 247,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1948",
+      "image": "slide_247.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 248,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1956",
+      "image": "slide_248.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 249,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1964",
+      "image": "slide_249.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 250,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1972",
+      "image": "slide_250.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 251,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1980",
+      "image": "slide_251.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 252,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1988",
+      "image": "slide_252.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 253,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_1996",
+      "image": "slide_253.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 254,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2004",
+      "image": "slide_254.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 255,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2012",
+      "image": "slide_255.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 256,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2020",
+      "image": "slide_256.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 257,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2028",
+      "image": "slide_257.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 258,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2036",
+      "image": "slide_258.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 259,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2044",
+      "image": "slide_259.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 260,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2052",
+      "image": "slide_260.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 261,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2060",
+      "image": "slide_261.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 262,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2068",
+      "image": "slide_262.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 263,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2076",
+      "image": "slide_263.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 264,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2084",
+      "image": "slide_264.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 265,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2092",
+      "image": "slide_265.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 266,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2100",
+      "image": "slide_266.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 267,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2108",
+      "image": "slide_267.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 268,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2116",
+      "image": "slide_268.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 269,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2124",
+      "image": "slide_269.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 270,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2132",
+      "image": "slide_270.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 271,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2140",
+      "image": "slide_271.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 272,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2148",
+      "image": "slide_272.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 273,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2156",
+      "image": "slide_273.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 274,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2164",
+      "image": "slide_274.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 275,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2172",
+      "image": "slide_275.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 276,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2180",
+      "image": "slide_276.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 277,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2188",
+      "image": "slide_277.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 278,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2196",
+      "image": "slide_278.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 279,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2204",
+      "image": "slide_279.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 280,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2212",
+      "image": "slide_280.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 281,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2220",
+      "image": "slide_281.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 282,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2228",
+      "image": "slide_282.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 283,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2236",
+      "image": "slide_283.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 284,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2244",
+      "image": "slide_284.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 285,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2252",
+      "image": "slide_285.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 286,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2260",
+      "image": "slide_286.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 287,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2268",
+      "image": "slide_287.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 288,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2276",
+      "image": "slide_288.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 289,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2284",
+      "image": "slide_289.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 290,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2292",
+      "image": "slide_290.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 291,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2300",
+      "image": "slide_291.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 292,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2308",
+      "image": "slide_292.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 293,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2316",
+      "image": "slide_293.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 294,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2324",
+      "image": "slide_294.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 295,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2332",
+      "image": "slide_295.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 296,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2339",
+      "image": "slide_296.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 297,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2347",
+      "image": "slide_297.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 298,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2355",
+      "image": "slide_298.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 299,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2363",
+      "image": "slide_299.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 300,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2370",
+      "image": "slide_300.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 301,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2378",
+      "image": "slide_301.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 302,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2386",
+      "image": "slide_302.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 303,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2394",
+      "image": "slide_303.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 304,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2402",
+      "image": "slide_304.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 305,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2410",
+      "image": "slide_305.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 306,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2418",
+      "image": "slide_306.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 307,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2426",
+      "image": "slide_307.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 308,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2434",
+      "image": "slide_308.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 309,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2442",
+      "image": "slide_309.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 310,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2450",
+      "image": "slide_310.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 311,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2458",
+      "image": "slide_311.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 312,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2466",
+      "image": "slide_312.png",
+      "speaker_notes": "",
+      "answer": null,
+      "answer_source": null,
+      "notes_status": "empty",
+      "needs_review": false
+    },
+    {
+      "slide_number": 313,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2473",
+      "image": "slide_313.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 314,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2481",
+      "image": "slide_314.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 315,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2489",
+      "image": "slide_315.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 316,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2497",
+      "image": "slide_316.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 317,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2505",
+      "image": "slide_317.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 318,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2513",
+      "image": "slide_318.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 319,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2521",
+      "image": "slide_319.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 320,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2529",
+      "image": "slide_320.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 321,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2537",
+      "image": "slide_321.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 322,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2545",
+      "image": "slide_322.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 323,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2553",
+      "image": "slide_323.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 324,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2561",
+      "image": "slide_324.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 325,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2568",
+      "image": "slide_325.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 326,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2575",
+      "image": "slide_326.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 327,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2583",
+      "image": "slide_327.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 328,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2591",
+      "image": "slide_328.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 329,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2599",
+      "image": "slide_329.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 330,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2607",
+      "image": "slide_330.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 331,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2615",
+      "image": "slide_331.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 332,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2623",
+      "image": "slide_332.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 333,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2631",
+      "image": "slide_333.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 334,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2639",
+      "image": "slide_334.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 335,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2647",
+      "image": "slide_335.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 336,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2655",
+      "image": "slide_336.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 337,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2663",
+      "image": "slide_337.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 338,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2671",
+      "image": "slide_338.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 339,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2679",
+      "image": "slide_339.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 340,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2687",
+      "image": "slide_340.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 341,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2695",
+      "image": "slide_341.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 342,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2703",
+      "image": "slide_342.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 343,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2711",
+      "image": "slide_343.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 344,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2719",
+      "image": "slide_344.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 345,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2727",
+      "image": "slide_345.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 346,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2735",
+      "image": "slide_346.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 347,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2743",
+      "image": "slide_347.png",
+      "speaker_notes": "",
+      "answer": null,
+      "answer_source": null,
+      "notes_status": "empty",
+      "needs_review": false
+    },
+    {
+      "slide_number": 348,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2750",
+      "image": "slide_348.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 349,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2758",
+      "image": "slide_349.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 350,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2766",
+      "image": "slide_350.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 351,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2774",
+      "image": "slide_351.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 352,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2782",
+      "image": "slide_352.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 353,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2790",
+      "image": "slide_353.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 354,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2798",
+      "image": "slide_354.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 355,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2806",
+      "image": "slide_355.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 356,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2814",
+      "image": "slide_356.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 357,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2822",
+      "image": "slide_357.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 358,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2830",
+      "image": "slide_358.png",
+      "speaker_notes": "D",
+      "answer": "D",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 359,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2838",
+      "image": "slide_359.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 360,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2846",
+      "image": "slide_360.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 361,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2854",
+      "image": "slide_361.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 362,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2862",
+      "image": "slide_362.png",
+      "speaker_notes": "C",
+      "answer": "C",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 363,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2868",
+      "image": "slide_363.png",
+      "speaker_notes": "",
+      "answer": null,
+      "answer_source": null,
+      "notes_status": "empty",
+      "needs_review": false
+    },
+    {
+      "slide_number": 364,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2875",
+      "image": "slide_364.png",
+      "speaker_notes": "A",
+      "answer": "A",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    },
+    {
+      "slide_number": 365,
+      "slide_object_id": "h5aca6171a1d9e7d9_1_2883",
+      "image": "slide_365.png",
+      "speaker_notes": "B",
+      "answer": "B",
+      "answer_source": "speaker_notes",
+      "notes_status": "ok",
+      "needs_review": false
+    }
+  ]
+}

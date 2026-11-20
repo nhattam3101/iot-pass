@@ -1,0 +1,90 @@
+[
+  {
+    "id": "section-exercises",
+    "name": "Dạng bài tập",
+    "startSlide": 11,
+    "endSlide": 84,
+    "kind": "source_section",
+    "needsReview": false
+  },
+  {
+    "id": "section-short-answer",
+    "name": "Answer ngắn",
+    "startSlide": 86,
+    "endSlide": 218,
+    "kind": "source_section",
+    "needsReview": false
+  },
+  {
+    "id": "section-long-answer",
+    "name": "Answer dài",
+    "startSlide": 220,
+    "endSlide": 311,
+    "kind": "source_section",
+    "needsReview": false
+  },
+  {
+    "id": "section-unlabeled",
+    "name": "Unlabeled source section",
+    "startSlide": 313,
+    "endSlide": 346,
+    "kind": "source_section",
+    "needsReview": true
+  },
+  {
+    "id": "section-not-questions",
+    "name": "NOT questions",
+    "startSlide": 348,
+    "endSlide": 362,
+    "kind": "source_section",
+    "needsReview": false
+  },
+  {
+    "id": "section-true-false",
+    "name": "True/False",
+    "startSlide": 364,
+    "endSlide": 365,
+    "kind": "source_section",
+    "needsReview": false
+  },
+  {
+    "id": "arduino",
+    "name": "Arduino",
+    "kind": "technical"
+  },
+  {
+    "id": "sensors-actuators",
+    "name": "Sensors & Actuators",
+    "kind": "technical"
+  },
+  {
+    "id": "electronics-circuits",
+    "name": "Electronics & Circuits",
+    "kind": "technical"
+  },
+  {
+    "id": "networking-protocols",
+    "name": "Networking & Protocols",
+    "kind": "technical"
+  },
+  {
+    "id": "iot-architecture",
+    "name": "IoT Concepts & Architecture",
+    "kind": "technical"
+  },
+  {
+    "id": "programming",
+    "name": "C/C++ & Programming",
+    "kind": "technical"
+  },
+  {
+    "id": "data-structures",
+    "name": "Data Structures & Algorithms",
+    "kind": "technical"
+  },
+  {
+    "id": "uncategorized",
+    "name": "Uncategorized",
+    "kind": "technical"
+  }
+]

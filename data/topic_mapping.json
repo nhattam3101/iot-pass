@@ -1,0 +1,3023 @@
+[
+  {
+    "questionId": "iot102-011",
+    "slideNumber": 11,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "networking-protocols"
+    ]
+  },
+  {
+    "questionId": "iot102-012",
+    "slideNumber": 12,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "arduino",
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-013",
+    "slideNumber": 13,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "uncategorized"
+    ]
+  },
+  {
+    "questionId": "iot102-014",
+    "slideNumber": 14,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "arduino",
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-015",
+    "slideNumber": 15,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "arduino",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-016",
+    "slideNumber": 16,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "arduino",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-017",
+    "slideNumber": 17,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "arduino",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-018",
+    "slideNumber": 18,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "arduino",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-019",
+    "slideNumber": 19,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "arduino",
+      "electronics-circuits",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-020",
+    "slideNumber": 20,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "arduino",
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-021",
+    "slideNumber": 21,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "arduino",
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-022",
+    "slideNumber": 22,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-023",
+    "slideNumber": 23,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "arduino",
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-024",
+    "slideNumber": 24,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "arduino"
+    ]
+  },
+  {
+    "questionId": "iot102-025",
+    "slideNumber": 25,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "arduino",
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-026",
+    "slideNumber": 26,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "arduino",
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-027",
+    "slideNumber": 27,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "arduino"
+    ]
+  },
+  {
+    "questionId": "iot102-028",
+    "slideNumber": 28,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "arduino"
+    ]
+  },
+  {
+    "questionId": "iot102-029",
+    "slideNumber": 29,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "arduino"
+    ]
+  },
+  {
+    "questionId": "iot102-030",
+    "slideNumber": 30,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "arduino"
+    ]
+  },
+  {
+    "questionId": "iot102-031",
+    "slideNumber": 31,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "arduino"
+    ]
+  },
+  {
+    "questionId": "iot102-032",
+    "slideNumber": 32,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "arduino",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-033",
+    "slideNumber": 33,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "networking-protocols"
+    ]
+  },
+  {
+    "questionId": "iot102-034",
+    "slideNumber": 34,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "arduino",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-035",
+    "slideNumber": 35,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "iot-architecture",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-036",
+    "slideNumber": 36,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "arduino",
+      "networking-protocols"
+    ]
+  },
+  {
+    "questionId": "iot102-037",
+    "slideNumber": 37,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "arduino",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-038",
+    "slideNumber": 38,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "arduino",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-039",
+    "slideNumber": 39,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "arduino"
+    ]
+  },
+  {
+    "questionId": "iot102-040",
+    "slideNumber": 40,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-041",
+    "slideNumber": 41,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "arduino",
+      "sensors-actuators",
+      "electronics-circuits",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-042",
+    "slideNumber": 42,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "arduino",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-043",
+    "slideNumber": 43,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "arduino"
+    ]
+  },
+  {
+    "questionId": "iot102-044",
+    "slideNumber": 44,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-045",
+    "slideNumber": 45,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "networking-protocols"
+    ]
+  },
+  {
+    "questionId": "iot102-046",
+    "slideNumber": 46,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "arduino"
+    ]
+  },
+  {
+    "questionId": "iot102-047",
+    "slideNumber": 47,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "sensors-actuators"
+    ]
+  },
+  {
+    "questionId": "iot102-048",
+    "slideNumber": 48,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "sensors-actuators",
+      "networking-protocols"
+    ]
+  },
+  {
+    "questionId": "iot102-049",
+    "slideNumber": 49,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "uncategorized"
+    ]
+  },
+  {
+    "questionId": "iot102-050",
+    "slideNumber": 50,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "arduino",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-051",
+    "slideNumber": 51,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "arduino"
+    ]
+  },
+  {
+    "questionId": "iot102-052",
+    "slideNumber": 52,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "arduino"
+    ]
+  },
+  {
+    "questionId": "iot102-053",
+    "slideNumber": 53,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "arduino",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-054",
+    "slideNumber": 54,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "arduino",
+      "electronics-circuits",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-055",
+    "slideNumber": 55,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "uncategorized"
+    ]
+  },
+  {
+    "questionId": "iot102-056",
+    "slideNumber": 56,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-057",
+    "slideNumber": 57,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "arduino",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-058",
+    "slideNumber": 58,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "arduino"
+    ]
+  },
+  {
+    "questionId": "iot102-059",
+    "slideNumber": 59,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "arduino"
+    ]
+  },
+  {
+    "questionId": "iot102-060",
+    "slideNumber": 60,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "uncategorized"
+    ]
+  },
+  {
+    "questionId": "iot102-061",
+    "slideNumber": 61,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "uncategorized"
+    ]
+  },
+  {
+    "questionId": "iot102-062",
+    "slideNumber": 62,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "uncategorized"
+    ]
+  },
+  {
+    "questionId": "iot102-063",
+    "slideNumber": 63,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "uncategorized"
+    ]
+  },
+  {
+    "questionId": "iot102-064",
+    "slideNumber": 64,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-065",
+    "slideNumber": 65,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-066",
+    "slideNumber": 66,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "uncategorized"
+    ]
+  },
+  {
+    "questionId": "iot102-067",
+    "slideNumber": 67,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "sensors-actuators"
+    ]
+  },
+  {
+    "questionId": "iot102-068",
+    "slideNumber": 68,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "arduino"
+    ]
+  },
+  {
+    "questionId": "iot102-069",
+    "slideNumber": 69,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "arduino"
+    ]
+  },
+  {
+    "questionId": "iot102-070",
+    "slideNumber": 70,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-071",
+    "slideNumber": 71,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-072",
+    "slideNumber": 72,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-073",
+    "slideNumber": 73,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "arduino",
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-074",
+    "slideNumber": 74,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-075",
+    "slideNumber": 75,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "arduino",
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-076",
+    "slideNumber": 76,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-077",
+    "slideNumber": 77,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "arduino",
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-078",
+    "slideNumber": 78,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-079",
+    "slideNumber": 79,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-080",
+    "slideNumber": 80,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-081",
+    "slideNumber": 81,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-082",
+    "slideNumber": 82,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-083",
+    "slideNumber": 83,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "arduino"
+    ]
+  },
+  {
+    "questionId": "iot102-084",
+    "slideNumber": 84,
+    "sourceSectionId": "section-exercises",
+    "topicIds": [
+      "arduino",
+      "sensors-actuators",
+      "networking-protocols"
+    ]
+  },
+  {
+    "questionId": "iot102-086",
+    "slideNumber": 86,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino",
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-087",
+    "slideNumber": 87,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-088",
+    "slideNumber": 88,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino",
+      "networking-protocols"
+    ]
+  },
+  {
+    "questionId": "iot102-089",
+    "slideNumber": 89,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "networking-protocols"
+    ]
+  },
+  {
+    "questionId": "iot102-090",
+    "slideNumber": 90,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "networking-protocols",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-091",
+    "slideNumber": 91,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "sensors-actuators",
+      "electronics-circuits",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-092",
+    "slideNumber": 92,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "networking-protocols",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-093",
+    "slideNumber": 93,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "sensors-actuators",
+      "networking-protocols",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-094",
+    "slideNumber": 94,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino"
+    ]
+  },
+  {
+    "questionId": "iot102-095",
+    "slideNumber": 95,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino",
+      "electronics-circuits",
+      "networking-protocols"
+    ]
+  },
+  {
+    "questionId": "iot102-096",
+    "slideNumber": 96,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino"
+    ]
+  },
+  {
+    "questionId": "iot102-097",
+    "slideNumber": 97,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino"
+    ]
+  },
+  {
+    "questionId": "iot102-098",
+    "slideNumber": 98,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-099",
+    "slideNumber": 99,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-100",
+    "slideNumber": 100,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino"
+    ]
+  },
+  {
+    "questionId": "iot102-101",
+    "slideNumber": 101,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "networking-protocols",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-102",
+    "slideNumber": 102,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "sensors-actuators"
+    ]
+  },
+  {
+    "questionId": "iot102-103",
+    "slideNumber": 103,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino"
+    ]
+  },
+  {
+    "questionId": "iot102-104",
+    "slideNumber": 104,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "electronics-circuits",
+      "networking-protocols"
+    ]
+  },
+  {
+    "questionId": "iot102-105",
+    "slideNumber": 105,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-106",
+    "slideNumber": 106,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "networking-protocols"
+    ]
+  },
+  {
+    "questionId": "iot102-107",
+    "slideNumber": 107,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-108",
+    "slideNumber": 108,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "electronics-circuits",
+      "networking-protocols",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-109",
+    "slideNumber": 109,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino"
+    ]
+  },
+  {
+    "questionId": "iot102-110",
+    "slideNumber": 110,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "sensors-actuators",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-111",
+    "slideNumber": 111,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-112",
+    "slideNumber": 112,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-113",
+    "slideNumber": 113,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino"
+    ]
+  },
+  {
+    "questionId": "iot102-114",
+    "slideNumber": 114,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "electronics-circuits",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-115",
+    "slideNumber": 115,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino"
+    ]
+  },
+  {
+    "questionId": "iot102-116",
+    "slideNumber": 116,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino",
+      "networking-protocols"
+    ]
+  },
+  {
+    "questionId": "iot102-117",
+    "slideNumber": 117,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino",
+      "networking-protocols"
+    ]
+  },
+  {
+    "questionId": "iot102-118",
+    "slideNumber": 118,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-119",
+    "slideNumber": 119,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "sensors-actuators",
+      "networking-protocols"
+    ]
+  },
+  {
+    "questionId": "iot102-120",
+    "slideNumber": 120,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "sensors-actuators"
+    ]
+  },
+  {
+    "questionId": "iot102-121",
+    "slideNumber": 121,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "networking-protocols",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-122",
+    "slideNumber": 122,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino",
+      "iot-architecture",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-123",
+    "slideNumber": 123,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-124",
+    "slideNumber": 124,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino",
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-125",
+    "slideNumber": 125,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "sensors-actuators"
+    ]
+  },
+  {
+    "questionId": "iot102-126",
+    "slideNumber": 126,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "sensors-actuators",
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-127",
+    "slideNumber": 127,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "uncategorized"
+    ]
+  },
+  {
+    "questionId": "iot102-128",
+    "slideNumber": 128,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "sensors-actuators"
+    ]
+  },
+  {
+    "questionId": "iot102-129",
+    "slideNumber": 129,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-130",
+    "slideNumber": 130,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino",
+      "networking-protocols"
+    ]
+  },
+  {
+    "questionId": "iot102-131",
+    "slideNumber": 131,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "uncategorized"
+    ]
+  },
+  {
+    "questionId": "iot102-132",
+    "slideNumber": 132,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-133",
+    "slideNumber": 133,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-134",
+    "slideNumber": 134,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-135",
+    "slideNumber": 135,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "sensors-actuators",
+      "electronics-circuits",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-136",
+    "slideNumber": 136,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "uncategorized"
+    ]
+  },
+  {
+    "questionId": "iot102-137",
+    "slideNumber": 137,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino"
+    ]
+  },
+  {
+    "questionId": "iot102-138",
+    "slideNumber": 138,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "sensors-actuators",
+      "electronics-circuits",
+      "networking-protocols"
+    ]
+  },
+  {
+    "questionId": "iot102-139",
+    "slideNumber": 139,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino",
+      "sensors-actuators",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-140",
+    "slideNumber": 140,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino",
+      "electronics-circuits",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-141",
+    "slideNumber": 141,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "sensors-actuators",
+      "networking-protocols",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-142",
+    "slideNumber": 142,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino"
+    ]
+  },
+  {
+    "questionId": "iot102-143",
+    "slideNumber": 143,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino"
+    ]
+  },
+  {
+    "questionId": "iot102-144",
+    "slideNumber": 144,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino"
+    ]
+  },
+  {
+    "questionId": "iot102-145",
+    "slideNumber": 145,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino",
+      "sensors-actuators"
+    ]
+  },
+  {
+    "questionId": "iot102-146",
+    "slideNumber": 146,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "networking-protocols",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-147",
+    "slideNumber": 147,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "networking-protocols"
+    ]
+  },
+  {
+    "questionId": "iot102-148",
+    "slideNumber": 148,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "sensors-actuators",
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-149",
+    "slideNumber": 149,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino"
+    ]
+  },
+  {
+    "questionId": "iot102-150",
+    "slideNumber": 150,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "sensors-actuators"
+    ]
+  },
+  {
+    "questionId": "iot102-151",
+    "slideNumber": 151,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-152",
+    "slideNumber": 152,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "sensors-actuators"
+    ]
+  },
+  {
+    "questionId": "iot102-153",
+    "slideNumber": 153,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino",
+      "networking-protocols",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-154",
+    "slideNumber": 154,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "uncategorized"
+    ]
+  },
+  {
+    "questionId": "iot102-155",
+    "slideNumber": 155,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-156",
+    "slideNumber": 156,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-157",
+    "slideNumber": 157,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "networking-protocols",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-158",
+    "slideNumber": 158,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-159",
+    "slideNumber": 159,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino",
+      "networking-protocols"
+    ]
+  },
+  {
+    "questionId": "iot102-160",
+    "slideNumber": 160,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "uncategorized"
+    ]
+  },
+  {
+    "questionId": "iot102-161",
+    "slideNumber": 161,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "networking-protocols"
+    ]
+  },
+  {
+    "questionId": "iot102-162",
+    "slideNumber": 162,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-163",
+    "slideNumber": 163,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "networking-protocols",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-164",
+    "slideNumber": 164,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-165",
+    "slideNumber": 165,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "networking-protocols",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-166",
+    "slideNumber": 166,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "uncategorized"
+    ]
+  },
+  {
+    "questionId": "iot102-167",
+    "slideNumber": 167,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "uncategorized"
+    ]
+  },
+  {
+    "questionId": "iot102-168",
+    "slideNumber": 168,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "networking-protocols"
+    ]
+  },
+  {
+    "questionId": "iot102-169",
+    "slideNumber": 169,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino",
+      "networking-protocols"
+    ]
+  },
+  {
+    "questionId": "iot102-170",
+    "slideNumber": 170,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino",
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-171",
+    "slideNumber": 171,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "uncategorized"
+    ]
+  },
+  {
+    "questionId": "iot102-172",
+    "slideNumber": 172,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino",
+      "networking-protocols",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-173",
+    "slideNumber": 173,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-174",
+    "slideNumber": 174,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-175",
+    "slideNumber": 175,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "networking-protocols",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-176",
+    "slideNumber": 176,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "sensors-actuators"
+    ]
+  },
+  {
+    "questionId": "iot102-177",
+    "slideNumber": 177,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "sensors-actuators"
+    ]
+  },
+  {
+    "questionId": "iot102-178",
+    "slideNumber": 178,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino"
+    ]
+  },
+  {
+    "questionId": "iot102-179",
+    "slideNumber": 179,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "sensors-actuators",
+      "electronics-circuits",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-180",
+    "slideNumber": 180,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-181",
+    "slideNumber": 181,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "networking-protocols"
+    ]
+  },
+  {
+    "questionId": "iot102-182",
+    "slideNumber": 182,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-183",
+    "slideNumber": 183,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-184",
+    "slideNumber": 184,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino"
+    ]
+  },
+  {
+    "questionId": "iot102-185",
+    "slideNumber": 185,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-186",
+    "slideNumber": 186,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "networking-protocols"
+    ]
+  },
+  {
+    "questionId": "iot102-187",
+    "slideNumber": 187,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-188",
+    "slideNumber": 188,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "electronics-circuits",
+      "networking-protocols",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-189",
+    "slideNumber": 189,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-190",
+    "slideNumber": 190,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "networking-protocols",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-191",
+    "slideNumber": 191,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-192",
+    "slideNumber": 192,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-193",
+    "slideNumber": 193,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-194",
+    "slideNumber": 194,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-195",
+    "slideNumber": 195,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "iot-architecture",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-196",
+    "slideNumber": 196,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "sensors-actuators",
+      "networking-protocols",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-197",
+    "slideNumber": 197,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "uncategorized"
+    ]
+  },
+  {
+    "questionId": "iot102-198",
+    "slideNumber": 198,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino",
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-199",
+    "slideNumber": 199,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "uncategorized"
+    ]
+  },
+  {
+    "questionId": "iot102-200",
+    "slideNumber": 200,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino",
+      "iot-architecture",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-201",
+    "slideNumber": 201,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-202",
+    "slideNumber": 202,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "data-structures"
+    ]
+  },
+  {
+    "questionId": "iot102-203",
+    "slideNumber": 203,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "data-structures"
+    ]
+  },
+  {
+    "questionId": "iot102-204",
+    "slideNumber": 204,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino",
+      "sensors-actuators"
+    ]
+  },
+  {
+    "questionId": "iot102-205",
+    "slideNumber": 205,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino",
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-206",
+    "slideNumber": 206,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino"
+    ]
+  },
+  {
+    "questionId": "iot102-207",
+    "slideNumber": 207,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "sensors-actuators",
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-208",
+    "slideNumber": 208,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-209",
+    "slideNumber": 209,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino",
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-210",
+    "slideNumber": 210,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "arduino",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-211",
+    "slideNumber": 211,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-212",
+    "slideNumber": 212,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "sensors-actuators"
+    ]
+  },
+  {
+    "questionId": "iot102-213",
+    "slideNumber": 213,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-214",
+    "slideNumber": 214,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "sensors-actuators"
+    ]
+  },
+  {
+    "questionId": "iot102-215",
+    "slideNumber": 215,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "iot-architecture",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-216",
+    "slideNumber": 216,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-217",
+    "slideNumber": 217,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "sensors-actuators",
+      "networking-protocols"
+    ]
+  },
+  {
+    "questionId": "iot102-218",
+    "slideNumber": 218,
+    "sourceSectionId": "section-short-answer",
+    "topicIds": [
+      "sensors-actuators",
+      "electronics-circuits",
+      "networking-protocols"
+    ]
+  },
+  {
+    "questionId": "iot102-220",
+    "slideNumber": 220,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "networking-protocols",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-221",
+    "slideNumber": 221,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "uncategorized"
+    ]
+  },
+  {
+    "questionId": "iot102-222",
+    "slideNumber": 222,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "sensors-actuators",
+      "networking-protocols",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-223",
+    "slideNumber": 223,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "sensors-actuators",
+      "networking-protocols",
+      "iot-architecture",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-224",
+    "slideNumber": 224,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-225",
+    "slideNumber": 225,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "arduino",
+      "networking-protocols",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-226",
+    "slideNumber": 226,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "arduino",
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-227",
+    "slideNumber": 227,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "uncategorized"
+    ]
+  },
+  {
+    "questionId": "iot102-228",
+    "slideNumber": 228,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-229",
+    "slideNumber": 229,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-230",
+    "slideNumber": 230,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "networking-protocols"
+    ]
+  },
+  {
+    "questionId": "iot102-231",
+    "slideNumber": 231,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "networking-protocols"
+    ]
+  },
+  {
+    "questionId": "iot102-232",
+    "slideNumber": 232,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "arduino",
+      "sensors-actuators",
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-233",
+    "slideNumber": 233,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "uncategorized"
+    ]
+  },
+  {
+    "questionId": "iot102-234",
+    "slideNumber": 234,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "arduino",
+      "electronics-circuits",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-235",
+    "slideNumber": 235,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "arduino",
+      "electronics-circuits",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-236",
+    "slideNumber": 236,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "networking-protocols"
+    ]
+  },
+  {
+    "questionId": "iot102-237",
+    "slideNumber": 237,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "iot-architecture",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-238",
+    "slideNumber": 238,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "data-structures"
+    ]
+  },
+  {
+    "questionId": "iot102-239",
+    "slideNumber": 239,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "arduino",
+      "electronics-circuits",
+      "data-structures"
+    ]
+  },
+  {
+    "questionId": "iot102-240",
+    "slideNumber": 240,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-241",
+    "slideNumber": 241,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "sensors-actuators"
+    ]
+  },
+  {
+    "questionId": "iot102-242",
+    "slideNumber": 242,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "electronics-circuits",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-243",
+    "slideNumber": 243,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "sensors-actuators",
+      "iot-architecture",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-244",
+    "slideNumber": 244,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "networking-protocols",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-245",
+    "slideNumber": 245,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "networking-protocols",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-246",
+    "slideNumber": 246,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "electronics-circuits",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-247",
+    "slideNumber": 247,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "sensors-actuators",
+      "electronics-circuits",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-248",
+    "slideNumber": 248,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "electronics-circuits",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-249",
+    "slideNumber": 249,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-250",
+    "slideNumber": 250,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "sensors-actuators",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-251",
+    "slideNumber": 251,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "arduino"
+    ]
+  },
+  {
+    "questionId": "iot102-252",
+    "slideNumber": 252,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "networking-protocols",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-253",
+    "slideNumber": 253,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "sensors-actuators",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-254",
+    "slideNumber": 254,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "sensors-actuators",
+      "electronics-circuits",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-255",
+    "slideNumber": 255,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "arduino"
+    ]
+  },
+  {
+    "questionId": "iot102-256",
+    "slideNumber": 256,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "programming",
+      "data-structures"
+    ]
+  },
+  {
+    "questionId": "iot102-257",
+    "slideNumber": 257,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "uncategorized"
+    ]
+  },
+  {
+    "questionId": "iot102-258",
+    "slideNumber": 258,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "arduino",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-259",
+    "slideNumber": 259,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "arduino",
+      "networking-protocols"
+    ]
+  },
+  {
+    "questionId": "iot102-260",
+    "slideNumber": 260,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "arduino"
+    ]
+  },
+  {
+    "questionId": "iot102-261",
+    "slideNumber": 261,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "iot-architecture",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-262",
+    "slideNumber": 262,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "arduino"
+    ]
+  },
+  {
+    "questionId": "iot102-263",
+    "slideNumber": 263,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "arduino",
+      "sensors-actuators",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-264",
+    "slideNumber": 264,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "arduino",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-265",
+    "slideNumber": 265,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "networking-protocols"
+    ]
+  },
+  {
+    "questionId": "iot102-266",
+    "slideNumber": 266,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "sensors-actuators",
+      "electronics-circuits",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-267",
+    "slideNumber": 267,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "networking-protocols",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-268",
+    "slideNumber": 268,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "uncategorized"
+    ]
+  },
+  {
+    "questionId": "iot102-269",
+    "slideNumber": 269,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "uncategorized"
+    ]
+  },
+  {
+    "questionId": "iot102-270",
+    "slideNumber": 270,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "arduino",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-271",
+    "slideNumber": 271,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "uncategorized"
+    ]
+  },
+  {
+    "questionId": "iot102-272",
+    "slideNumber": 272,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "arduino",
+      "electronics-circuits",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-273",
+    "slideNumber": 273,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "networking-protocols",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-274",
+    "slideNumber": 274,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "arduino",
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-275",
+    "slideNumber": 275,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "networking-protocols"
+    ]
+  },
+  {
+    "questionId": "iot102-276",
+    "slideNumber": 276,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "arduino",
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-277",
+    "slideNumber": 277,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "arduino",
+      "electronics-circuits",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-278",
+    "slideNumber": 278,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "networking-protocols",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-279",
+    "slideNumber": 279,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "networking-protocols",
+      "iot-architecture",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-280",
+    "slideNumber": 280,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "arduino",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-281",
+    "slideNumber": 281,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "arduino",
+      "iot-architecture",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-282",
+    "slideNumber": 282,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "arduino",
+      "iot-architecture",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-283",
+    "slideNumber": 283,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "iot-architecture",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-284",
+    "slideNumber": 284,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "networking-protocols"
+    ]
+  },
+  {
+    "questionId": "iot102-285",
+    "slideNumber": 285,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "arduino",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-286",
+    "slideNumber": 286,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-287",
+    "slideNumber": 287,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "networking-protocols",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-288",
+    "slideNumber": 288,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "uncategorized"
+    ]
+  },
+  {
+    "questionId": "iot102-289",
+    "slideNumber": 289,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-290",
+    "slideNumber": 290,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-291",
+    "slideNumber": 291,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "sensors-actuators",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-292",
+    "slideNumber": 292,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "networking-protocols",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-293",
+    "slideNumber": 293,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "networking-protocols",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-294",
+    "slideNumber": 294,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "uncategorized"
+    ]
+  },
+  {
+    "questionId": "iot102-295",
+    "slideNumber": 295,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "arduino",
+      "networking-protocols"
+    ]
+  },
+  {
+    "questionId": "iot102-296",
+    "slideNumber": 296,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "iot-architecture",
+      "data-structures"
+    ]
+  },
+  {
+    "questionId": "iot102-297",
+    "slideNumber": 297,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "uncategorized"
+    ]
+  },
+  {
+    "questionId": "iot102-298",
+    "slideNumber": 298,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "arduino",
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-299",
+    "slideNumber": 299,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "sensors-actuators"
+    ]
+  },
+  {
+    "questionId": "iot102-300",
+    "slideNumber": 300,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "electronics-circuits",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-301",
+    "slideNumber": 301,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-302",
+    "slideNumber": 302,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-303",
+    "slideNumber": 303,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "networking-protocols"
+    ]
+  },
+  {
+    "questionId": "iot102-304",
+    "slideNumber": 304,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "sensors-actuators",
+      "networking-protocols",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-305",
+    "slideNumber": 305,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-306",
+    "slideNumber": 306,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "networking-protocols"
+    ]
+  },
+  {
+    "questionId": "iot102-307",
+    "slideNumber": 307,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-308",
+    "slideNumber": 308,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "networking-protocols",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-309",
+    "slideNumber": 309,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "sensors-actuators"
+    ]
+  },
+  {
+    "questionId": "iot102-310",
+    "slideNumber": 310,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "networking-protocols"
+    ]
+  },
+  {
+    "questionId": "iot102-311",
+    "slideNumber": 311,
+    "sourceSectionId": "section-long-answer",
+    "topicIds": [
+      "arduino",
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-313",
+    "slideNumber": 313,
+    "sourceSectionId": "section-unlabeled",
+    "topicIds": [
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-314",
+    "slideNumber": 314,
+    "sourceSectionId": "section-unlabeled",
+    "topicIds": [
+      "electronics-circuits",
+      "networking-protocols",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-315",
+    "slideNumber": 315,
+    "sourceSectionId": "section-unlabeled",
+    "topicIds": [
+      "arduino",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-316",
+    "slideNumber": 316,
+    "sourceSectionId": "section-unlabeled",
+    "topicIds": [
+      "iot-architecture",
+      "data-structures"
+    ]
+  },
+  {
+    "questionId": "iot102-317",
+    "slideNumber": 317,
+    "sourceSectionId": "section-unlabeled",
+    "topicIds": [
+      "sensors-actuators",
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-318",
+    "slideNumber": 318,
+    "sourceSectionId": "section-unlabeled",
+    "topicIds": [
+      "networking-protocols",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-319",
+    "slideNumber": 319,
+    "sourceSectionId": "section-unlabeled",
+    "topicIds": [
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-320",
+    "slideNumber": 320,
+    "sourceSectionId": "section-unlabeled",
+    "topicIds": [
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-321",
+    "slideNumber": 321,
+    "sourceSectionId": "section-unlabeled",
+    "topicIds": [
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-322",
+    "slideNumber": 322,
+    "sourceSectionId": "section-unlabeled",
+    "topicIds": [
+      "arduino",
+      "networking-protocols"
+    ]
+  },
+  {
+    "questionId": "iot102-323",
+    "slideNumber": 323,
+    "sourceSectionId": "section-unlabeled",
+    "topicIds": [
+      "iot-architecture",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-324",
+    "slideNumber": 324,
+    "sourceSectionId": "section-unlabeled",
+    "topicIds": [
+      "networking-protocols",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-325",
+    "slideNumber": 325,
+    "sourceSectionId": "section-unlabeled",
+    "topicIds": [
+      "sensors-actuators",
+      "networking-protocols",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-326",
+    "slideNumber": 326,
+    "sourceSectionId": "section-unlabeled",
+    "topicIds": [
+      "sensors-actuators",
+      "networking-protocols",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-327",
+    "slideNumber": 327,
+    "sourceSectionId": "section-unlabeled",
+    "topicIds": [
+      "arduino",
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-328",
+    "slideNumber": 328,
+    "sourceSectionId": "section-unlabeled",
+    "topicIds": [
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-329",
+    "slideNumber": 329,
+    "sourceSectionId": "section-unlabeled",
+    "topicIds": [
+      "networking-protocols",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-330",
+    "slideNumber": 330,
+    "sourceSectionId": "section-unlabeled",
+    "topicIds": [
+      "iot-architecture",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-331",
+    "slideNumber": 331,
+    "sourceSectionId": "section-unlabeled",
+    "topicIds": [
+      "arduino",
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-332",
+    "slideNumber": 332,
+    "sourceSectionId": "section-unlabeled",
+    "topicIds": [
+      "networking-protocols",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-333",
+    "slideNumber": 333,
+    "sourceSectionId": "section-unlabeled",
+    "topicIds": [
+      "arduino",
+      "sensors-actuators",
+      "electronics-circuits",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-334",
+    "slideNumber": 334,
+    "sourceSectionId": "section-unlabeled",
+    "topicIds": [
+      "uncategorized"
+    ]
+  },
+  {
+    "questionId": "iot102-335",
+    "slideNumber": 335,
+    "sourceSectionId": "section-unlabeled",
+    "topicIds": [
+      "arduino",
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-336",
+    "slideNumber": 336,
+    "sourceSectionId": "section-unlabeled",
+    "topicIds": [
+      "sensors-actuators",
+      "electronics-circuits",
+      "networking-protocols"
+    ]
+  },
+  {
+    "questionId": "iot102-337",
+    "slideNumber": 337,
+    "sourceSectionId": "section-unlabeled",
+    "topicIds": [
+      "arduino"
+    ]
+  },
+  {
+    "questionId": "iot102-338",
+    "slideNumber": 338,
+    "sourceSectionId": "section-unlabeled",
+    "topicIds": [
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-339",
+    "slideNumber": 339,
+    "sourceSectionId": "section-unlabeled",
+    "topicIds": [
+      "networking-protocols"
+    ]
+  },
+  {
+    "questionId": "iot102-340",
+    "slideNumber": 340,
+    "sourceSectionId": "section-unlabeled",
+    "topicIds": [
+      "sensors-actuators",
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-341",
+    "slideNumber": 341,
+    "sourceSectionId": "section-unlabeled",
+    "topicIds": [
+      "uncategorized"
+    ]
+  },
+  {
+    "questionId": "iot102-342",
+    "slideNumber": 342,
+    "sourceSectionId": "section-unlabeled",
+    "topicIds": [
+      "arduino",
+      "sensors-actuators"
+    ]
+  },
+  {
+    "questionId": "iot102-343",
+    "slideNumber": 343,
+    "sourceSectionId": "section-unlabeled",
+    "topicIds": [
+      "arduino",
+      "sensors-actuators"
+    ]
+  },
+  {
+    "questionId": "iot102-344",
+    "slideNumber": 344,
+    "sourceSectionId": "section-unlabeled",
+    "topicIds": [
+      "arduino",
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-345",
+    "slideNumber": 345,
+    "sourceSectionId": "section-unlabeled",
+    "topicIds": [
+      "iot-architecture",
+      "programming"
+    ]
+  },
+  {
+    "questionId": "iot102-346",
+    "slideNumber": 346,
+    "sourceSectionId": "section-unlabeled",
+    "topicIds": [
+      "networking-protocols",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-348",
+    "slideNumber": 348,
+    "sourceSectionId": "section-not-questions",
+    "topicIds": [
+      "electronics-circuits"
+    ]
+  },
+  {
+    "questionId": "iot102-349",
+    "slideNumber": 349,
+    "sourceSectionId": "section-not-questions",
+    "topicIds": [
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-350",
+    "slideNumber": 350,
+    "sourceSectionId": "section-not-questions",
+    "topicIds": [
+      "arduino"
+    ]
+  },
+  {
+    "questionId": "iot102-351",
+    "slideNumber": 351,
+    "sourceSectionId": "section-not-questions",
+    "topicIds": [
+      "arduino"
+    ]
+  },
+  {
+    "questionId": "iot102-352",
+    "slideNumber": 352,
+    "sourceSectionId": "section-not-questions",
+    "topicIds": [
+      "networking-protocols",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-353",
+    "slideNumber": 353,
+    "sourceSectionId": "section-not-questions",
+    "topicIds": [
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-354",
+    "slideNumber": 354,
+    "sourceSectionId": "section-not-questions",
+    "topicIds": [
+      "arduino"
+    ]
+  },
+  {
+    "questionId": "iot102-355",
+    "slideNumber": 355,
+    "sourceSectionId": "section-not-questions",
+    "topicIds": [
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-356",
+    "slideNumber": 356,
+    "sourceSectionId": "section-not-questions",
+    "topicIds": [
+      "uncategorized"
+    ]
+  },
+  {
+    "questionId": "iot102-357",
+    "slideNumber": 357,
+    "sourceSectionId": "section-not-questions",
+    "topicIds": [
+      "arduino"
+    ]
+  },
+  {
+    "questionId": "iot102-358",
+    "slideNumber": 358,
+    "sourceSectionId": "section-not-questions",
+    "topicIds": [
+      "sensors-actuators",
+      "electronics-circuits",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-359",
+    "slideNumber": 359,
+    "sourceSectionId": "section-not-questions",
+    "topicIds": [
+      "sensors-actuators"
+    ]
+  },
+  {
+    "questionId": "iot102-360",
+    "slideNumber": 360,
+    "sourceSectionId": "section-not-questions",
+    "topicIds": [
+      "sensors-actuators",
+      "electronics-circuits",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-361",
+    "slideNumber": 361,
+    "sourceSectionId": "section-not-questions",
+    "topicIds": [
+      "uncategorized"
+    ]
+  },
+  {
+    "questionId": "iot102-362",
+    "slideNumber": 362,
+    "sourceSectionId": "section-not-questions",
+    "topicIds": [
+      "sensors-actuators",
+      "electronics-circuits",
+      "iot-architecture"
+    ]
+  },
+  {
+    "questionId": "iot102-364",
+    "slideNumber": 364,
+    "sourceSectionId": "section-true-false",
+    "topicIds": [
+      "arduino"
+    ]
+  },
+  {
+    "questionId": "iot102-365",
+    "slideNumber": 365,
+    "sourceSectionId": "section-true-false",
+    "topicIds": [
+      "arduino"
+    ]
+  }
+]

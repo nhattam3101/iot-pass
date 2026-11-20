@@ -1,0 +1,28 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.vite/
+
+# Python local environment and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# OAuth credentials and local tokens — never commit these
+credentials.json
+token.json
+*.credentials.json
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Editor / OS noise
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.log
