@@ -69,7 +69,7 @@ Website lưu tiến độ, câu đánh dấu, lịch sử thi và chỉnh sửa 
 ## Tính năng
 
 - Dashboard, tiến độ theo topic và lịch sử thi.
-- Practice Mode: text/code, feedback sau khi chọn, explanation, ảnh slide khi cần.
+- Practice Mode: text/code, feedback sau khi chọn, explanation, ảnh slide khi cần; chọn khoảng câu theo thứ tự ảnh nguồn (ví dụ `0–100`).
 - Mock Exam: 50 câu duy nhất, timer cấu hình, review flags, tự nộp, chấm thang 10.
 - Ôn câu sai/câu đánh dấu, lọc theo topic.
 - Duyệt/search/filter ngân hàng; chỉnh sửa bản dữ liệu ứng dụng trong browser.

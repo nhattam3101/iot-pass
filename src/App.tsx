@@ -208,9 +208,33 @@ function PracticePage({ questions, topics, progress, setProgress, filter, setFil
   const [index, setIndex] = useState(0)
   const [selected, setSelected] = useState<string | null>(null)
   const [revealed, setRevealed] = useState(false)
-  const pool = useMemo(() => questions.filter((q) => q.correctAnswer && !q.needsReview && (!filter.topicId || q.topicIds.includes(filter.topicId)) && (!filter.ids || filter.ids.includes(q.id))), [questions, filter])
-  useEffect(() => { setIndex(0); setSelected(null); setRevealed(false) }, [filter])
+  const sourcePool = useMemo(() => questions.filter((q) => q.correctAnswer && !q.needsReview && (!filter.topicId || q.topicIds.includes(filter.topicId)) && (!filter.ids || filter.ids.includes(q.id))), [questions, filter])
+  const [range, setRange] = useState(() => ({ start: 0, end: sourcePool.length }))
+  const [rangeDraft, setRangeDraft] = useState(() => ({ start: '0', end: String(sourcePool.length) }))
+  const [rangeError, setRangeError] = useState('')
+  const pool = useMemo(() => sourcePool.slice(range.start, range.end), [sourcePool, range])
+  useEffect(() => {
+    const fullRange = { start: 0, end: sourcePool.length }
+    setRange(fullRange)
+    setRangeDraft({ start: '0', end: String(sourcePool.length) })
+    setRangeError('')
+  }, [filter, sourcePool.length])
+  useEffect(() => { setIndex(0); setSelected(null); setRevealed(false) }, [filter, range])
   const question = pool[index]
+  const applyRange = () => {
+    const start = Number(rangeDraft.start)
+    const end = Number(rangeDraft.end)
+    if (!Number.isInteger(start) || !Number.isInteger(end)) {
+      setRangeError('Start and end must be whole numbers.')
+      return
+    }
+    if (start < 0 || end > sourcePool.length || start >= end) {
+      setRangeError(`Use a range from 0 to ${sourcePool.length}, with start smaller than end.`)
+      return
+    }
+    setRange({ start, end })
+    setRangeError('')
+  }
   const answer = (key: string) => {
     if (!question || revealed) return
     setSelected(key); setRevealed(true)
@@ -218,7 +242,7 @@ function PracticePage({ questions, topics, progress, setProgress, filter, setFil
   }
   const next = () => { setIndex((index + 1) % pool.length); setSelected(null); setRevealed(false) }
   const toggleStar = () => question && setProgress((current) => ({ ...current, starred: current.starred.includes(question.id) ? current.starred.filter((id) => id !== question.id) : [...current.starred, question.id] }))
-  return <><PageTitle eyebrow="Practice mode" title={filter.title} description="Answer first; feedback, source answer, explanation, and original slide appear only after your choice." action={<select value={filter.topicId || ''} onChange={(event) => setFilter({ topicId: event.target.value || undefined, title: topics.find((t) => t.id === event.target.value)?.name || 'Verified questions' })} className="min-h-11 rounded-xl border border-slate-700 bg-slate-900 px-4 text-sm text-slate-200"><option value="">All topics</option>{technicalTopics.map((topic) => <option key={topic.id} value={topic.id}>{topic.name}</option>)}</select>} />{question ? <div className="mx-auto max-w-4xl"><div className="mb-4 flex items-center justify-between text-sm text-slate-500"><span>Question {index + 1} of {pool.length}</span><button onClick={toggleStar} className={cn('inline-flex items-center gap-2 rounded-lg px-3 py-2', progress.starred.includes(question.id) ? 'bg-amber-400/10 text-amber-300' : 'hover:bg-slate-800')}><Star size={17} fill={progress.starred.includes(question.id) ? 'currentColor' : 'none'} /> Review later</button></div><QuestionCard question={question} selected={selected} revealed={revealed} onAnswer={answer} /><div className="mt-5 flex justify-end"><button onClick={next} disabled={!revealed} className="inline-flex min-h-11 items-center gap-2 rounded-xl bg-emerald-400 px-5 font-semibold text-emerald-950 disabled:cursor-not-allowed disabled:opacity-35">Next question <ChevronRight size={18} /></button></div></div> : <Empty icon={AlertTriangle} title="No eligible questions" body="This filter has no source-verified questions available for practice." />}</>
+  return <><PageTitle eyebrow="Practice mode" title={filter.title} description="Answer first; feedback, source answer, explanation, and original slide appear only after your choice." action={<select value={filter.topicId || ''} onChange={(event) => setFilter({ topicId: event.target.value || undefined, title: topics.find((t) => t.id === event.target.value)?.name || 'Verified questions' })} className="min-h-11 rounded-xl border border-slate-700 bg-slate-900 px-4 text-sm text-slate-200"><option value="">All topics</option>{technicalTopics.map((topic) => <option key={topic.id} value={topic.id}>{topic.name}</option>)}</select>} /><div className="panel mx-auto mb-5 max-w-4xl rounded-2xl p-4 sm:p-5"><div className="flex flex-col justify-between gap-4 md:flex-row md:items-end"><div><div className="font-semibold text-slate-200">Question range (source order)</div><p className="mt-1 text-sm text-slate-500">Start is included and end is excluded. For example, 0–100 selects the first 100 of {sourcePool.length} questions.</p></div><div className="grid grid-cols-[1fr_auto_1fr_auto] items-end gap-2"><label className="text-xs font-semibold text-slate-400">From<input type="number" min={0} max={Math.max(0, sourcePool.length - 1)} value={rangeDraft.start} onChange={(event) => setRangeDraft({ ...rangeDraft, start: event.target.value })} className="mt-1 min-h-11 w-full min-w-0 rounded-xl border border-slate-700 bg-slate-950 px-3 text-base text-slate-100" /></label><span className="pb-3 text-slate-600">–</span><label className="text-xs font-semibold text-slate-400">To<input type="number" min={1} max={sourcePool.length} value={rangeDraft.end} onChange={(event) => setRangeDraft({ ...rangeDraft, end: event.target.value })} className="mt-1 min-h-11 w-full min-w-0 rounded-xl border border-slate-700 bg-slate-950 px-3 text-base text-slate-100" /></label><button onClick={applyRange} disabled={!sourcePool.length} className="min-h-11 rounded-xl bg-cyan-400 px-4 font-bold text-cyan-950 disabled:cursor-not-allowed disabled:opacity-40">Apply</button></div></div>{rangeError && <div role="alert" className="mt-3 text-sm font-medium text-rose-300">{rangeError}</div>}{sourcePool.length > 0 && !rangeError && <div className="mt-3 text-xs text-emerald-300">Active range: {range.start}–{range.end} · {pool.length} questions</div>}</div>{question ? <div className="mx-auto max-w-4xl"><div className="mb-4 flex items-center justify-between text-sm text-slate-500"><span>Index {range.start + index} · Question {index + 1} of {pool.length}</span><button onClick={toggleStar} className={cn('inline-flex items-center gap-2 rounded-lg px-3 py-2', progress.starred.includes(question.id) ? 'bg-amber-400/10 text-amber-300' : 'hover:bg-slate-800')}><Star size={17} fill={progress.starred.includes(question.id) ? 'currentColor' : 'none'} /> Review later</button></div><QuestionCard question={question} selected={selected} revealed={revealed} onAnswer={answer} /><div className="mt-5 flex justify-end"><button onClick={next} disabled={!revealed} className="inline-flex min-h-11 items-center gap-2 rounded-xl bg-emerald-400 px-5 font-semibold text-emerald-950 disabled:cursor-not-allowed disabled:opacity-35">Next question <ChevronRight size={18} /></button></div></div> : <Empty icon={AlertTriangle} title="No eligible questions" body="This filter has no source-verified questions available for practice." />}</>
 }
 
 function QuestionCard({ question, selected, revealed, onAnswer, hideFeedback = false }: { question: Question; selected: string | null; revealed: boolean; onAnswer: (key: string) => void; hideFeedback?: boolean }) {
