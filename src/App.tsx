@@ -14,6 +14,7 @@ import {
   Eye,
   FileJson,
   Flag,
+  Flame,
   GraduationCap,
   History,
   Home,
@@ -208,6 +209,10 @@ function PracticePage({ questions, topics, progress, setProgress, filter, setFil
   const [index, setIndex] = useState(0)
   const [selected, setSelected] = useState<string | null>(null)
   const [revealed, setRevealed] = useState(false)
+  const [retryQueue, setRetryQueue] = useState<Record<string, number>>({})
+  const [answeredCount, setAnsweredCount] = useState(0)
+  const [streak, setStreak] = useState(0)
+  const [retryId, setRetryId] = useState<string | null>(null)
   const sourcePool = useMemo(() => questions.filter((q) => q.correctAnswer && !q.needsReview && (!filter.topicId || q.topicIds.includes(filter.topicId)) && (!filter.ids || filter.ids.includes(q.id))), [questions, filter])
   const [range, setRange] = useState(() => ({ start: 0, end: sourcePool.length }))
   const [rangeDraft, setRangeDraft] = useState(() => ({ start: '0', end: String(sourcePool.length) }))
@@ -219,8 +224,8 @@ function PracticePage({ questions, topics, progress, setProgress, filter, setFil
     setRangeDraft({ start: '0', end: String(sourcePool.length) })
     setRangeError('')
   }, [filter, sourcePool.length])
-  useEffect(() => { setIndex(0); setSelected(null); setRevealed(false) }, [filter, range])
-  const question = pool[index]
+  useEffect(() => { setIndex(0); setSelected(null); setRevealed(false); setRetryQueue({}); setAnsweredCount(0); setStreak(0); setRetryId(null) }, [filter, range])
+  const question = retryId ? pool.find((item) => item.id === retryId) : pool[index]
   const applyRange = () => {
     const start = Number(rangeDraft.start)
     const end = Number(rangeDraft.end)
@@ -238,11 +243,36 @@ function PracticePage({ questions, topics, progress, setProgress, filter, setFil
   const answer = (key: string) => {
     if (!question || revealed) return
     setSelected(key); setRevealed(true)
+    const isCorrect = key === question.correctAnswer
+    setStreak((current) => isCorrect ? current + 1 : 0)
+    setAnsweredCount((current) => current + 1)
+    setRetryQueue((current) => {
+      const updated = { ...current }
+      if (isCorrect) delete updated[question.id]
+      else updated[question.id] = answeredCount + 1 + 2 + Math.floor(Math.random() * 4)
+      return updated
+    })
     setProgress((current) => { const prior = current.answers[question.id]; const isCorrect = key === question.correctAnswer; return { ...current, answers: { ...current.answers, [question.id]: { selected: key, correct: isCorrect, attempts: (prior?.attempts || 0) + 1, correctCount: (prior?.correctCount || 0) + Number(isCorrect), lastAnsweredAt: new Date().toISOString() } } } })
   }
-  const next = () => { setIndex((index + 1) % pool.length); setSelected(null); setRevealed(false) }
+  const next = () => {
+    const due = Object.entries(retryQueue).filter(([id, count]) => count <= answeredCount && (id !== question?.id || pool.length === 1))
+    if (due.length) {
+      due.sort((a, b) => a[1] - b[1])
+      setRetryId(due[0][0])
+      if (!retryId) setIndex((index + 1) % pool.length)
+    } else {
+      let nextIndex = retryId ? index : (index + 1) % pool.length
+      // Avoid showing a queued question early when another question is available.
+      for (let step = 0; step < pool.length; step += 1) {
+        if (!retryQueue[pool[nextIndex].id] && (pool[nextIndex].id !== question?.id || pool.length === 1)) break
+        nextIndex = (nextIndex + 1) % pool.length
+      }
+      setIndex(nextIndex); setRetryId(null)
+    }
+    setSelected(null); setRevealed(false)
+  }
   const toggleStar = () => question && setProgress((current) => ({ ...current, starred: current.starred.includes(question.id) ? current.starred.filter((id) => id !== question.id) : [...current.starred, question.id] }))
-  return <><PageTitle eyebrow="Practice mode" title={filter.title} description="Answer first; feedback, source answer, explanation, and original slide appear only after your choice." action={<select value={filter.topicId || ''} onChange={(event) => setFilter({ topicId: event.target.value || undefined, title: topics.find((t) => t.id === event.target.value)?.name || 'Verified questions' })} className="min-h-11 rounded-xl border border-slate-700 bg-slate-900 px-4 text-sm text-slate-200"><option value="">All topics</option>{technicalTopics.map((topic) => <option key={topic.id} value={topic.id}>{topic.name}</option>)}</select>} /><div className="panel mx-auto mb-5 max-w-4xl rounded-2xl p-4 sm:p-5"><div className="flex flex-col justify-between gap-4 md:flex-row md:items-end"><div><div className="font-semibold text-slate-200">Question range (source order)</div><p className="mt-1 text-sm text-slate-500">Start is included and end is excluded. For example, 0–100 selects the first 100 of {sourcePool.length} questions.</p></div><div className="grid grid-cols-[1fr_auto_1fr_auto] items-end gap-2"><label className="text-xs font-semibold text-slate-400">From<input type="number" min={0} max={Math.max(0, sourcePool.length - 1)} value={rangeDraft.start} onChange={(event) => setRangeDraft({ ...rangeDraft, start: event.target.value })} className="mt-1 min-h-11 w-full min-w-0 rounded-xl border border-slate-700 bg-slate-950 px-3 text-base text-slate-100" /></label><span className="pb-3 text-slate-600">–</span><label className="text-xs font-semibold text-slate-400">To<input type="number" min={1} max={sourcePool.length} value={rangeDraft.end} onChange={(event) => setRangeDraft({ ...rangeDraft, end: event.target.value })} className="mt-1 min-h-11 w-full min-w-0 rounded-xl border border-slate-700 bg-slate-950 px-3 text-base text-slate-100" /></label><button onClick={applyRange} disabled={!sourcePool.length} className="min-h-11 rounded-xl bg-cyan-400 px-4 font-bold text-cyan-950 disabled:cursor-not-allowed disabled:opacity-40">Apply</button></div></div>{rangeError && <div role="alert" className="mt-3 text-sm font-medium text-rose-300">{rangeError}</div>}{sourcePool.length > 0 && !rangeError && <div className="mt-3 text-xs text-emerald-300">Active range: {range.start}–{range.end} · {pool.length} questions</div>}</div>{question ? <div className="mx-auto max-w-4xl"><div className="mb-4 flex items-center justify-between text-sm text-slate-500"><span>Index {range.start + index} · Question {index + 1} of {pool.length}</span><button onClick={toggleStar} className={cn('inline-flex items-center gap-2 rounded-lg px-3 py-2', progress.starred.includes(question.id) ? 'bg-amber-400/10 text-amber-300' : 'hover:bg-slate-800')}><Star size={17} fill={progress.starred.includes(question.id) ? 'currentColor' : 'none'} /> Review later</button></div><QuestionCard question={question} selected={selected} revealed={revealed} onAnswer={answer} /><div className="mt-5 flex justify-end"><button onClick={next} disabled={!revealed} className="inline-flex min-h-11 items-center gap-2 rounded-xl bg-emerald-400 px-5 font-semibold text-emerald-950 disabled:cursor-not-allowed disabled:opacity-35">Next question <ChevronRight size={18} /></button></div></div> : <Empty icon={AlertTriangle} title="No eligible questions" body="This filter has no source-verified questions available for practice." />}</>
+  return <><PageTitle eyebrow="Practice mode" title={filter.title} description="Answer first; feedback, source answer, explanation, and original slide appear only after your choice." action={<select value={filter.topicId || ''} onChange={(event) => setFilter({ topicId: event.target.value || undefined, title: topics.find((t) => t.id === event.target.value)?.name || 'Verified questions' })} className="min-h-11 rounded-xl border border-slate-700 bg-slate-900 px-4 text-sm text-slate-200"><option value="">All topics</option>{technicalTopics.map((topic) => <option key={topic.id} value={topic.id}>{topic.name}</option>)}</select>} /><div className="panel mx-auto mb-5 max-w-4xl rounded-2xl p-4 sm:p-5"><div className="flex flex-col justify-between gap-4 md:flex-row md:items-end"><div><div className="font-semibold text-slate-200">Question range (source order)</div><p className="mt-1 text-sm text-slate-500">Start is included and end is excluded. For example, 0–100 selects the first 100 of {sourcePool.length} questions.</p></div><div className="grid grid-cols-[1fr_auto_1fr_auto] items-end gap-2"><label className="text-xs font-semibold text-slate-400">From<input type="number" min={0} max={Math.max(0, sourcePool.length - 1)} value={rangeDraft.start} onChange={(event) => setRangeDraft({ ...rangeDraft, start: event.target.value })} className="mt-1 min-h-11 w-full min-w-0 rounded-xl border border-slate-700 bg-slate-950 px-3 text-base text-slate-100" /></label><span className="pb-3 text-slate-600">–</span><label className="text-xs font-semibold text-slate-400">To<input type="number" min={1} max={sourcePool.length} value={rangeDraft.end} onChange={(event) => setRangeDraft({ ...rangeDraft, end: event.target.value })} className="mt-1 min-h-11 w-full min-w-0 rounded-xl border border-slate-700 bg-slate-950 px-3 text-base text-slate-100" /></label><button onClick={applyRange} disabled={!sourcePool.length} className="min-h-11 rounded-xl bg-cyan-400 px-4 font-bold text-cyan-950 disabled:cursor-not-allowed disabled:opacity-40">Apply</button></div></div>{rangeError && <div role="alert" className="mt-3 text-sm font-medium text-rose-300">{rangeError}</div>}{sourcePool.length > 0 && !rangeError && <div className="mt-3 text-xs text-emerald-300">Active range: {range.start}–{range.end} · {pool.length} questions</div>}</div>{question ? <div className="mx-auto max-w-4xl"><div className="mb-4 flex items-center justify-between text-sm text-slate-500"><div className="flex flex-wrap items-center gap-3"><span>Index {range.start + pool.findIndex((item) => item.id === question.id)} · Question {pool.findIndex((item) => item.id === question.id) + 1} of {pool.length}</span><span className="inline-flex items-center gap-1 font-semibold text-orange-300" title={`Every 5 correct answers earns one flame level`}><Flame size={Math.min(18 + Math.floor(streak / 5) * 3, 36)} fill={streak >= 5 ? "currentColor" : "none"} /> {streak} correct · Level {Math.floor(streak / 5)}</span></div><button onClick={toggleStar} className={cn('inline-flex items-center gap-2 rounded-lg px-3 py-2', progress.starred.includes(question.id) ? 'bg-amber-400/10 text-amber-300' : 'hover:bg-slate-800')}><Star size={17} fill={progress.starred.includes(question.id) ? 'currentColor' : 'none'} /> Review later</button></div>{(retryId || retryQueue[question.id] !== undefined) && <div className="mb-4 rounded-xl border border-amber-400/30 bg-amber-400/10 px-4 py-3 text-sm font-semibold text-amber-200">Câu bạn đã trả lời sai — hãy thử trả lời lại.</div>}<QuestionCard question={question} selected={selected} revealed={revealed} onAnswer={answer} /><div className="mt-5 flex justify-end"><button onClick={next} disabled={!revealed} className="inline-flex min-h-11 items-center gap-2 rounded-xl bg-emerald-400 px-5 font-semibold text-emerald-950 disabled:cursor-not-allowed disabled:opacity-35">Next question <ChevronRight size={18} /></button></div></div> : <Empty icon={AlertTriangle} title="No eligible questions" body="This filter has no source-verified questions available for practice." />}</>
 }
 
 function QuestionCard({ question, selected, revealed, onAnswer, hideFeedback = false }: { question: Question; selected: string | null; revealed: boolean; onAnswer: (key: string) => void; hideFeedback?: boolean }) {
