@@ -68,16 +68,18 @@ Website lưu tiến độ, câu đánh dấu, lịch sử thi và chỉnh sửa 
 
 ## Tính năng
 
-- Dashboard, tiến độ theo topic và lịch sử thi.
-- Practice Mode: text/code, feedback sau khi chọn, explanation, ảnh slide khi cần; chọn khoảng câu theo thứ tự ảnh nguồn (ví dụ `0–100`).
-- Mock Exam: 50 câu duy nhất, timer cấu hình, review flags, tự nộp, chấm thang 10.
-- Ôn câu sai/câu đánh dấu, lọc theo topic.
-- Duyệt/search/filter ngân hàng; chỉnh sửa bản dữ liệu ứng dụng trong browser.
-- Export/import progress, question bank và exam history.
+- Overview: gợi ý "Up next" (tiếp tục thi/luyện, sửa câu sai, topic yếu nhất), độ phủ, độ chính xác, mastery theo topic, lịch sử điểm thi, câu trả lời gần đây.
+- Practice: phím tắt `A–D`/`1–4`, `Enter`, `S` (slide), `B`/`*` (bookmark); phản hồi tức thì + giải thích; lọc topic, khoảng câu (ví dụ `0–100`), chỉ câu đã bookmark. Câu sai quay lại sau 2–5 câu (tối đa 3 lần/phiên). Streak: mỗi 5 câu đúng liên tiếp lên một mức lửa. Phiên luyện được lưu, refresh không mất.
+- Mock Exam: 50 câu duy nhất, timer, bản đồ câu hỏi, đánh dấu (F), tự lưu, xác nhận nộp, tự nộp khi hết giờ, kết quả theo topic và review chi tiết; mở lại các lần thi cũ.
+- Review: câu sai / đã bookmark, tiến độ "recovered", lọc topic, luyện lại một chạm.
+- Question bank: tìm kiếm, lọc trạng thái/OCR/đã sửa, so sánh slide gốc + Speaker Notes, chỉnh sửa local (khóa mặc định, có revert).
+- Export/import progress (có validate), question bank edits và exam history.
+
+Thiết kế: xem `DESIGN_SYSTEM.md`; audit: `UI_UX_AUDIT.md`; kết quả QA: `QA_FINAL_REPORT.md`.
 
 ## Kiểm thử đã có
 
-`tests/data-validation.test.ts` kiểm tra mapping, ID, đáp án/options, ảnh và topic. `tests/exam.test.ts` kiểm tra đủ 50 câu, không trùng ID/nội dung, không tạo câu giả khi thiếu và chấm điểm.
+`tests/data-validation.test.ts` kiểm tra mapping, ID, đáp án/options, ảnh và topic. `tests/exam.test.ts` kiểm tra đủ 50 câu, không trùng ID/nội dung, không tạo câu giả khi thiếu và chấm điểm. `tests/practice.test.ts` (retry queue, streak), `tests/storage.test.ts` (lưu/nhập dữ liệu), `tests/exam-ui.test.tsx` (không lộ đáp án khi thi), `tests/source-safety.test.ts` (không lọt file OAuth, dữ liệu nguồn không đổi).
 
 ---
 

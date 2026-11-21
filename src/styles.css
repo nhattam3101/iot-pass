@@ -1,71 +1,126 @@
+@font-face {
+  font-family: "Atkinson Hyperlegible Next";
+  font-style: normal;
+  font-weight: 200 800;
+  font-display: swap;
+  src: url("./assets/fonts/atkinson-hyperlegible-next-latin-ext.woff2") format("woff2");
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: "Atkinson Hyperlegible Next";
+  font-style: normal;
+  font-weight: 200 800;
+  font-display: swap;
+  src: url("./assets/fonts/atkinson-hyperlegible-next-latin.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+  font-family: "Atkinson Hyperlegible Mono";
+  font-style: normal;
+  font-weight: 200 800;
+  font-display: swap;
+  src: url("./assets/fonts/atkinson-hyperlegible-mono-latin-ext.woff2") format("woff2");
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C4, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+  font-family: "Atkinson Hyperlegible Mono";
+  font-style: normal;
+  font-weight: 200 800;
+  font-display: swap;
+  src: url("./assets/fonts/atkinson-hyperlegible-mono-latin.woff2") format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
+/* Design tokens — see DESIGN_SYSTEM.md. RGB channels so Tailwind can apply alpha. */
 :root {
-  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  color: #e7edf8;
-  background: #080d18;
+  --canvas: 10 13 18;
+  --surface: 16 20 27;
+  --raised: 22 28 37;
+  --overlay: 30 37 48;
+  --line: 38 46 58;
+  --line-strong: 54 64 79;
+  --ink: 233 237 242;
+  --ink-2: 176 186 198;
+  --ink-3: 138 149 163;
+  --accent: 45 212 191;
+  --accent-strong: 94 234 212;
+  --accent-ink: 4 32 28;
+  --ok: 52 211 153;
+  --bad: 251 113 133;
+  --warn: 251 191 36;
+  --fire: 251 146 60;
+
+  color-scheme: dark;
+  font-family: "Atkinson Hyperlegible Next", ui-sans-serif, system-ui, sans-serif;
+  color: rgb(var(--ink));
+  background: rgb(var(--canvas));
   font-synthesis: none;
   text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
 }
 
 * { box-sizing: border-box; }
-html { background: #080d18; }
+html { background: rgb(var(--canvas)); scrollbar-color: rgb(var(--line-strong)) transparent; }
 body { min-width: 320px; min-height: 100vh; margin: 0; }
-button, input, select, textarea { font: inherit; }
-button { cursor: pointer; }
-button:focus-visible, input:focus-visible, select:focus-visible, textarea:focus-visible, a:focus-visible {
-  outline: 2px solid #34d399;
-  outline-offset: 2px;
-}
-
-::selection { background: #0f766e; color: white; }
+button, input, select, textarea { font: inherit; color: inherit; }
+button:not(:disabled), [role="button"], summary, label[for] { cursor: pointer; }
+:focus-visible { outline: 2px solid rgb(var(--accent)); outline-offset: 2px; border-radius: 6px; }
+/* Programmatic focus targets (headings moved to on navigation) need no ring. */
+[tabindex="-1"]:focus { outline: none; }
+::selection { background: rgb(var(--accent) / .32); color: rgb(var(--ink)); }
+::placeholder { color: rgb(var(--ink-3)); }
 ::-webkit-scrollbar { width: 10px; height: 10px; }
-::-webkit-scrollbar-track { background: #0b1220; }
-::-webkit-scrollbar-thumb { background: #29364b; border-radius: 999px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: rgb(var(--line-strong)); border-radius: 999px; border: 2px solid rgb(var(--canvas)); }
+code, pre, kbd { font-family: "Atkinson Hyperlegible Mono", ui-monospace, monospace; }
 
-.grid-texture {
-  background-image:
-    linear-gradient(rgba(148, 163, 184, .025) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(148, 163, 184, .025) 1px, transparent 1px);
-  background-size: 28px 28px;
+dialog { color: inherit; }
+dialog::backdrop { background: rgb(4 6 9 / .72); }
+
+@layer components {
+  .field {
+    @apply min-h-11 w-full min-w-0 rounded-control border border-line bg-canvas px-3 text-[15px] text-ink transition-colors duration-150;
+  }
+  .field:hover { @apply border-line-strong; }
+  .field:focus-visible { @apply border-accent outline-none ring-2 ring-accent/30; }
+  .field:disabled { @apply cursor-not-allowed border-line/60 bg-surface text-ink-2; }
+
+  /* Answer option card. States: idle → hover → selected → (practice) correct / wrong / dimmed. */
+  .option {
+    @apply relative flex w-full items-start gap-3.5 rounded-card border border-line bg-raised/60 px-4 py-3.5 text-left text-[16px] leading-relaxed text-ink transition-[border-color,background-color,transform] duration-150 ease-out sm:px-5 sm:py-4 sm:text-[17px];
+  }
+  .option:not(:disabled):hover { @apply border-line-strong bg-raised; }
+  .option:not(:disabled):active { transform: scale(.995); }
+  .option .key {
+    @apply grid size-8 shrink-0 place-items-center rounded-[8px] border border-line-strong bg-surface font-mono text-sm font-semibold text-ink-2 transition-colors duration-150;
+  }
+  .option[data-state="selected"] { @apply border-accent bg-accent/10; }
+  .option[data-state="selected"] .key { @apply border-accent bg-accent text-accent-ink; }
+  .option[data-state="correct"] { @apply border-ok/70 bg-ok/10; }
+  .option[data-state="correct"] .key { @apply border-ok bg-ok text-accent-ink; }
+  .option[data-state="wrong"] { @apply border-bad/70 bg-bad/10; }
+  .option[data-state="wrong"] .key { @apply border-bad bg-bad text-[#2a0710]; }
+  .option[data-state="dimmed"] { @apply opacity-60; }
+  .option:disabled { cursor: default; }
 }
 
-.panel {
-  border: 1px solid rgba(148, 163, 184, .14);
-  background: linear-gradient(145deg, rgba(20, 29, 46, .9), rgba(12, 18, 31, .92));
-  box-shadow: 0 18px 55px rgba(0, 0, 0, .18);
-}
+/* Motion: short, ease-out, only to show change. Everything collapses under reduced motion. */
+@keyframes enter { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+@keyframes flare { 0% { transform: scale(1); } 40% { transform: scale(1.28); } 100% { transform: scale(1); } }
+@keyframes pop { 0% { transform: scale(.96); opacity: .4; } 100% { transform: none; opacity: 1; } }
+.animate-enter { animation: enter .22s cubic-bezier(.16, 1, .3, 1) both; }
+.animate-flare { animation: flare .6s cubic-bezier(.16, 1, .3, 1) 1; }
+.animate-pop { animation: pop .2s cubic-bezier(.16, 1, .3, 1) both; }
 
-.option-button {
-  width: 100%;
-  display: flex;
-  align-items: flex-start;
-  gap: .85rem;
-  border: 1px solid rgba(148, 163, 184, .16);
-  background: rgba(15, 23, 42, .72);
-  border-radius: .85rem;
-  padding: .85rem 1rem;
-  text-align: left;
-  color: #dce5f3;
-  transition: .16s ease;
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: .01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: .01ms !important;
+    scroll-behavior: auto !important;
+  }
 }
-.option-button:hover { border-color: rgba(52, 211, 153, .42); background: rgba(20, 35, 51, .92); }
-.option-button.selected { border-color: #22c55e; background: rgba(5, 150, 105, .13); }
-.option-button.correct { border-color: #34d399; background: rgba(16, 185, 129, .15); }
-.option-button.wrong { border-color: #fb7185; background: rgba(244, 63, 94, .13); }
-
-.data-button {
-  display: inline-flex;
-  min-height: 2.75rem;
-  align-items: center;
-  gap: .5rem;
-  border: 1px solid #334155;
-  border-radius: .75rem;
-  padding: 0 .9rem;
-  color: #cbd5e1;
-  font-size: .875rem;
-  font-weight: 600;
-}
-.data-button:hover { border-color: rgba(52, 211, 153, .5); color: #6ee7b7; background: rgba(16, 185, 129, .06); }
